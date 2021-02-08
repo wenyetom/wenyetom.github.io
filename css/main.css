@@ -3114,7 +3114,6 @@ mark.search-keyword {
 }
 /*---------- 顏色 ----------*/
 body {
-  background: url("/images/background1080p.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -3190,7 +3189,7 @@ p {
 .footer,
 .footer a {
   margin: 10px 0 15px 0;
-  color: #fff;
+  color: #555;
 }
 /*----- 子頁面(文章列表、分類、標籤) -----*/
 .posts-collapse .post-content .collection-year {
