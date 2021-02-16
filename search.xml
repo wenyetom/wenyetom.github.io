@@ -1455,8 +1455,8 @@
 <p>不意外的話會一直更新，但頻率就不一定了。</p>
 <a id="more"></a>
 
-<h2 id="統計"><a href="#統計" class="headerlink" title="統計"></a><b>統計</b></h2><p><strong>目前有完整統計的有：繁中版、日本版、中國版、韓國版、泰國版及國際板</strong></p>
-<h3 id="懶人包"><a href="#懶人包" class="headerlink" title="懶人包"></a>懶人包</h3><p><strong>開服至今（2021/02/16更新）</strong></p>
+<h2 id="統計"><a href="#統計" class="headerlink" title="統計"></a><b>統計</b></h2><p>目前所有版本（繁中版、日本版、中國版、韓國版、泰國版及國際版）皆有統計</p>
+<h3 id="懶人包"><a href="#懶人包" class="headerlink" title="懶人包"></a>懶人包</h3><p><strong>開服至今（2021/02/16 更新）</strong></p>
 <div style="overflow-x:auto;">
 <table>
    <tr>
@@ -1470,10 +1470,10 @@
    <tr>
       <td align="center" valign="center"><b>日本版</b></td>
       <td align="center" valign="center">2018-02-15</td>
-      <td align="center" valign="center">133,200顆</td>
-      <td align="center" valign="center">154+10天</td>
-      <td align="center" valign="center">87天</td>
-      <td align="center" valign="center">21天</td>
+      <td align="center" valign="center">133,200 顆</td>
+      <td align="center" valign="center">154+10 天</td>
+      <td align="center" valign="center">87 天</td>
+      <td align="center" valign="center">21 天</td>
    </tr>
    <tr>
       <td align="center" valign="center"><b>繁中版</b></td>
@@ -1518,7 +1518,8 @@
 </table>
 </div>
 
-<h3 id="以時間分類"><a href="#以時間分類" class="headerlink" title="以時間分類"></a>以時間分類</h3><p><strong>開服～一週年</strong></p>
+<h3 id="以時間分類"><a href="#以時間分類" class="headerlink" title="以時間分類"></a>以時間分類</h3><p><em>計算範圍：今年的週年後一天～明年的週年當天</em></p>
+<p><strong>開服～一週年</strong></p>
 <table>
    <tr>
       <td></td>
@@ -1536,10 +1537,10 @@
    </tr>
    <tr>
       <td align="center" valign="center"><b>日本版</b></td>
-      <td align="center" valign="center"><font color="green">18,700顆</font></td>
-      <td align="center" valign="center"><font color="green">34天</font></td>
-      <td align="center" valign="center">0天</td>
-      <td align="center" valign="center">7天</td>
+      <td align="center" valign="center">20,200 顆</td>
+      <td align="center" valign="center">48 天</td>
+      <td align="center" valign="center">14 天</td>
+      <td align="center" valign="center">7 天</td>
    </tr>
    <tr>
       <td align="center" valign="center"><b>中國版</b></td>
@@ -1550,10 +1551,10 @@
    </tr>
    <tr>
       <td align="center" valign="center"><b>韓國版</b></td>
-      <td align="center" valign="center"><font color="red">28,450顆</font></td>
-      <td align="center" valign="center"><font color="red">53天</font></td>
-      <td align="center" valign="center">0天</td>
-      <td align="center" valign="center">7天</td>
+      <td align="center" valign="center">28,450 顆</td>
+      <td align="center" valign="center">53 天</td>
+      <td align="center" valign="center">0 天</td>
+      <td align="center" valign="center">7 天</td>
    </tr>
 </table>
 
@@ -1568,17 +1569,17 @@
    </tr>
    <tr>
       <td align="center" valign="center"><b>繁中版</b></td>
-      <td align="center" valign="center">42,500顆</td>
-      <td align="center" valign="center">66天</td>
-      <td align="center" valign="center">47天</td>
-      <td align="center" valign="center">7天</td>
+      <td align="center" valign="center">42,500 顆</td>
+      <td align="center" valign="center">66 天</td>
+      <td align="center" valign="center">47 天</td>
+      <td align="center" valign="center">7 天</td>
    </tr>
    <tr>
       <td align="center" valign="center"><b>日本版</b></td>
-      <td align="center" valign="center">42,900顆</td>
-      <td align="center" valign="center">46天</td>
-      <td align="center" valign="center">41天</td>
-      <td align="center" valign="center">7天</td>
+      <td align="center" valign="center">42,900 顆</td>
+      <td align="center" valign="center">46 天</td>
+      <td align="center" valign="center">42 天</td>
+      <td align="center" valign="center">7 天</td>
    </tr>
    <tr>
       <td align="center" valign="center"><b>中國版</b></td>
@@ -1614,10 +1615,10 @@
    </tr>
    <tr>
       <td align="center" valign="center"><b>日本版</b></td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">7天</td>
+      <td align="center" valign="center">70,100 顆</td>
+      <td align="center" valign="center">59+10 天</td>
+      <td align="center" valign="center">31 天</td>
+      <td align="center" valign="center">7 天</td>
    </tr>
    <tr>
       <td align="center" valign="center"><b>中國版</b></td>
@@ -1636,8 +1637,30 @@
 </table>
 
 <h2 id="詳細列表"><a href="#詳細列表" class="headerlink" title="詳細列表"></a><b>詳細列表</b></h2><p><a href="https://bit.ly/priconnegivestatistics">試算表連結（含來源）</a></p>
-<p><strong>說明：</strong><br>（累積）：寶石分成好幾天送，像是1500石分成10天送、1000石分成2天送<br>（限／限定）：不一定每個人都會獲得，像是新手或回歸玩家才會有的免費100連抽<br>（額外）：除了寶石之外還有送其他東西</p>
-<h3 id="友善手機版"><a href="#友善手機版" class="headerlink" title="友善手機版"></a>友善手機版</h3><p>更新日期：2021/02/03</p>
+<p><em><strong>2021-02-16 補充：之後此頁面只保留繁中版及日本版的資料，其餘版本請到試算表查看</strong></em></p>
+<p><strong>說明：</strong></p>
+<div style="overflow-x:auto;">
+<table>
+   <tr>
+      <th align="center" valign="center">文字</th>
+      <th align="center" valign="center">解釋</th>
+   </tr>
+   <tr>
+      <td align="center" valign="center">累積</td>
+      <td>寶石分成好幾天贈送</td>
+   </tr>
+   <tr>
+      <td align="center" valign="center">限／限定</td>
+      <td>並非所有人都會獲得（例如：須參加活動、新手或回歸玩家限定）</td>
+   </tr>
+   <tr>
+      <td align="center" valign="center">額外</td>
+      <td>除了寶石之外還有送其他東西</td>
+   </tr>
+</table>
+</div>
+
+<h3 id="圖片版"><a href="#圖片版" class="headerlink" title="圖片版"></a>圖片版</h3><p>更新日期：2021-02-03</p>
 <div style="overflow-x:auto;">
 <table>
    <tr>
@@ -2070,6 +2093,30 @@
       <th align="center" valign="center">詳細</td>
       <th align="center" valign="center">贈送</td>
       <th align="center" valign="center">數量</td>
+   </tr>
+   <tr>
+      <td align="center" valign="center">2021/02/15</td>
+      <td>3周年記念スペシャルプレゼント</td>
+      <td align="center" valign="center">寶石（額外）</td>
+      <td align="center" valign="center">3,000</td>
+   </tr>
+   <tr>
+      <td align="center" valign="center">2021/02/15</td>
+      <td>最大140連！1日1回10連ガチャ無料キャンペーン</td>
+      <td align="center" valign="center">免費十連</td>
+      <td align="center" valign="center">14</td>
+   </tr>
+   <tr>
+      <td align="center" valign="center">2021/02/15</td>
+      <td>3rd Anniversary スペシャルログインボーナス</td>
+      <td align="center" valign="center">蘭德索爾盃</td>
+      <td align="center" valign="center">14</td>
+   </tr>
+   <tr>
+      <td align="center" valign="center">2021/02/15</td>
+      <td>Twitterトレンドキャンペーンプレゼント</td>
+      <td align="center" valign="center">免費寶石</td>
+      <td align="center" valign="center">1,500</td>
    </tr>
    <tr>
       <td align="center" valign="center">2021/01/30</td>
@@ -2606,564 +2653,6 @@
       <td>サービス開始</td>
       <td align="center" valign="center">免費寶石</td>
       <td align="center" valign="center">1,800</td>
-   </tr>
-</table>
-</div>
-
-<h3 id="簡中版"><a href="#簡中版" class="headerlink" title="簡中版"></a><center>簡中版</center></h3><p><strong>註：截止於2021/02/01的例行維修補償寶石為6,250顆（僅供參考），不列入計算</strong></p>
-<div style="overflow-x:auto;">
-<table>
-   <tr>
-      <th align="center" valign="center">時間</td>
-      <th align="center" valign="center">詳細</td>
-      <th align="center" valign="center">贈送</td>
-      <th align="center" valign="center">數量</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2021/02/11</td>
-      <td>拜年紀禮包</td>
-      <td align="center" valign="center">寶石（額外）</td>
-      <td align="center" valign="center">1,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2021/02/11</td>
-      <td>第1.5屆特別登陸獎勵 蘭德索爾盃</td>
-      <td align="center" valign="center">蘭德索爾盃</td>
-      <td align="center" valign="center">7</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2021/02/11</td>
-      <td>除夕紀念禮物</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2021/01/19</td>
-      <td>連續三日新年特別登錄獎勵</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">900</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2021/01/19</td>
-      <td>謹賀新年特別登錄活動</td>
-      <td align="center" valign="center">抽籤</td>
-      <td align="center" valign="center">7</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2021/01/08</td>
-      <td>PICK UP扭蛋 每日一次免費扭蛋登場！</td>
-      <td align="center" valign="center">免費十連</td>
-      <td align="center" valign="center">14</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2021/01/01</td>
-      <td>元旦紀念禮物</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/12/31</td>
-      <td>元旦快樂 跨年慶典登入活動</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/12/24</td>
-      <td>聖誕節特別登入活動</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/12/08</td>
-      <td>《公主連結Re:Dive》簡體字版上線235天</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/11/18</td>
-      <td>《公主連結Re:Dive》簡體字版上線215天</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/10/17</td>
-      <td>半週年紀念禮物</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/10/16</td>
-      <td>「環遊物語、連結啟程！」半週年慶典登錄獎勵活動</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/10/01</td>
-      <td>「食慾之秋·黃金周紀念」登錄獎勵活動</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/10/01</td>
-      <td>「黃金周假期紀念」寶石禮物發放</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/09/15</td>
-      <td>夏日慶典特別回饋</td>
-      <td align="center" valign="center">免費十連</td>
-      <td align="center" valign="center">14</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/08/30</td>
-      <td>「夏日慶典」特別登錄活動</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/08/27</td>
-      <td>《公主連結Re:Dive》簡體字版上線132天</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/08/19</td>
-      <td>感謝支持</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/08/03</td>
-      <td>「夏日慶典」特別登錄活動</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/07/30</td>
-      <td>《公主連結Re:Dive》簡體字版上線104天</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/07/11</td>
-      <td>第1回蘭德索爾盃特別登錄獎勵活動</td>
-      <td align="center" valign="center">蘭德索爾盃</td>
-      <td align="center" valign="center">14</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/07/02</td>
-      <td>紀念動畫《公主連結Re:Dive》完結</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">5,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/06/27</td>
-      <td>PICK UP扭蛋 每日一次免費十連</td>
-      <td align="center" valign="center">免費十連</td>
-      <td align="center" valign="center">11</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/06/26</td>
-      <td>bilibili十一週年紀念禮物</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/06/03</td>
-      <td>《公主連結Re:Dive》簡體字版上線48天</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/05/22</td>
-      <td>《公主連結Re:Dive》簡體字版上線36天</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/05/11</td>
-      <td>《公主連結Re:Dive》第六話上線紀念</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">150</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/05/07</td>
-      <td>網路連線錯誤問題補償</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/05/01</td>
-      <td>黃金週假期紀念</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">4,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/04/20</td>
-      <td>動畫播出紀念 「寶石發放活動」</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,950</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/04/19</td>
-      <td>感謝支持</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/04/18</td>
-      <td>bilibili動態粉絲200萬達成</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/04/17</td>
-      <td>bilibili動態粉絲100萬達成</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/04/17</td>
-      <td>動畫追番人數100萬</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/04/17</td>
-      <td>「啟程衝刺 寶石慶典」登錄獎勵活動</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">4,500</td>
-   </tr>
-</table>
-</div>
-
-<h3 id="韓國版"><a href="#韓國版" class="headerlink" title="韓國版"></a><center>韓國版</center></h3><p><strong>註：如果有少放上去的內容麻煩跟我說一聲，感謝</strong></p>
-<div style="overflow-x:auto;">
-<table>
-   <tr>
-      <th align="center" valign="center">時間</td>
-      <th align="center" valign="center">詳細</td>
-      <th align="center" valign="center">贈送</td>
-      <th align="center" valign="center">數量</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2021/02/11</td>
-      <td>메인 스토리 2부 개막 직전 쥬얼 선물💎</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2021/02/11</td>
-      <td>🎊설🎊 근하신년 새해 로그인 보너스💎</td>
-      <td align="center" valign="center">抽籤</td>
-      <td align="center" valign="center">7</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2021/01/18</td>
-      <td>무료 150회 뽑기</td>
-      <td align="center" valign="center">免費十連</td>
-      <td align="center" valign="center">15</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2021/01/11</td>
-      <td>「왕도 종말 결전」 직전 쥬얼 선물</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2021/01/01</td>
-      <td>정초 로그인 보너스</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">900</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/12/24</td>
-      <td>크리스마스 쥬얼 선물</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">2,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/12/24</td>
-      <td>크리스마스 로그인 보너스</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/11/11</td>
-      <td>소녀들의 깜짝 쥬얼 선물</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,111</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/11/07</td>
-      <td>겨울 맞이⛄ 쥬얼 선물</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/9/30</td>
-      <td>함께하는 추석 쥬얼 선물♥</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">5,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/09/14</td>
-      <td>🎉1.5주년🎉 무료 170회 뽑기♥</td>
-      <td align="center" valign="center">免費十連</td>
-      <td align="center" valign="center">17</td>
-   </tr>
-    <tr>
-      <td align="center" valign="center">2020/09/14</td>
-      <td>🎉1.5주년🎉 기념 쥬얼 선물</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/09/10</td>
-      <td>1.5주년 초 직전! 쥬얼 선물</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/08/29</td>
-      <td>1.5주년 직전! 쥬얼 선물</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/08/26</td>
-      <td>GOODBYE SUMMER! 쥬얼 선물</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/06/30</td>
-      <td>Re:제로 콜라보 기념 쥬얼 선물♥</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/04/08</td>
-      <td>애니메이션 방송 기념 스탬프 로그인 캠페인♥</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/03/28</td>
-      <td>🎉1주년🎉 매일 두 손 가득 선물♡</td>
-      <td align="center" valign="center">寶石（額外）</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/03/18</td>
-      <td>🎉1주년🎉 무료 140회 뽑기♥</td>
-      <td align="center" valign="center">免費十連</td>
-      <td align="center" valign="center">14</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/03/13</td>
-      <td>🎉1주년🎉 카운트다운 로그인 보너스</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/03/04</td>
-      <td>🎉프리코네 1주년🎉 사전 예약 안내</td>
-      <td align="center" valign="center">寶石（限定）</td>
-      <td align="center" valign="center">3,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/01/25</td>
-      <td>함께해 주신 기사님께 답례 선물♡</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/01/24</td>
-      <td>근하신년 새해 로그인 보너스</td>
-      <td align="center" valign="center">抽籤</td>
-      <td align="center" valign="center">7</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/01/22</td>
-      <td>설에도 매일 만나요♡무료 130회 뽑기</td>
-      <td align="center" valign="center">免費十連</td>
-      <td align="center" valign="center">13</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/01/21</td>
-      <td>매일 스태미나 & 마나 선물♡</td>
-      <td align="center" valign="center">寶石（額外）</td>
-      <td align="center" valign="center">500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2020/01/01</td>
-      <td>정초 로그인 보너스🐭</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">900</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/12/24</td>
-      <td>크리스마스 로그인 보너스</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/11/29</td>
-      <td>쥬얼 & 뽑기 티켓 출석 선물♡</td>
-      <td align="center" valign="center">寶石（額外）</td>
-      <td align="center" valign="center">1,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/11/19</td>
-      <td>프린세스 페스👑 업데이트 사전 예약 안내</td>
-      <td align="center" valign="center">寶石（限定）</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/10/30</td>
-      <td>Trick or Treat! 할로윈 출석 이벤트</td>
-      <td align="center" valign="center">寶石（額外）</td>
-      <td align="center" valign="center">1,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/10/28</td>
-      <td>루나의 탑 클리어 인증하고, 쥬얼 받아요♪</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/10/08</td>
-      <td>Half Anniversary) 함께 모험하는 기사님을 위한 꿀팁♡공략</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/09/28</td>
-      <td>Half Anniversary 로그인 보너스</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/09/17</td>
-      <td>Half Anniversary 매일 무료 10회 뽑기</td>
-      <td align="center" valign="center">免費十連</td>
-      <td align="center" valign="center">11</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/09/12</td>
-      <td>추석에도 프리코네와 함께! 매일 선물 드려요</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/08/29</td>
-      <td>「캬루(여름)」을 잘 부탁해요♥</td>
-      <td align="center" valign="center">寶石（額外）</td>
-      <td align="center" valign="center">1,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/08/02</td>
-      <td>코믹콘 서울 2019 참가 기념 쥬얼 선물♥</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">300</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/07/16</td>
-      <td>3,000 쥬얼만큼 사랑해♥ 여름 업데이트 사전 예약 안내</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">3,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/07/04</td>
-      <td>굉장한 동료가 와요~ 백일 기념 무료 100회 뽑기</td>
-      <td align="center" valign="center">免費十連</td>
-      <td align="center" valign="center">10</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/06/28</td>
-      <td>이리야와 함께해요!! 두근두근 출석이벤트</td>
-      <td align="center" valign="center">寶石（額外）</td>
-      <td align="center" valign="center">1,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/06/05</td>
-      <td>CM코니의 두근두근★ 깜짝 선물</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/06/03</td>
-      <td>리틀 리리컬과 함께하는 심쿵♥한 6월의 출석</td>
-      <td align="center" valign="center">寶石（額外）</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/05/24</td>
-      <td>클랜전 참여 인증하고, 쥬얼 받자!</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">300</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/05/20</td>
-      <td>귀여움이라는 것이.. 폭발했다! 업데이트 사전 예약 안내</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">1,000</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/05/16</td>
-      <td>우리 벌써 50일! 매일매일 무료 10회 뽑기</td>
-      <td align="center" valign="center">免費十連</td>
-      <td align="center" valign="center">5</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/05/01</td>
-      <td>따뜻한 5월의 출석 이벤트</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">600</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/04/18</td>
-      <td>신규 콘텐츠 BIG 업데이트 기념 출석 이벤트</td>
-      <td align="center" valign="center">寶石（額外）</td>
-      <td align="center" valign="center">1,500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/04/13</td>
-      <td>주말 플레이 지원 이벤트! 주말에도 프리코네를 잘 부탁해♪ </td>
-      <td align="center" valign="center">寶石（額外）</td>
-      <td align="center" valign="center">100</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/04/11</td>
-      <td>여러분의 사랑에 감사드려요♥ 공식 카페 20,000명 달성 보상!</td>
-      <td align="center" valign="center">免費寶石</td>
-      <td align="center" valign="center">500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/04/08</td>
-      <td>4월 봄바람 출석 이벤트</td>
-      <td align="center" valign="center">寶石（額外）</td>
-      <td align="center" valign="center">450</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/04/02</td>
-      <td>공식 트위터와 페이스북을 응원해주세요!</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/03/29</td>
-      <td>공식 카페에서 다시 한 번... ★커넥트★</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">500</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center">2019/03/28</td>
-      <td>스타트 대시 로그인 캠페인♥접속만 해도 쥬얼 선물!</td>
-      <td align="center" valign="center">寶石（累積）</td>
-      <td align="center" valign="center">1,300</td>
    </tr>
 </table>
 </div>]]></content>
