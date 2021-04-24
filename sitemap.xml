@@ -354,14 +354,14 @@
   </url>
   
   <url>
-    <loc>http://wenyetom.github.io/tags/Game/</loc>
+    <loc>http://wenyetom.github.io/tags/Monitor/</loc>
     <lastmod>2021-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://wenyetom.github.io/tags/Monitor/</loc>
+    <loc>http://wenyetom.github.io/tags/Game/</loc>
     <lastmod>2021-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -468,13 +468,6 @@
   </url>
   
   <url>
-    <loc>http://wenyetom.github.io/categories/acgn/game/</loc>
-    <lastmod>2021-04-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://wenyetom.github.io/categories/photography/exhibition/</loc>
     <lastmod>2021-04-24</lastmod>
     <changefreq>daily</changefreq>
@@ -482,7 +475,7 @@
   </url>
   
   <url>
-    <loc>http://wenyetom.github.io/categories/unboxing/using-review/</loc>
+    <loc>http://wenyetom.github.io/categories/acgn/game/</loc>
     <lastmod>2021-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -490,6 +483,13 @@
   
   <url>
     <loc>http://wenyetom.github.io/categories/unboxing/phone-tablet/</loc>
+    <lastmod>2021-04-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wenyetom.github.io/categories/unboxing/using-review/</loc>
     <lastmod>2021-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
