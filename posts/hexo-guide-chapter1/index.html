@@ -24,31 +24,31 @@
   <script src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.js"></script>
 
 <script class="next-config" data-name="main" type="application/json">{&quot;hostname&quot;:&quot;wenyetom.github.io&quot;,&quot;root&quot;:&quot;&#x2F;&quot;,&quot;images&quot;:&quot;&#x2F;images&quot;,&quot;scheme&quot;:&quot;Gemini&quot;,&quot;version&quot;:&quot;8.4.0&quot;,&quot;exturl&quot;:false,&quot;sidebar&quot;:{&quot;position&quot;:&quot;right&quot;,&quot;display&quot;:&quot;post&quot;,&quot;padding&quot;:18,&quot;offset&quot;:12,&quot;width&quot;:280},&quot;copycode&quot;:true,&quot;bookmark&quot;:{&quot;enable&quot;:false,&quot;color&quot;:&quot;#222&quot;,&quot;save&quot;:&quot;auto&quot;},&quot;fancybox&quot;:false,&quot;mediumzoom&quot;:true,&quot;lazyload&quot;:true,&quot;pangu&quot;:false,&quot;comments&quot;:{&quot;style&quot;:&quot;tabs&quot;,&quot;active&quot;:null,&quot;storage&quot;:true,&quot;lazyload&quot;:false,&quot;nav&quot;:null},&quot;motion&quot;:{&quot;enable&quot;:true,&quot;async&quot;:true,&quot;transition&quot;:{&quot;post_block&quot;:&quot;fadeIn&quot;,&quot;post_header&quot;:null,&quot;post_body&quot;:null,&quot;coll_header&quot;:&quot;fadeIn&quot;,&quot;sidebar&quot;:&quot;fadeIn&quot;}},&quot;prism&quot;:false,&quot;i18n&quot;:{&quot;placeholder&quot;:&quot;搜尋...&quot;,&quot;empty&quot;:&quot;找不到符合「${query}」的文章或內文&quot;,&quot;hits_time&quot;:&quot;${hits} results found in ${time} ms&quot;,&quot;hits&quot;:&quot;共有 ${hits} 項結果&quot;},&quot;path&quot;:&quot;&#x2F;search.xml&quot;,&quot;localsearch&quot;:{&quot;enable&quot;:true,&quot;trigger&quot;:&quot;auto&quot;,&quot;top_n_per_article&quot;:1,&quot;unescape&quot;:false,&quot;preload&quot;:false}}</script>
-<meta name="description" content="Hexo簡單來說，跟WordPress一樣都是建立網站的工具 但是跟WP不同的是，Hexo是靜態網站，而WP是動態網站 WordPress有圖形化介面，所以簡單好上手。Hexo則是支援Markdown，所以自由度高。 這一個教學只有包含用最短的時間將Hexo網站佈署到GitHub Pages上，所以其他的部分就只能自己去爬文囉">
+<meta name="description" content="上一篇「10分鐘內從安裝Hexo到佈署至GitHub Pages」教大家用短短 10 分鐘來建立屬於自己的網站。這次我想進階一點，將我所用到的功能介紹給大家">
 <meta property="og:type" content="article">
-<meta property="og:title" content="10分鐘內從安裝Hexo到佈署至GitHub Pages">
-<meta property="og:url" content="http://wenyetom.github.io/posts/hexo-10minutes-install-to-deploy/index.html">
+<meta property="og:title" content="Hexo 簡易調教指南（一）：軟體安裝及網站建構">
+<meta property="og:url" content="http://wenyetom.github.io/posts/hexo-guide-chapter1/index.html">
 <meta property="og:site_name" content="沙連三棧">
-<meta property="og:description" content="Hexo簡單來說，跟WordPress一樣都是建立網站的工具 但是跟WP不同的是，Hexo是靜態網站，而WP是動態網站 WordPress有圖形化介面，所以簡單好上手。Hexo則是支援Markdown，所以自由度高。 這一個教學只有包含用最短的時間將Hexo網站佈署到GitHub Pages上，所以其他的部分就只能自己去爬文囉">
+<meta property="og:description" content="上一篇「10分鐘內從安裝Hexo到佈署至GitHub Pages」教大家用短短 10 分鐘來建立屬於自己的網站。這次我想進階一點，將我所用到的功能介紹給大家">
 <meta property="og:locale" content="zh_TW">
-<meta property="og:image" content="https://i.imgur.com/A64LGlC.png">
-<meta property="article:published_time" content="2020-07-14T16:54:12.000Z">
-<meta property="article:modified_time" content="2021-02-07T15:50:37.895Z">
+<meta property="og:image" content="https://i.imgur.com/regh1ma.png">
+<meta property="article:published_time" content="2021-05-02T14:23:09.000Z">
+<meta property="article:modified_time" content="2021-05-02T14:23:22.950Z">
 <meta property="article:author" content="沙連">
 <meta property="article:tag" content="Teach">
 <meta property="article:tag" content="Hexo">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://i.imgur.com/A64LGlC.png">
+<meta name="twitter:image" content="https://i.imgur.com/regh1ma.png">
 
 
-<link rel="canonical" href="http://wenyetom.github.io/posts/hexo-10minutes-install-to-deploy/">
+<link rel="canonical" href="http://wenyetom.github.io/posts/hexo-guide-chapter1/">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{&quot;sidebar&quot;:&quot;&quot;,&quot;isHome&quot;:false,&quot;isPost&quot;:true,&quot;lang&quot;:&quot;zh-TW&quot;,&quot;comments&quot;:true,&quot;permalink&quot;:&quot;http:&#x2F;&#x2F;wenyetom.github.io&#x2F;posts&#x2F;hexo-10minutes-install-to-deploy&#x2F;&quot;,&quot;path&quot;:&quot;posts&#x2F;hexo-10minutes-install-to-deploy&#x2F;&quot;,&quot;title&quot;:&quot;10分鐘內從安裝Hexo到佈署至GitHub Pages&quot;}</script>
+<script class="next-config" data-name="page" type="application/json">{&quot;sidebar&quot;:&quot;&quot;,&quot;isHome&quot;:false,&quot;isPost&quot;:true,&quot;lang&quot;:&quot;zh-TW&quot;,&quot;comments&quot;:true,&quot;permalink&quot;:&quot;http:&#x2F;&#x2F;wenyetom.github.io&#x2F;posts&#x2F;hexo-guide-chapter1&#x2F;&quot;,&quot;path&quot;:&quot;posts&#x2F;hexo-guide-chapter1&#x2F;&quot;,&quot;title&quot;:&quot;Hexo 簡易調教指南（一）：軟體安裝及網站建構&quot;}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">&quot;&quot;</script>
-<title>10分鐘內從安裝Hexo到佈署至GitHub Pages | 沙連三棧</title><script src="/js/config.js"></script>
+<title>Hexo 簡易調教指南（一）：軟體安裝及網站建構 | 沙連三棧</title><script src="/js/config.js"></script>
   
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155863767-2"></script>
   <script class="next-config" data-name="google_analytics" type="application/json">{&quot;tracking_id&quot;:&quot;UA-155863767-2&quot;,&quot;only_pageview&quot;:false}</script>
@@ -157,7 +157,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BF%85%E5%82%99%E5%B7%A5%E5%85%B7"><span class="nav-number">1.</span> <span class="nav-text">必備工具</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%81%B8%E7%94%A8%E5%B7%A5%E5%85%B7"><span class="nav-number">2.</span> <span class="nav-text">選用工具</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%89%8D%E7%BD%AE%E4%BD%9C%E6%A5%AD"><span class="nav-number">3.</span> <span class="nav-text">前置作業</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%AD%A3%E5%BC%8F%E5%AE%89%E8%A3%9D"><span class="nav-number">4.</span> <span class="nav-text">正式安裝</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AE%89%E8%A3%9D%E4%B8%BB%E9%A1%8C"><span class="nav-number">5.</span> <span class="nav-text">安裝主題</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%83%A8%E5%B1%AC%E5%88%B0Github-Pages"><span class="nav-number">6.</span> <span class="nav-text">部屬到Github Pages</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99"><span class="nav-number">7.</span> <span class="nav-text">參考資料</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BB%8B%E7%B4%B9"><span class="nav-number">1.</span> <span class="nav-text">介紹</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%89%8D%E7%BD%AE%E6%BA%96%E5%82%99"><span class="nav-number">2.</span> <span class="nav-text">前置準備</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%BF%E7%94%A8%E8%BB%9F%E9%AB%94"><span class="nav-number">2.1.</span> <span class="nav-text">使用軟體</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%BB%BA%E7%AB%8B%E5%B0%88%E6%A1%88"><span class="nav-number">2.2.</span> <span class="nav-text">建立專案</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%96%8B%E5%A7%8B%E5%AE%89%E8%A3%9D"><span class="nav-number">3.</span> <span class="nav-text">開始安裝</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Hexo-%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4"><span class="nav-number">3.1.</span> <span class="nav-text">Hexo 常用指令</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%AE%89%E8%A3%9D-Hexo"><span class="nav-number">3.2.</span> <span class="nav-text">安裝 Hexo</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%AE%89%E8%A3%9D%E4%B8%BB%E9%A1%8C"><span class="nav-number">3.3.</span> <span class="nav-text">安裝主題</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%B8%BD%E7%B5%90"><span class="nav-number">4.</span> <span class="nav-text">總結</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99"><span class="nav-number">5.</span> <span class="nav-text">參考資料</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -236,12 +236,12 @@
   <div class="post-gallery" itemscope itemtype="http://schema.org/ImageGallery">
     
     <div class="post-gallery-image">
-      <img src="https://i.imgur.com/A64LGlC.png" itemprop="contentUrl">
+      <img src="https://i.imgur.com/regh1ma.png" itemprop="contentUrl">
     </div>
     </div>
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-TW">
-    <link itemprop="mainEntityOfPage" href="http://wenyetom.github.io/posts/hexo-10minutes-install-to-deploy/">
+    <link itemprop="mainEntityOfPage" href="http://wenyetom.github.io/posts/hexo-guide-chapter1/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/img/avatar2.png">
@@ -254,7 +254,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          10分鐘內從安裝Hexo到佈署至GitHub Pages
+          Hexo 簡易調教指南（一）：軟體安裝及網站建構
         </h1>
 
         <div class="post-meta-container">
@@ -264,16 +264,10 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">發表：</span>
+      
 
-      <time title="建立時間：2020-07-15 00:54:12" itemprop="dateCreated datePublished" datetime="2020-07-15T00:54:12+08:00">2020-07-15</time>
+      <time title="建立時間：2021-05-02 22:23:09 / 更新時間：22:23:22" itemprop="dateCreated datePublished" datetime="2021-05-02T22:23:09+08:00">2021-05-02</time>
     </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新：</span>
-        <time title="更新時間：2021-02-07 23:50:37" itemprop="dateModified" datetime="2021-02-07T23:50:37+08:00">2021-02-07</time>
-      </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
         <i class="far fa-folder"></i>
@@ -296,7 +290,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">字數：</span>
-      <span>1.8k</span>
+      <span>1.6k</span>
     </span>
     <span class="post-meta-item" title="閱讀時間">
       <span class="post-meta-item-icon">
@@ -314,63 +308,52 @@
     
     
     <div class="post-body" itemprop="articleBody">
-        <p>Hexo簡單來說，跟WordPress一樣都是建立網站的工具</p>
-<p>但是跟WP不同的是，Hexo是靜態網站，而WP是動態網站</p>
-<p>WordPress有圖形化介面，所以簡單好上手。Hexo則是支援Markdown，所以自由度高。</p>
-<p>這一個教學只有包含用最短的時間將Hexo網站佈署到GitHub Pages上，所以其他的部分就只能自己去爬文囉</p>
+        <p>上一篇「<a href="https://wenyetom.github.io/posts/hexo-10minutes-install-to-deploy/">10分鐘內從安裝Hexo到佈署至GitHub Pages</a>」教大家用短短 10 分鐘來建立屬於自己的網站。這次我想進階一點，將我所用到的功能介紹給大家</p>
 <a id="more"></a>
 
-<h2 id="必備工具"><a href="#必備工具" class="headerlink" title="必備工具"></a><b>必備工具</b></h2><ol>
-<li>Node.js</li>
-<li>Git</li>
+<p>第一章基本上是以「10 分鐘架設Hexo網站」為基礎，並修改、增加一些內容。</p>
+<h2 id="介紹"><a href="#介紹" class="headerlink" title="介紹"></a>介紹</h2><p>Hexo 是其中一款靜態網站建立工具，靜態網站和動態網站最大的不同就在於前者的內容是固定的，而後者的內容則是會因使用者的不同而產生變化。因此，靜態網站在單純發布文章的情況下具備了高安全性、載入速度快、調整彈性大等優點。</p>
+<h2 id="前置準備"><a href="#前置準備" class="headerlink" title="前置準備"></a>前置準備</h2><h3 id="使用軟體"><a href="#使用軟體" class="headerlink" title="使用軟體"></a>使用軟體</h3><p>安裝以下軟體（使用預設值安裝）：</p>
+<ol>
+<li>Git（必備，選擇最新版本）</li>
+<li>Node.js（必備，選擇 v12 LTS 的最新／任一版本皆可）</li>
+<li>Visual Studio Code（非必備，有自己慣用的編輯器可以不裝）</li>
 </ol>
-<p>（兩個先按照預設值安裝完成，再進行下列步驟）</p>
-<h2 id="選用工具"><a href="#選用工具" class="headerlink" title="選用工具"></a><b>選用工具</b></h2><ol>
-<li>Visual Studio Code（推薦）</li>
-<li>Notepad++</li>
-</ol>
-<h2 id="前置作業"><a href="#前置作業" class="headerlink" title="前置作業"></a><b>前置作業</b></h2><p><strong>Step 1</strong>: GitHub建立一個專案，名稱為&lt;username&gt;.github.io</p>
-<p>然後到專案設定裡面的GitHub Pages，點選Choose a theme，接著按右上角的Select theme</p>
-<h2 id="正式安裝"><a href="#正式安裝" class="headerlink" title="正式安裝"></a><b>正式安裝</b></h2><p><strong>Step 2</strong>: 在想要安裝的地方（例如桌面）點右鍵，選擇 Git Bash here</p>
-<p><strong>Step 3</strong>: 輸入<code>npm install hexo-cli -g</code></p>
-<p><strong>Step 4</strong>: 按順序輸入以下指令</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init &lt;資料夾名稱&gt;</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd &lt;資料夾名稱&gt;</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure>
-<p><strong>Step 5</strong>: 接著輸入以下指令建立網頁並開啟伺服器</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
-<p><strong>Step 6</strong>: 輸入上面顯示的網址 (<a target="_blank" rel="noopener external nofollow noreferrer" href="http://localhost:4000/">http://localhost:4000/</a>) 就可以看到網站的樣子</p>
-<h2 id="安裝主題"><a href="#安裝主題" class="headerlink" title="安裝主題"></a><b>安裝主題</b></h2><p>我這裡以<a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/ppoffice/hexo-theme-icarus">ICARUS</a>為範例</p>
-<p>大家可以到 <a target="_blank" rel="noopener external nofollow noreferrer" href="https://hexo.io/themes/">https://hexo.io/themes/</a> 找自己喜歡的主題</p>
-<p><strong>Step 7</strong>: 輸入下列指令安裝</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone https:&#x2F;&#x2F;github.com&#x2F;ppoffice&#x2F;hexo-theme-icarus.git themes&#x2F;icarus</span><br></pre></td></tr></table></figure>
-<p><strong>Step 8</strong>: 接著開啟資料夾裡面的 _config.yml，找到theme並修改為<code>theme: icarus</code></p>
-<p><strong>Step 9</strong>: 輸入<code>hexo clean</code>清除快取(可以不用)，再輸入<code>hexo g</code>產生網頁</p>
-<p><em><strong>註：有些主題安裝之後，在產生網頁的時候會有錯誤訊息，只要安裝缺少的插件就解決了</strong></em></p>
-<p><strong>Step 10</strong>: 錯誤訊息裡面會有一行指令，將指令複製貼上並執行就可以安裝缺少的插件<br><img data-src="https://i.imgur.com/JlhKdZe.png"></p>
-<p><strong>Step 11</strong>: 再一次輸入<code>hexo clean</code>、<code>hexo g</code>和<code>hexo s</code>就OK了</p>
-<h2 id="部屬到Github-Pages"><a href="#部屬到Github-Pages" class="headerlink" title="部屬到Github Pages"></a><b>部屬到Github Pages</b></h2><p><strong>Step 1</strong>: 輸入以下指令</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
-<p><strong>Step 2</strong>:輸入下面兩個指令（Github的使用者名稱及註冊時所輸入的Email）</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;&lt;username&gt;&quot;</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.email &quot;&lt;email address&gt;&quot;</span><br></pre></td></tr></table></figure>
-<p><strong>Step 3</strong>: 輸入以下指令，再按三下Enter</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;&lt;email address&gt;&quot;</span><br></pre></td></tr></table></figure>
-<p><strong>Step 4</strong>:輸入下列指令，然後複製裡面的內容</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cat ~&#x2F;.ssh&#x2F;id_rsa.pub</span><br></pre></td></tr></table></figure>
-<p><strong>Step 5</strong>: 到Github的設定，點左邊的 SSH and GPG keys ，再按右上角的New SSH Key<br>接著輸入標題，將複製的內容貼上後按 Add SSH Key</p>
-<p><strong>Step 6</strong>: 輸入<code>ssh -T git@github.com</code>再輸入yes</p>
-<p>如果最後一行出現自己的使用者名稱就代表成功了 (Hi, &lt;username&gt;! …)</p>
-<p><strong>Step 7</strong>: 打開_config.yml，拉到最底下，找到deploy並修改為</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line"> type: git</span><br><span class="line"> repo: https:&#x2F;&#x2F;github.com&#x2F;&lt;username&gt;&#x2F;&lt;username&gt;.github.io</span><br><span class="line"> branch: master</span><br></pre></td></tr></table></figure>
-<p><strong>Step 8</strong>: 輸入<code>hexo g</code>後再輸入<code>hexo d</code><br>（如果是第一次佈署，會跳出視窗要求登入Github）</p>
-<p><strong>Final</strong>: 等幾分鐘之後再進入&lt;username&gt;.github.io就能看到網站囉</p>
-<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a><b>參考資料</b></h2><ol>
-<li><a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.muji.dev/2020/02/16/hexo-github-page/">個人技術站一把罩！部落格建置大全（一）</a></li>
-<li><a target="_blank" rel="noopener external nofollow noreferrer" href="https://zhuanlan.zhihu.com/p/35668237">超详细Hexo+Github博客搭建小白教程</a></li>
-<li><a target="_blank" rel="noopener external nofollow noreferrer" href="https://bit.ly/hexobydadasan">第一次架設Hexo網站. 本篇文章紀錄了我把自己的作品集網站架設出來的過程。</a></li>
-</ol>
+<h3 id="建立專案"><a href="#建立專案" class="headerlink" title="建立專案"></a>建立專案</h3><p>首先要有一個 GitHub 帳號以便部屬網站到 GitHub Pages，如果已經有帳號可以直接跳到 <strong>Step 2</strong></p>
+<p><strong>Step 1:</strong> 註冊一個 <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/">GitHub</a> 帳號</p>
+<p><strong>Step 2:</strong> 點選右上角的「+」→「New repository」</p>
+<p><strong>Step 3:</strong> 在 Repository name 填入「&lt;username&gt;.github.io」，接著點選「Create repository」</p>
+<h2 id="開始安裝"><a href="#開始安裝" class="headerlink" title="開始安裝"></a>開始安裝</h2><h3 id="Hexo-常用指令"><a href="#Hexo-常用指令" class="headerlink" title="Hexo 常用指令"></a>Hexo 常用指令</h3><p>先介紹幾個常用的指令</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">hexo generate <span class="comment"># 產生靜態網頁檔案</span></span><br><span class="line">hexo clean <span class="comment"># 清除靜態網頁檔案和快取</span></span><br><span class="line">hexo server <span class="comment"># 開啟伺服器</span></span><br><span class="line">hexo server --draft <span class="comment"># 開啟伺服器並顯示草稿</span></span><br><span class="line">hexo server -p 4000 <span class="comment"># 開啟伺服器並使用自訂的端口（數字自訂）</span></span><br><span class="line">hexo new [layout] &lt;titile&gt; <span class="comment"># 新增文章或頁面</span></span><br><span class="line">hexo deploy <span class="comment"># 部屬網頁</span></span><br><span class="line"><span class="comment"># 除了第二個指令之外的縮寫都是第一個英文字母（例如：hexo generate 的縮寫為 hexo g）</span></span><br><span class="line"><span class="comment"># 第二個指令的縮寫則是hexo cl</span></span><br></pre></td></tr></table></figure>
+<h3 id="安裝-Hexo"><a href="#安裝-Hexo" class="headerlink" title="安裝 Hexo"></a>安裝 Hexo</h3><p>首先在想要儲存網站資料的地方點選滑鼠右鍵，選擇「Git Bash Here」</p>
+<p>輸入下列指令可以檢查 Node.js 以及 npm 的版本</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure>
+<p>確認都沒有問題之後，就可以輸入下列指令來安裝 Hexo</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+<p>建立存放網站資料的資料夾（如果不輸入資料夾名稱的話就會在目前路徑建立檔案）</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init &lt;自訂資料夾名稱&gt;</span><br></pre></td></tr></table></figure>
+<p>把路徑切換至剛剛建立的資料夾</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> &lt;資料夾名稱&gt;</span><br></pre></td></tr></table></figure>
+<p>安裝額外的模組</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure>
+<p>上述指令都執行後就大功告成了，輸入 <code>hexo g</code> 和 <code>hexo s</code> 建立網站資料和開啟伺服器</p>
+<p>然後在瀏覽器輸入 <a target="_blank" rel="noopener external nofollow noreferrer" href="http://localhost:4000/">http://localhost:4000</a> 就可以預覽網站了</p>
+<p><strong>提示：</strong>按下 Ctrl + C 可以關閉伺服器</p>
+<h3 id="安裝主題"><a href="#安裝主題" class="headerlink" title="安裝主題"></a>安裝主題</h3><p>上一篇介紹了 <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/ppoffice/hexo-theme-icarus">ICARUS</a> 這一個主題，這一次要安裝的主題為 <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/next-theme/hexo-theme-next">NexT</a></p>
+<p>Hexo 的主題提供 npm 和 git clone 兩種安裝方式。為了方便更新主題，建議大家使用 npm 來安裝</p>
+<p>安裝的方式很簡單，在終端機輸入下列指令就可以了</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-theme-next</span><br></pre></td></tr></table></figure>
+<p>打開網站根目錄中的 <code>_config.yml</code>，找到 theme 後把 landscape 改成 next</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Extensions</span></span><br><span class="line"><span class="comment">## Plugins: https://hexo.io/plugins/</span></span><br><span class="line"><span class="comment">## Themes: https://hexo.io/themes/</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">next</span> <span class="comment">#原本為 landscape，修改為 next</span></span><br></pre></td></tr></table></figure>
+<p><img data-src="https://i.imgur.com/ZzxuYHX.png" alt="https://i.imgur.com/ZzxuYHX.png"></p>
+<p>最後回到終端機執行 <code>hexo g</code> 和 <code>hexo s</code>，沒有意外的話就能在終端機內看到「NEXT」字樣，網站主題也會變成跟下圖一樣</p>
+<p><img data-src="https://i.imgur.com/BpmsVL3.png" alt="https://i.imgur.com/BpmsVL3.png"></p>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>這系列本來在一月多就開始動工了，結果到了五月才發表，真的是拖了非常久呢</p>
+<p>下一篇會介紹如何設定網站及主題，敬請期待</p>
+<p>更新時間不定…</p>
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://ithelp.ithome.com.tw/users/20119486/ironman/2944">試著學 Hexo :: 第 12 屆 iT 邦幫忙鐵人賽</a></p>
+<p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://hexo.io/zh-tw/docs/">文件 | Hexo</a></p>
+<p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://zespia.tw/">Zespia</a></p>
 
     </div>
 
@@ -388,14 +371,11 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/posts/kaguya-s2-bd1-unboxing/" rel="prev" title="輝夜姬想讓人告白？ BD Vol.1 開箱">
-                  <i class="fa fa-chevron-left"></i> 輝夜姬想讓人告白？ BD Vol.1 開箱
+                <a href="/posts/umamusume-season2-review/" rel="prev" title="《賽馬娘 Pretty Derby》第二季完結心得">
+                  <i class="fa fa-chevron-left"></i> 《賽馬娘 Pretty Derby》第二季完結心得
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/posts/drytech-ad-72p-unboxing/" rel="next" title="收藏家 AD-72P 開箱">
-                  收藏家 AD-72P 開箱 <i class="fa fa-chevron-right"></i>
-                </a>
             </div>
           </div>
     </footer>
@@ -466,11 +446,11 @@
 
 
   <script src="https://cdn.jsdelivr.net/npm/quicklink@2.1.0/dist/quicklink.umd.js"></script>
-  <script class="next-config" data-name="quicklink" type="application/json">{&quot;enable&quot;:true,&quot;home&quot;:true,&quot;archive&quot;:true,&quot;delay&quot;:true,&quot;timeout&quot;:3000,&quot;priority&quot;:true,&quot;ignores&quot;:null,&quot;url&quot;:&quot;http:&#x2F;&#x2F;wenyetom.github.io&#x2F;posts&#x2F;hexo-10minutes-install-to-deploy&#x2F;&quot;}</script>
+  <script class="next-config" data-name="quicklink" type="application/json">{&quot;enable&quot;:true,&quot;home&quot;:true,&quot;archive&quot;:true,&quot;delay&quot;:true,&quot;timeout&quot;:3000,&quot;priority&quot;:true,&quot;ignores&quot;:null,&quot;url&quot;:&quot;http:&#x2F;&#x2F;wenyetom.github.io&#x2F;posts&#x2F;hexo-guide-chapter1&#x2F;&quot;}</script>
   <script src="/js/third-party/quicklink.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1.7.2/dist/gitalk.css">
 
-<script class="next-config" data-name="gitalk" type="application/json">{&quot;enable&quot;:true,&quot;github_id&quot;:&quot;wenyetom&quot;,&quot;repo&quot;:&quot;wenyetom.github.io&quot;,&quot;client_id&quot;:&quot;1f289790129f2bafccaf&quot;,&quot;client_secret&quot;:&quot;490bdabb22a84259c70add5987c7b95bc04adb83&quot;,&quot;admin_user&quot;:&quot;wenyetom&quot;,&quot;distraction_free_mode&quot;:true,&quot;proxy&quot;:&quot;https:&#x2F;&#x2F;cors-anywhere.azm.workers.dev&#x2F;https:&#x2F;&#x2F;github.com&#x2F;login&#x2F;oauth&#x2F;access_token&quot;,&quot;language&quot;:&quot;zh-TW&quot;,&quot;js&quot;:&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;gitalk@1.7.2&#x2F;dist&#x2F;gitalk.min.js&quot;,&quot;path_md5&quot;:&quot;2d4b7df825c314fb6690ec7643b6074a&quot;}</script>
+<script class="next-config" data-name="gitalk" type="application/json">{&quot;enable&quot;:true,&quot;github_id&quot;:&quot;wenyetom&quot;,&quot;repo&quot;:&quot;wenyetom.github.io&quot;,&quot;client_id&quot;:&quot;1f289790129f2bafccaf&quot;,&quot;client_secret&quot;:&quot;490bdabb22a84259c70add5987c7b95bc04adb83&quot;,&quot;admin_user&quot;:&quot;wenyetom&quot;,&quot;distraction_free_mode&quot;:true,&quot;proxy&quot;:&quot;https:&#x2F;&#x2F;cors-anywhere.azm.workers.dev&#x2F;https:&#x2F;&#x2F;github.com&#x2F;login&#x2F;oauth&#x2F;access_token&quot;,&quot;language&quot;:&quot;zh-TW&quot;,&quot;js&quot;:&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;gitalk@1.7.2&#x2F;dist&#x2F;gitalk.min.js&quot;,&quot;path_md5&quot;:&quot;a12c4b7389052b006e3fe34531d8a7ad&quot;}</script>
 <script src="/js/third-party/comments/gitalk.js"></script>
 
 </body>

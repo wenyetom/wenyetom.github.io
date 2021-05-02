@@ -3260,3 +3260,6 @@ table {
   padding-top: 15px !important;
   padding-bottom: 15px !important;
 }
+.category-list-child li {
+  list-style-type: disc;
+}
