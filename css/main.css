@@ -3098,6 +3098,13 @@ mark.search-keyword {
 .gt-popup a {
   border-radius: 10px;
 }
+.post-gallery .post-gallery-image img {
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  width: 100%;
+  border-radius: 10px;
+}
 /*---------- 區塊陰影 ----------*/
 .header-inner {
   background: var(--content-bg-color);
