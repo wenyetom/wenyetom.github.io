@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wenyetom.github.io/about/index.html</loc>
+    <loc>https://wenyetom.github.io/posts/idoly-pride-game-review/</loc>
     
     <lastmod>2021-06-26</lastmod>
     
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/posts/idoly-pride-game-review/</loc>
+    <loc>https://wenyetom.github.io/about/index.html</loc>
     
     <lastmod>2021-06-26</lastmod>
     
@@ -305,20 +305,6 @@
 
   
   <url>
-    <loc>https://wenyetom.github.io/tags/Teach/</loc>
-    <lastmod>2021-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/tags/Hexo/</loc>
-    <lastmod>2021-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wenyetom.github.io/tags/Review/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
@@ -327,6 +313,20 @@
   
   <url>
     <loc>https://wenyetom.github.io/tags/Anime/</loc>
+    <lastmod>2021-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/tags/Photography/</loc>
+    <lastmod>2021-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/tags/Exhibition/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -354,21 +354,14 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/tags/Photography/</loc>
-    <lastmod>2021-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/tags/Exhibition/</loc>
-    <lastmod>2021-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wenyetom.github.io/tags/Blu-ray-Disc/</loc>
+    <lastmod>2021-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/tags/Teach/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -424,6 +417,13 @@
   </url>
   
   <url>
+    <loc>https://wenyetom.github.io/tags/Hexo/</loc>
+    <lastmod>2021-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wenyetom.github.io/tags/Statistics/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
@@ -433,13 +433,6 @@
 
   
   <url>
-    <loc>https://wenyetom.github.io/categories/teaching/</loc>
-    <lastmod>2021-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wenyetom.github.io/categories/acgn/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
@@ -447,7 +440,7 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/</loc>
+    <loc>https://wenyetom.github.io/categories/acgn/season-anime/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -468,13 +461,6 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/acgn/season-anime/</loc>
-    <lastmod>2021-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wenyetom.github.io/categories/acgn/anime-movie/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
@@ -482,7 +468,28 @@
   </url>
   
   <url>
+    <loc>https://wenyetom.github.io/categories/unboxing/</loc>
+    <lastmod>2021-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/teaching/</loc>
+    <lastmod>2021-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wenyetom.github.io/categories/acgn/game/</loc>
+    <lastmod>2021-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/photography/exhibition/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -517,14 +524,14 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/photography/exhibition/</loc>
+    <loc>https://wenyetom.github.io/categories/unboxing/console/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/console/</loc>
+    <loc>https://wenyetom.github.io/categories/unboxing/bd-dvd/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -539,13 +546,6 @@
   
   <url>
     <loc>https://wenyetom.github.io/categories/teaching/hexo-guide/</loc>
-    <lastmod>2021-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/bd-dvd/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
