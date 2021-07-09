@@ -3067,6 +3067,12 @@ mark.search-keyword {
 .main-inner {
   margin-top: 15px;
 }
+@media (min-width: 768px) and (max-width: 991px) {
+  .header,
+  .main-inner {
+    margin: 0px 0px 10px 0px;
+  }
+}
 @media (max-width: 767px) {
   .header,
   .main-inner {
@@ -3080,6 +3086,11 @@ mark.search-keyword {
 }
 .site-brand-container {
   border-radius: 10px 10px 0 0;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .site-brand-container {
+    border-radius: 0 0 10px 10px;
+  }
 }
 @media (max-width: 767px) {
   .site-brand-container {
