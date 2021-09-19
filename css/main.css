@@ -213,7 +213,7 @@ body {
 body {
   background: var(--body-bg-color);
   color: var(--text-color);
-  font-family: Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.125em;
   line-height: 2;
   min-height: 100%;
@@ -226,7 +226,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 30px 0 15px;
@@ -1338,7 +1338,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   margin: 0;
@@ -1981,7 +1981,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -2168,7 +2168,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
@@ -3169,7 +3169,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   padding-top: 20px;
   padding-bottom: 10px;
@@ -3219,11 +3219,28 @@ p {
   color: #555;
 }
 /*--------------- 「文章列表」設定 ---------------*/
+.posts-collapse .post-content .post-header::before {
+  background: #bbb;
+  border: 1px solid #fff;
+  left: -6px;
+  position: absolute;
+  top: 1.15em;
+  transition: background 0.2s ease-in-out;
+  border-radius: 50%;
+  content: ' ';
+  height: 6px;
+  width: 6px;
+}
 .posts-collapse .post-content .collection-year {
   font-size: 1.5em;
   font-weight: bold;
   margin: 30px 0px 30px 0px;
   position: relative;
+}
+.posts-collapse .post-content .post-meta-container {
+  display: inline;
+  font-size: 1em;
+  margin-right: 10px;
 }
 .posts-collapse .post-content .post-title a {
   font-size: 1.25em;
@@ -3231,11 +3248,17 @@ p {
   color: var(--link-color);
 }
 /*--------------- 「分類」設定 ---------------*/
+.category-list-item {
+  background-color: #f7f7f7;
+  padding: 10px 5px;
+  border-radius: 10px;
+}
 .category-list a {
   border-bottom: 0;
+  padding-left: 10px;
 }
 .category-list-child a {
-  border-bottom: 1px solid #999;
+  border-bottom: 0;
 }
 .category-all-page .category-list {
   list-style: none;
@@ -3244,11 +3267,27 @@ p {
   padding: 0;
 }
 .category-list-child li {
+  list-style: none;
   font-size: 1.25rem;
+  background-color: #eee;
+  padding: 5px 10px;
+  width: 95.5%;
+}
+.category-list-link:hover {
+  font-weight: bold;
+}
+.category-list-child li:hover {
+  background-color: #e0e0e0;
 }
 /*--------------- 「頁數按鈕」設定 ---------------*/
 .pagination {
   background: none !important;
+}
+.page-number:hover,
+.prev:hover,
+.next:hover {
+  background: #e4e4e4;
+  border-radius: 5px;
 }
 .pagination .page-number.current {
   background: #aaa;
@@ -3328,4 +3367,15 @@ table {
 #infoBar p {
   margin: 0;
   padding: 5px 0 0 0;
+}
+.post-gallery .post-gallery-image {
+  overflow: hidden;
+  border-radius: 10px;
+}
+.post-gallery .post-gallery-image img {
+  transform: scale(1, 1);
+  transition: all 0.5s ease-out;
+}
+.post-gallery .post-gallery-image img:hover {
+  transform: scale(1.05, 1.05);
 }
