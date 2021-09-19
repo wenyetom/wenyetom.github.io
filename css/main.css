@@ -3278,6 +3278,22 @@ p {
 .category-list-child li:hover {
   background-color: #e0e0e0;
 }
+@media (prefers-color-scheme: dark) {
+  .category-list-item {
+    background-color: #282828;
+    padding: 10px 5px;
+    border-radius: 10px;
+  }
+  .category-list-child li {
+    list-style: none;
+    font-size: 1.25rem;
+    background-color: #393939;
+    padding: 5px 10px;
+  }
+  .category-list-child li:hover {
+    background-color: #2d2d2d;
+  }
+}
 /*--------------- 「頁數按鈕」設定 ---------------*/
 .pagination {
   background: none !important;
