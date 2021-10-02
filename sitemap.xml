@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-6/</loc>
+    
+    <lastmod>2021-10-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-3/</loc>
     
     <lastmod>2021-10-02</lastmod>
@@ -17,13 +24,6 @@
   
   <url>
     <loc>https://wenyetom.github.io/posts/idoly-pride-game-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-6/</loc>
     
     <lastmod>2021-10-02</lastmod>
     
@@ -361,7 +361,28 @@
 
   
   <url>
+    <loc>https://wenyetom.github.io/tags/Teach/</loc>
+    <lastmod>2021-10-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/tags/Hexo/</loc>
+    <lastmod>2021-10-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wenyetom.github.io/tags/Review/</loc>
+    <lastmod>2021-10-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/tags/Tablet/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -417,13 +438,6 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/tags/Teach/</loc>
-    <lastmod>2021-10-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wenyetom.github.io/tags/Game/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
@@ -452,7 +466,7 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/tags/Tablet/</loc>
+    <loc>https://wenyetom.github.io/tags/Figure/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -467,20 +481,6 @@
   
   <url>
     <loc>https://wenyetom.github.io/tags/Console/</loc>
-    <lastmod>2021-10-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/tags/Figure/</loc>
-    <lastmod>2021-10-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/tags/Hexo/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -524,6 +524,20 @@
 
   
   <url>
+    <loc>https://wenyetom.github.io/categories/teaching/</loc>
+    <lastmod>2021-10-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/unboxing/</loc>
+    <lastmod>2021-10-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wenyetom.github.io/categories/acgn/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
@@ -532,6 +546,20 @@
   
   <url>
     <loc>https://wenyetom.github.io/categories/photography/</loc>
+    <lastmod>2021-10-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/unboxing/tablet/</loc>
+    <lastmod>2021-10-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/unboxing/review/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -559,21 +587,14 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/</loc>
+    <loc>https://wenyetom.github.io/categories/unboxing/bd-dvd/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/photography/exhibition/</loc>
-    <lastmod>2021-10-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/teaching/</loc>
+    <loc>https://wenyetom.github.io/categories/unboxing/other/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -587,21 +608,21 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/review/</loc>
+    <loc>https://wenyetom.github.io/categories/unboxing/computer-peripheral/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/tablet/</loc>
+    <loc>https://wenyetom.github.io/categories/unboxing/book/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/other/</loc>
+    <loc>https://wenyetom.github.io/categories/photography/exhibition/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -622,20 +643,6 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/bd-dvd/</loc>
-    <lastmod>2021-10-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/game-console/</loc>
-    <lastmod>2021-10-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wenyetom.github.io/categories/unboxing/figure/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
@@ -643,7 +650,7 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/computer-peripheral/</loc>
+    <loc>https://wenyetom.github.io/categories/unboxing/game-console/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -665,13 +672,6 @@
   
   <url>
     <loc>https://wenyetom.github.io/categories/unboxing/vtuber-birthday-goods/</loc>
-    <lastmod>2021-10-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/book/</loc>
     <lastmod>2021-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
