@@ -3248,36 +3248,48 @@ p {
   color: var(--link-color);
 }
 /*--------------- 「分類」設定 ---------------*/
+/* 調整外部間距 */
+.category-all-page .category-list-item {
+  margin: 5px 10px 10px 10px;
+}
+/* 調整內部底色、間距及圓角 */
 .category-list-item {
   background-color: #f7f7f7;
-  padding: 10px 5px;
+  padding: 10px 15px 10px 5px;
   border-radius: 10px;
 }
+/* 分類超連結的左邊間隔 */
 .category-list a {
   border-bottom: 0;
   padding-left: 10px;
 }
+/* 子分類超連結 */
 .category-list-child a {
   border-bottom: 0;
 }
+/* 母分類文字 */
 .category-all-page .category-list {
   list-style: none;
   font-size: 1.5rem;
   margin: 0;
   padding: 0;
 }
+/* 子分類文字 */
 .category-list-child li {
   list-style: none;
   font-size: 1.25rem;
   background-color: #eee;
   padding: 5px 10px;
 }
+/* 母分類超連結：滑鼠移至上方 */
 .category-list-link:hover {
   font-weight: bold;
 }
+/* 子分類文字：滑鼠移至上方 */
 .category-list-child li:hover {
   background-color: #e0e0e0;
 }
+/* 開啟黑暗模式 */
 @media (prefers-color-scheme: dark) {
   .category-list-item {
     background-color: #282828;
@@ -3295,21 +3307,25 @@ p {
   }
 }
 /*--------------- 「頁數按鈕」設定 ---------------*/
+/* 頁數按鈕 */
 .pagination {
   background: none !important;
 }
+/* 頁數按鈕的 hover 效果 */
 .page-number:hover,
 .prev:hover,
 .next:hover {
   background: #e4e4e4;
   border-radius: 5px;
 }
+/* 目前頁面的頁數按鈕 */
 .pagination .page-number.current {
   background: #aaa;
   border-color: #ccc;
   border-radius: 5px;
   color: var(--content-bg-color);
 }
+/* 目前頁面以外的頁數按鈕 */
 .pagination .prev,
 .pagination .next,
 .pagination .page-number {
@@ -3318,23 +3334,28 @@ p {
   transition: border-color 0.2s ease-in-out;
 }
 /*--------------- 「返回頂部」設定 ---------------*/
-.back-to-top.back-to-top-on {
+/* 返回頂部按鈕 */
+.back-to-top .back-to-top-on {
   cursor: pointer;
   opacity: 0.6;
   border-radius: 0 0 10px 10px;
   color: #000;
 }
-.back-to-top.back-to-top-on:hover {
+/* 返回頂部的 hover 效果 */
+.back-to-top .back-to-top-on:hover {
   opacity: 0.8;
   border-radius: 0 0 10px 10px;
 }
+/* 返回頂部按鈕文字 */
 .back-to-top {
   font-size: 20px;
 }
 /*--------------- 其他 ---------------*/
+/* 標題下的文章資訊區塊（首頁） */
 .index .post-meta {
   justify-content: left;
 }
+/* 有序列表 */
 ol {
   display: block;
   list-style-type: decimal;
@@ -3344,6 +3365,7 @@ ol {
   margin-inline-end: 0px;
   padding-inline-start: 40px;
 }
+/* 表格 */
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -3351,13 +3373,16 @@ table {
   margin: 0 0 20px;
   width: 100%;
 }
+/* 「網站名稱」文字設定 */
 .site-title {
   padding-top: 15px !important;
   padding-bottom: 15px !important;
 }
+/* Copyright 中間 icon */
 .with-love {
   display: none;
 }
+/* 頂部公告區 */
 #infoBar {
   background: #e9e9e9;
   color: #000;
@@ -3383,14 +3408,11 @@ table {
   margin: 0;
   padding: 5px 0 0 0;
 }
+/* 主頁圖片放大效果 */
 .post-gallery .post-gallery-image {
-  overflow: hidden;
-  border-radius: 10px;
-}
-.post-gallery .post-gallery-image img {
   transform: scale(1, 1);
-  transition: all 0.5s ease-out;
+  transition: all 0.25s ease-out;
 }
-.post-gallery .post-gallery-image img:hover {
-  transform: scale(1.05, 1.05);
+.post-gallery .post-gallery-image:hover {
+  transform: scale(1.0125, 1.0125);
 }
