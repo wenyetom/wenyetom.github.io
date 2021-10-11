@@ -643,37 +643,6 @@
       </tags>
   </entry>
   <entry>
-    <title>讓顯卡也能使用waifu2x</title>
-    <url>/posts/using-waifu2x-with-gpu/</url>
-    <content><![CDATA[<p>最近想要用waifu2X的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的waifu2x</p>
-<p>這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的waifu2X</p>
-<span id="more"></span>
-<p>使用Vulkan API，所以顯卡太舊的可能會無法使用</p>
-<h2 id="下載"><a href="#下載" class="headerlink" title="下載"></a>下載</h2><p>下載網址按<a href="https://github.com/nihui/waifu2x-ncnn-vulkan">這裡</a>，有Windows/macOS/Linux三版本可供選擇</p>
-<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p><strong>Step 1:</strong> 解壓縮後，在資料夾的網址列輸入cmd.exe打開命令提示字元<br><img data-src=https://i.imgur.com/YdnRbs5.png><br><br><br><strong>Step 2:</strong> 以這個指令為基礎，可以直接執行，也可以加入其他指令</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">waifu2x-ncnn-vulkan.exe -i input.jpg -o output.png -n 2 -s 2</span><br></pre></td></tr></table></figure>
-<p>其他指令：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-h                   顯示說明</span><br><span class="line">-v                   輸出詳細 (見備註一)</span><br><span class="line">-i input-path        輸入文件路徑</span><br><span class="line">-o output-path       輸出文件路徑</span><br><span class="line">-n noise-level       降噪等級 (-1/0/1/2/3, 預設為0)</span><br><span class="line">-s scale             放大倍率 (1/2, 預設為2)</span><br><span class="line">-t tile-size         塊的大小 (&gt;=32/0皆為自動, 預設為0)</span><br><span class="line">-m model-path        waifu2x樣式選擇(預設為models-cunet，見備註二)</span><br><span class="line">-g gpu-id            gpu device to use (default=0)</span><br><span class="line">-j load:proc:save    載入/處理/儲存所使用的執行緒設定 (預設為=1:2:2，見備註三)</span><br><span class="line">-x                   開啟 tta 模式</span><br><span class="line">-f format            輸出格式設定 (png/webp, 預設為ext/png</span><br></pre></td></tr></table></figure>
-
-<p><em><strong>備註一：</strong>輸出完成後會有以下的說明出現</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">C:\Users\&lt;username&gt;\Desktop\image.jpg -&gt; C:\Users\&lt;username&gt;\Documents\output.png done</span><br></pre></td></tr></table></figure>
-</em>
-
-<p><em><strong>備註二：</strong>處理一般圖片用<code>models-cunet</code>，處理插圖用<code>models-upconv_7_anime_style_art_rgb</code><br></em></p>
-<p><em><strong>備註三：</strong>數字越大，GPU及VRAM的使用率會上升，小圖建議調大、大圖調小<br></em></p>
-<h2 id="GUI版本"><a href="#GUI版本" class="headerlink" title="GUI版本"></a>GUI版本</h2><p>不想打太多指令，就來用GUI版本吧</p>
-<p>下載網址：<br><a href="https://github.com/f11894/waifu2x-ncnn-vulkan-GUI">https://github.com/f11894/waifu2x-ncnn-vulkan-GUI</a></p>
-<p>打開來會是下面這樣子<br><img data-src=https://i.imgur.com/C4GuN3H.png></p>
-<p>功能就跟上面的一樣，需要特別注意的是輸入／輸出不能在同一個位置，不能會輸出失敗</p>
-]]></content>
-      <categories>
-        <category>教學類</category>
-      </categories>
-      <tags>
-        <tag>Teach</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《FGO Waltz》試玩心得</title>
     <url>/posts/fgo-waltz-review/</url>
     <content><![CDATA[<p>我自己是沒在玩 FGO，不過突然瞄到這款慶祝5周年推出的遊戲，裡面的瑪修好可愛</p>
@@ -709,6 +678,37 @@
       <tags>
         <tag>Review</tag>
         <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>讓顯卡也能使用waifu2x</title>
+    <url>/posts/using-waifu2x-with-gpu/</url>
+    <content><![CDATA[<p>最近想要用waifu2X的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的waifu2x</p>
+<p>這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的waifu2X</p>
+<span id="more"></span>
+<p>使用Vulkan API，所以顯卡太舊的可能會無法使用</p>
+<h2 id="下載"><a href="#下載" class="headerlink" title="下載"></a>下載</h2><p>下載網址按<a href="https://github.com/nihui/waifu2x-ncnn-vulkan">這裡</a>，有Windows/macOS/Linux三版本可供選擇</p>
+<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p><strong>Step 1:</strong> 解壓縮後，在資料夾的網址列輸入cmd.exe打開命令提示字元<br><img data-src=https://i.imgur.com/YdnRbs5.png><br><br><br><strong>Step 2:</strong> 以這個指令為基礎，可以直接執行，也可以加入其他指令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">waifu2x-ncnn-vulkan.exe -i input.jpg -o output.png -n 2 -s 2</span><br></pre></td></tr></table></figure>
+<p>其他指令：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-h                   顯示說明</span><br><span class="line">-v                   輸出詳細 (見備註一)</span><br><span class="line">-i input-path        輸入文件路徑</span><br><span class="line">-o output-path       輸出文件路徑</span><br><span class="line">-n noise-level       降噪等級 (-1/0/1/2/3, 預設為0)</span><br><span class="line">-s scale             放大倍率 (1/2, 預設為2)</span><br><span class="line">-t tile-size         塊的大小 (&gt;=32/0皆為自動, 預設為0)</span><br><span class="line">-m model-path        waifu2x樣式選擇(預設為models-cunet，見備註二)</span><br><span class="line">-g gpu-id            gpu device to use (default=0)</span><br><span class="line">-j load:proc:save    載入/處理/儲存所使用的執行緒設定 (預設為=1:2:2，見備註三)</span><br><span class="line">-x                   開啟 tta 模式</span><br><span class="line">-f format            輸出格式設定 (png/webp, 預設為ext/png</span><br></pre></td></tr></table></figure>
+
+<p><em><strong>備註一：</strong>輸出完成後會有以下的說明出現</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">C:\Users\&lt;username&gt;\Desktop\image.jpg -&gt; C:\Users\&lt;username&gt;\Documents\output.png done</span><br></pre></td></tr></table></figure>
+</em>
+
+<p><em><strong>備註二：</strong>處理一般圖片用<code>models-cunet</code>，處理插圖用<code>models-upconv_7_anime_style_art_rgb</code><br></em></p>
+<p><em><strong>備註三：</strong>數字越大，GPU及VRAM的使用率會上升，小圖建議調大、大圖調小<br></em></p>
+<h2 id="GUI版本"><a href="#GUI版本" class="headerlink" title="GUI版本"></a>GUI版本</h2><p>不想打太多指令，就來用GUI版本吧</p>
+<p>下載網址：<br><a href="https://github.com/f11894/waifu2x-ncnn-vulkan-GUI">https://github.com/f11894/waifu2x-ncnn-vulkan-GUI</a></p>
+<p>打開來會是下面這樣子<br><img data-src=https://i.imgur.com/C4GuN3H.png></p>
+<p>功能就跟上面的一樣，需要特別注意的是輸入／輸出不能在同一個位置，不能會輸出失敗</p>
+]]></content>
+      <categories>
+        <category>教學類</category>
+      </categories>
+      <tags>
+        <tag>Teach</tag>
       </tags>
   </entry>
   <entry>
@@ -1081,30 +1081,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《少女與戰車最終章》第1+2話 有雷心得</title>
-    <url>/posts/girls-und-panzer-das-finale-part-1-and-2-review/</url>
-    <content><![CDATA[<p>昨天才決定要來看，原因是看到第二週特典送底片，加上我從沒看過4DX的電影，所以就來體驗一下。</p>
-<span id="more"></span>
-
-<p>這次是去林口威秀看的，看網路上的評價是各方面都有80分以上。實際體驗後是真的挺不錯的，尤其是有幾個片段是大洗跟其他學校對峙時，震動、氣流、晃動等好幾個效果同時出現，會有多爽相信只要有去看的都能夠體會</p>
-<p>當然除了這些之外，在戰車下水的時候有噴水霧，下雨的時候也會有雨滴，但我覺得雨滴比較像是灑水啦</p>
-<p>接著是劇情的部分。故事是以拯救桃子免於留級為起點，讓桃子當上隊長並獲勝，好讓她能夠錄取不錯的大學</p>
-<p>第一戰對上BC自由學園，總隊長瑪莉瘋狂吃蛋糕，策略似乎都是其他隊長制定，但是光是校內就分成兩個派系，兩派也經常爭吵，但是這次卻團結在一起，將大洗逼入危機之中。</p>
-<p>不過最後大洗使出一些手段，讓BC的兩派隊長誤認為是對方在打自己，因此兩人也殺紅了眼，即使到後面瑪莉發現不對勁，也還是無事於補，旗車被包圍擊毀</p>
-<p>第二戰則是對上知波單學園，這次不是一味的突襲，而是想了許多對策，並且結尾都加了突襲兩字，但實際上跟突襲一點關係都沒有</p>
-<p>與知波單的對決只到這邊而已，要看後續可能要2~3年後才會有吧，如果不意外的話下次去看應該是3+4的時候了</p>
-<p>如果沒看過的，推薦大家去看，光是4DX的效果就很值得去看。</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src=https://1.bp.blogspot.com/-eCnYbljUEJA/X4qjkf4crkI/AAAAAAAAUHo/-YPGT6uGN9M2T-8h-dxeF3sJyKxVAmlTQCPcBGAsYHg/s2000/IMG_20201017_122055.jpg></div><div class="group-picture-column"><img data-src=https://1.bp.blogspot.com/-BWjy_OFg0IU/X4qjkSeLBmI/AAAAAAAAUHo/dut1yePkeokvjMnR0VFe4HHw0ugTAXhrwCPcBGAsYHg/s2000/IMG_20201017_153024.jpg></div></div></div>]]></content>
-      <categories>
-        <category>ACGN類</category>
-        <category>動畫電影心得</category>
-      </categories>
-      <tags>
-        <tag>Review</tag>
-        <tag>Anime Movie</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2020年秋季動畫心得</title>
     <url>/posts/2020-fall-anime-review/</url>
     <content><![CDATA[<p>今年10月應該是自從2018年後最閒的一次了，也因此這次看了10幾部動畫</p>
@@ -1166,6 +1142,30 @@
       <tags>
         <tag>Review</tag>
         <tag>Anime</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《少女與戰車最終章》第1+2話 有雷心得</title>
+    <url>/posts/girls-und-panzer-das-finale-part-1-and-2-review/</url>
+    <content><![CDATA[<p>昨天才決定要來看，原因是看到第二週特典送底片，加上我從沒看過4DX的電影，所以就來體驗一下。</p>
+<span id="more"></span>
+
+<p>這次是去林口威秀看的，看網路上的評價是各方面都有80分以上。實際體驗後是真的挺不錯的，尤其是有幾個片段是大洗跟其他學校對峙時，震動、氣流、晃動等好幾個效果同時出現，會有多爽相信只要有去看的都能夠體會</p>
+<p>當然除了這些之外，在戰車下水的時候有噴水霧，下雨的時候也會有雨滴，但我覺得雨滴比較像是灑水啦</p>
+<p>接著是劇情的部分。故事是以拯救桃子免於留級為起點，讓桃子當上隊長並獲勝，好讓她能夠錄取不錯的大學</p>
+<p>第一戰對上BC自由學園，總隊長瑪莉瘋狂吃蛋糕，策略似乎都是其他隊長制定，但是光是校內就分成兩個派系，兩派也經常爭吵，但是這次卻團結在一起，將大洗逼入危機之中。</p>
+<p>不過最後大洗使出一些手段，讓BC的兩派隊長誤認為是對方在打自己，因此兩人也殺紅了眼，即使到後面瑪莉發現不對勁，也還是無事於補，旗車被包圍擊毀</p>
+<p>第二戰則是對上知波單學園，這次不是一味的突襲，而是想了許多對策，並且結尾都加了突襲兩字，但實際上跟突襲一點關係都沒有</p>
+<p>與知波單的對決只到這邊而已，要看後續可能要2~3年後才會有吧，如果不意外的話下次去看應該是3+4的時候了</p>
+<p>如果沒看過的，推薦大家去看，光是4DX的效果就很值得去看。</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src=https://1.bp.blogspot.com/-eCnYbljUEJA/X4qjkf4crkI/AAAAAAAAUHo/-YPGT6uGN9M2T-8h-dxeF3sJyKxVAmlTQCPcBGAsYHg/s2000/IMG_20201017_122055.jpg></div><div class="group-picture-column"><img data-src=https://1.bp.blogspot.com/-BWjy_OFg0IU/X4qjkSeLBmI/AAAAAAAAUHo/dut1yePkeokvjMnR0VFe4HHw0ugTAXhrwCPcBGAsYHg/s2000/IMG_20201017_153024.jpg></div></div></div>]]></content>
+      <categories>
+        <category>ACGN類</category>
+        <category>動畫電影心得</category>
+      </categories>
+      <tags>
+        <tag>Review</tag>
+        <tag>Anime Movie</tag>
       </tags>
   </entry>
   <entry>
@@ -1507,37 +1507,6 @@
       </tags>
   </entry>
   <entry>
-    <title>人生首台遊戲主機：Nintendo Switch</title>
-    <url>/posts/nintendo-switch-unboxing/</url>
-    <content><![CDATA[<p>人生邁入二字頭卻還沒有屬於自己的遊戲主機，這就是所謂的沒童年嗎？</p>
-<p>不過就在農曆過年前被朋友推坑之後，眼前就出現了一台 Switch 了 XD</p>
-<span id="more"></span>
-
-<p>在選購的時候是以主機綁兩款遊戲為首選，於是就分別找了</p>
-<ul>
-<li>12.9K 灰灰主機 + 曠野之息 + 動森</li>
-<li>13.3K 藍紅主機 + DQ11 + 動森</li>
-</ul>
-<p>這兩種搭配組合，最後我是決定前者，比較便宜而且我對薩爾達比較感興趣</p>
-<p>雖然剛下訂的時候覺得灰灰配色沒有藍紅配色好看，但是實際看起來灰灰配色也是挺不錯的</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://1.bp.blogspot.com/-6FoN9CQQMd0/YEwPjuXslYI/AAAAAAAAYXs/9FndUJmb8fElYPL0VAjCcJnE3GJSboVSwCPcBGAsYHg/s2288/P_20210215_144814.jpg"></div><div class="group-picture-column"><img data-src="https://1.bp.blogspot.com/-r84r02csuQE/YEwPjmrd2SI/AAAAAAAAYXs/hkPXPPSbA0MP9T9TYOq_qxplx_HNCPgXQCPcBGAsYHg/s2288/P_20210215_145041.jpg"></div></div></div>
-
-<p>過了幾個星期之後，有一點點的心得可以說一下</p>
-<p>首先就是「薩爾達傳說 曠野之息」真的很好玩，光是剛買來的一星期內就玩了 40 小時以上。後來也買了 DLC 並且決定用大師模式重玩，不過買 DLC 的時候已經是開學後了，所以遊玩時間也變得很少，不過每當我打開遊戲卻總是會停不下來，不知道該以什麼進度作為斷點，或許這就是這種極度自由的遊玩方式所帶來的魅力吧XD</p>
-<p>另外說一點比較意外的地方，就是我本來以為任天堂的遊戲應該不會掉幀，但是在玩曠野之息的時候畫面稍微複雜就還是會掉，不過也只是偶爾會掉而已，所以影響不大</p>
-<p>至於動森嘛…因為薩爾達還沒破關，所以應該要之後才會玩吧。</p>
-]]></content>
-      <categories>
-        <category>開箱類</category>
-        <category>遊戲主機</category>
-      </categories>
-      <tags>
-        <tag>Unboxing</tag>
-        <tag>Daily</tag>
-        <tag>Console</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>比上不足，比下有餘：iPad Air 4 開箱與使用心得</title>
     <url>/posts/ipad-air-4-unboxing/</url>
     <content><![CDATA[<p>最近家人買了一台 iPad Air 4，然後說可以借我用幾個星期這樣子。於是就趁這個機會來寫一篇開箱文，順便講講這台跟 iPad 7th 的差別。</p>
@@ -1599,6 +1568,37 @@
       <tags>
         <tag>Tablet</tag>
         <tag>Unboxing</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人生首台遊戲主機：Nintendo Switch</title>
+    <url>/posts/nintendo-switch-unboxing/</url>
+    <content><![CDATA[<p>人生邁入二字頭卻還沒有屬於自己的遊戲主機，這就是所謂的沒童年嗎？</p>
+<p>不過就在農曆過年前被朋友推坑之後，眼前就出現了一台 Switch 了 XD</p>
+<span id="more"></span>
+
+<p>在選購的時候是以主機綁兩款遊戲為首選，於是就分別找了</p>
+<ul>
+<li>12.9K 灰灰主機 + 曠野之息 + 動森</li>
+<li>13.3K 藍紅主機 + DQ11 + 動森</li>
+</ul>
+<p>這兩種搭配組合，最後我是決定前者，比較便宜而且我對薩爾達比較感興趣</p>
+<p>雖然剛下訂的時候覺得灰灰配色沒有藍紅配色好看，但是實際看起來灰灰配色也是挺不錯的</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://1.bp.blogspot.com/-6FoN9CQQMd0/YEwPjuXslYI/AAAAAAAAYXs/9FndUJmb8fElYPL0VAjCcJnE3GJSboVSwCPcBGAsYHg/s2288/P_20210215_144814.jpg"></div><div class="group-picture-column"><img data-src="https://1.bp.blogspot.com/-r84r02csuQE/YEwPjmrd2SI/AAAAAAAAYXs/hkPXPPSbA0MP9T9TYOq_qxplx_HNCPgXQCPcBGAsYHg/s2288/P_20210215_145041.jpg"></div></div></div>
+
+<p>過了幾個星期之後，有一點點的心得可以說一下</p>
+<p>首先就是「薩爾達傳說 曠野之息」真的很好玩，光是剛買來的一星期內就玩了 40 小時以上。後來也買了 DLC 並且決定用大師模式重玩，不過買 DLC 的時候已經是開學後了，所以遊玩時間也變得很少，不過每當我打開遊戲卻總是會停不下來，不知道該以什麼進度作為斷點，或許這就是這種極度自由的遊玩方式所帶來的魅力吧XD</p>
+<p>另外說一點比較意外的地方，就是我本來以為任天堂的遊戲應該不會掉幀，但是在玩曠野之息的時候畫面稍微複雜就還是會掉，不過也只是偶爾會掉而已，所以影響不大</p>
+<p>至於動森嘛…因為薩爾達還沒破關，所以應該要之後才會玩吧。</p>
+]]></content>
+      <categories>
+        <category>開箱類</category>
+        <category>遊戲主機</category>
+      </categories>
+      <tags>
+        <tag>Unboxing</tag>
+        <tag>Daily</tag>
+        <tag>Console</tag>
       </tags>
   </entry>
   <entry>
@@ -1700,6 +1700,73 @@
       </tags>
   </entry>
   <entry>
+    <title>Hexo 簡易調教指南（一）：軟體安裝及網站建構</title>
+    <url>/posts/hexo-guide-chapter-1/</url>
+    <content><![CDATA[<p>上一篇「<a href="https://home.gamer.com.tw/creationDetail.php?sn=4849277">10分鐘內從安裝Hexo到佈署至GitHub Pages</a>」教大家用短短 10 分鐘來建立屬於自己的網站。這次我想進階一點，將我所用到的功能介紹給大家</p>
+<span id="more"></span>
+
+<p>第一章基本上是以「10 分鐘架設Hexo網站」為基礎，並修改、增加一些內容。</p>
+<h2 id="介紹"><a href="#介紹" class="headerlink" title="介紹"></a>介紹</h2><p>Hexo 是其中一款靜態網站建立工具，靜態網站和動態網站最大的不同就在於前者的內容是固定的，而後者的內容則是會因使用者的不同而產生變化。因此，靜態網站在單純發布文章的情況下具備了高安全性、載入速度快、調整彈性大等優點。</p>
+<h2 id="前置準備"><a href="#前置準備" class="headerlink" title="前置準備"></a>前置準備</h2><h3 id="使用軟體"><a href="#使用軟體" class="headerlink" title="使用軟體"></a>使用軟體</h3><p>安裝以下軟體（使用預設值安裝）：</p>
+<ol>
+<li>Git（必備，選擇最新版本）</li>
+<li>Node.js（必備，選擇 v12 LTS 的最新／任一版本皆可）</li>
+<li>Visual Studio Code（非必備，有自己慣用的編輯器可以不裝）</li>
+</ol>
+<h3 id="建立專案"><a href="#建立專案" class="headerlink" title="建立專案"></a>建立專案</h3><p>首先要有一個 GitHub 帳號以便部屬網站到 GitHub Pages，如果已經有帳號可以直接跳到 <strong>Step 2</strong></p>
+<p><strong>Step 1:</strong> 註冊一個 <a href="https://github.com/">GitHub</a> 帳號</p>
+<p><strong>Step 2:</strong> 點選右上角的「+」→「New repository」</p>
+<p><strong>Step 3:</strong> 在 Repository name 填入「&lt;username&gt;.github.io」，接著點選「Create repository」</p>
+<h2 id="開始安裝"><a href="#開始安裝" class="headerlink" title="開始安裝"></a>開始安裝</h2><h3 id="Hexo-常用指令"><a href="#Hexo-常用指令" class="headerlink" title="Hexo 常用指令"></a>Hexo 常用指令</h3><p>先介紹幾個常用的指令</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate <span class="comment"># 產生靜態網頁檔案</span></span><br><span class="line">hexo clean <span class="comment"># 清除靜態網頁檔案和快取</span></span><br><span class="line">hexo server <span class="comment"># 開啟伺服器</span></span><br><span class="line">hexo server --draft <span class="comment"># 開啟伺服器並顯示草稿</span></span><br><span class="line">hexo server -p 4000 <span class="comment"># 開啟伺服器並使用自訂的端口（數字自訂）</span></span><br><span class="line">hexo new [layout] &lt;titile&gt; <span class="comment"># 新增文章或頁面</span></span><br><span class="line">hexo deploy <span class="comment"># 部屬網頁</span></span><br><span class="line"><span class="comment"># 除了第二個指令之外的縮寫都是第一個英文字母（例如：hexo generate 的縮寫為 hexo g）</span></span><br><span class="line"><span class="comment"># 第二個指令的縮寫則是hexo cl</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="安裝-Hexo"><a href="#安裝-Hexo" class="headerlink" title="安裝 Hexo"></a>安裝 Hexo</h3><p>首先在想要儲存網站資料的地方點選滑鼠右鍵，選擇「Git Bash Here」</p>
+<p>輸入下列指令可以檢查 Node.js 以及 npm 的版本</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure>
+
+<p>確認都沒有問題之後，就可以輸入下列指令來安裝 Hexo</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+
+<p>建立存放網站資料的資料夾（如果不輸入資料夾名稱的話就會在目前路徑建立檔案）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init &lt;自訂資料夾名稱&gt;</span><br></pre></td></tr></table></figure>
+
+<p>把路徑切換至剛剛建立的資料夾</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> &lt;資料夾名稱&gt;</span><br></pre></td></tr></table></figure>
+
+<p>安裝額外的模組</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure>
+
+<p>上述指令都執行後就大功告成了，輸入 <code>hexo g</code> 和 <code>hexo s</code> 建立網站資料和開啟伺服器</p>
+<p>然後在瀏覽器輸入 <a href="http://localhost:4000/">http://localhost:4000</a> 就可以預覽網站了</p>
+<p><strong>提示：</strong>按下 Ctrl + C 可以關閉伺服器</p>
+<h3 id="安裝主題"><a href="#安裝主題" class="headerlink" title="安裝主題"></a>安裝主題</h3><p>上一篇介紹了 <a href="https://github.com/ppoffice/hexo-theme-icarus">ICARUS</a> 這一個主題，這一次要安裝的主題為 <a href="https://github.com/next-theme/hexo-theme-next">NexT</a></p>
+<p>Hexo 的主題提供 npm 和 git clone 兩種安裝方式。為了方便更新主題，建議大家使用 npm 來安裝</p>
+<p>安裝的方式很簡單，在終端機輸入下列指令就可以了</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-theme-next</span><br></pre></td></tr></table></figure>
+
+<p>打開網站根目錄中的 <code>_config.yml</code>，找到 theme 後把 landscape 改成 next</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Extensions</span></span><br><span class="line"><span class="comment">## Plugins: https://hexo.io/plugins/</span></span><br><span class="line"><span class="comment">## Themes: https://hexo.io/themes/</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">next</span> <span class="comment">#原本為 landscape，修改為 next</span></span><br></pre></td></tr></table></figure>
+
+<p><img data-src="https://i.imgur.com/ZzxuYHX.png"></p>
+<p>最後回到終端機執行 <code>hexo g</code> 和 <code>hexo s</code>，沒有意外的話就能在終端機內看到「NEXT」字樣，網站主題也會變成跟下圖一樣</p>
+<p><img data-src="https://i.imgur.com/BpmsVL3.png"></p>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>這系列本來在一月多就開始動工了，結果到了五月才發表，真的是拖了非常久呢</p>
+<p>下一篇會介紹如何設定網站，敬請期待</p>
+<p>更新時間不定…</p>
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><p><a href="https://ithelp.ithome.com.tw/users/20119486/ironman/2944">試著學 Hexo :: 第 12 屆 iT 邦幫忙鐵人賽</a></p>
+<p><a href="https://hexo.io/zh-tw/docs/">文件 | Hexo</a></p>
+<p><a href="https://zespia.tw/">Zespia</a></p>
+]]></content>
+      <categories>
+        <category>教學類</category>
+        <category>Hexo 簡易調教指南</category>
+      </categories>
+      <tags>
+        <tag>Teach</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo 簡易調教指南（二）：網站設定</title>
     <url>/posts/hexo-guide-chapter-2/</url>
     <content><![CDATA[<p>建立好屬於自己的網站之後，接著就是要開始調整網站內的設定了</p>
@@ -1775,73 +1842,6 @@
 <p>修改完內在之後，下一篇就要開始裝飾（調教）外表（主題）了</p>
 <h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><p><a href="https://ithelp.ithome.com.tw/users/20119486/ironman/2944">試著學 Hexo :: 第 12 屆 iT 邦幫忙鐵人賽</a></p>
 <p><a href="https://hexo.io/zh-tw/docs/">文件 | Hexo</a></p>
-]]></content>
-      <categories>
-        <category>教學類</category>
-        <category>Hexo 簡易調教指南</category>
-      </categories>
-      <tags>
-        <tag>Teach</tag>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo 簡易調教指南（一）：軟體安裝及網站建構</title>
-    <url>/posts/hexo-guide-chapter-1/</url>
-    <content><![CDATA[<p>上一篇「<a href="https://home.gamer.com.tw/creationDetail.php?sn=4849277">10分鐘內從安裝Hexo到佈署至GitHub Pages</a>」教大家用短短 10 分鐘來建立屬於自己的網站。這次我想進階一點，將我所用到的功能介紹給大家</p>
-<span id="more"></span>
-
-<p>第一章基本上是以「10 分鐘架設Hexo網站」為基礎，並修改、增加一些內容。</p>
-<h2 id="介紹"><a href="#介紹" class="headerlink" title="介紹"></a>介紹</h2><p>Hexo 是其中一款靜態網站建立工具，靜態網站和動態網站最大的不同就在於前者的內容是固定的，而後者的內容則是會因使用者的不同而產生變化。因此，靜態網站在單純發布文章的情況下具備了高安全性、載入速度快、調整彈性大等優點。</p>
-<h2 id="前置準備"><a href="#前置準備" class="headerlink" title="前置準備"></a>前置準備</h2><h3 id="使用軟體"><a href="#使用軟體" class="headerlink" title="使用軟體"></a>使用軟體</h3><p>安裝以下軟體（使用預設值安裝）：</p>
-<ol>
-<li>Git（必備，選擇最新版本）</li>
-<li>Node.js（必備，選擇 v12 LTS 的最新／任一版本皆可）</li>
-<li>Visual Studio Code（非必備，有自己慣用的編輯器可以不裝）</li>
-</ol>
-<h3 id="建立專案"><a href="#建立專案" class="headerlink" title="建立專案"></a>建立專案</h3><p>首先要有一個 GitHub 帳號以便部屬網站到 GitHub Pages，如果已經有帳號可以直接跳到 <strong>Step 2</strong></p>
-<p><strong>Step 1:</strong> 註冊一個 <a href="https://github.com/">GitHub</a> 帳號</p>
-<p><strong>Step 2:</strong> 點選右上角的「+」→「New repository」</p>
-<p><strong>Step 3:</strong> 在 Repository name 填入「&lt;username&gt;.github.io」，接著點選「Create repository」</p>
-<h2 id="開始安裝"><a href="#開始安裝" class="headerlink" title="開始安裝"></a>開始安裝</h2><h3 id="Hexo-常用指令"><a href="#Hexo-常用指令" class="headerlink" title="Hexo 常用指令"></a>Hexo 常用指令</h3><p>先介紹幾個常用的指令</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate <span class="comment"># 產生靜態網頁檔案</span></span><br><span class="line">hexo clean <span class="comment"># 清除靜態網頁檔案和快取</span></span><br><span class="line">hexo server <span class="comment"># 開啟伺服器</span></span><br><span class="line">hexo server --draft <span class="comment"># 開啟伺服器並顯示草稿</span></span><br><span class="line">hexo server -p 4000 <span class="comment"># 開啟伺服器並使用自訂的端口（數字自訂）</span></span><br><span class="line">hexo new [layout] &lt;titile&gt; <span class="comment"># 新增文章或頁面</span></span><br><span class="line">hexo deploy <span class="comment"># 部屬網頁</span></span><br><span class="line"><span class="comment"># 除了第二個指令之外的縮寫都是第一個英文字母（例如：hexo generate 的縮寫為 hexo g）</span></span><br><span class="line"><span class="comment"># 第二個指令的縮寫則是hexo cl</span></span><br></pre></td></tr></table></figure>
-
-<h3 id="安裝-Hexo"><a href="#安裝-Hexo" class="headerlink" title="安裝 Hexo"></a>安裝 Hexo</h3><p>首先在想要儲存網站資料的地方點選滑鼠右鍵，選擇「Git Bash Here」</p>
-<p>輸入下列指令可以檢查 Node.js 以及 npm 的版本</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure>
-
-<p>確認都沒有問題之後，就可以輸入下列指令來安裝 Hexo</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
-
-<p>建立存放網站資料的資料夾（如果不輸入資料夾名稱的話就會在目前路徑建立檔案）</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init &lt;自訂資料夾名稱&gt;</span><br></pre></td></tr></table></figure>
-
-<p>把路徑切換至剛剛建立的資料夾</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> &lt;資料夾名稱&gt;</span><br></pre></td></tr></table></figure>
-
-<p>安裝額外的模組</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure>
-
-<p>上述指令都執行後就大功告成了，輸入 <code>hexo g</code> 和 <code>hexo s</code> 建立網站資料和開啟伺服器</p>
-<p>然後在瀏覽器輸入 <a href="http://localhost:4000/">http://localhost:4000</a> 就可以預覽網站了</p>
-<p><strong>提示：</strong>按下 Ctrl + C 可以關閉伺服器</p>
-<h3 id="安裝主題"><a href="#安裝主題" class="headerlink" title="安裝主題"></a>安裝主題</h3><p>上一篇介紹了 <a href="https://github.com/ppoffice/hexo-theme-icarus">ICARUS</a> 這一個主題，這一次要安裝的主題為 <a href="https://github.com/next-theme/hexo-theme-next">NexT</a></p>
-<p>Hexo 的主題提供 npm 和 git clone 兩種安裝方式。為了方便更新主題，建議大家使用 npm 來安裝</p>
-<p>安裝的方式很簡單，在終端機輸入下列指令就可以了</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-theme-next</span><br></pre></td></tr></table></figure>
-
-<p>打開網站根目錄中的 <code>_config.yml</code>，找到 theme 後把 landscape 改成 next</p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Extensions</span></span><br><span class="line"><span class="comment">## Plugins: https://hexo.io/plugins/</span></span><br><span class="line"><span class="comment">## Themes: https://hexo.io/themes/</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">next</span> <span class="comment">#原本為 landscape，修改為 next</span></span><br></pre></td></tr></table></figure>
-
-<p><img data-src="https://i.imgur.com/ZzxuYHX.png"></p>
-<p>最後回到終端機執行 <code>hexo g</code> 和 <code>hexo s</code>，沒有意外的話就能在終端機內看到「NEXT」字樣，網站主題也會變成跟下圖一樣</p>
-<p><img data-src="https://i.imgur.com/BpmsVL3.png"></p>
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>這系列本來在一月多就開始動工了，結果到了五月才發表，真的是拖了非常久呢</p>
-<p>下一篇會介紹如何設定網站，敬請期待</p>
-<p>更新時間不定…</p>
-<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><p><a href="https://ithelp.ithome.com.tw/users/20119486/ironman/2944">試著學 Hexo :: 第 12 屆 iT 邦幫忙鐵人賽</a></p>
-<p><a href="https://hexo.io/zh-tw/docs/">文件 | Hexo</a></p>
-<p><a href="https://zespia.tw/">Zespia</a></p>
 ]]></content>
       <categories>
         <category>教學類</category>
