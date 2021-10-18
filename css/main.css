@@ -3391,11 +3391,7 @@ ol {
 }
 /* 表格 */
 table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  font-size: 0.875em;
-  margin: 0 0 20px;
-  width: 100%;
+  font-size: 1em;
 }
 /* 「網站名稱」文字設定 */
 .site-title {
@@ -3438,6 +3434,16 @@ table {
   transform: scale(1, 1);
   transition: all 0.25s ease-out;
 }
+@media (max-width: 767px) {
+  .post-gallery .post-gallery-image {
+    transform: none;
+  }
+}
 .post-gallery .post-gallery-image:hover {
   transform: scale(1.0125, 1.0125);
+}
+@media (max-width: 767px) {
+  .post-gallery .post-gallery-image:hover {
+    transform: none;
+  }
 }

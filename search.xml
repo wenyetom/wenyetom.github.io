@@ -643,6 +643,57 @@
       </tags>
   </entry>
   <entry>
+    <title>讓顯卡也能使用waifu2x</title>
+    <url>/posts/using-waifu2x-with-gpu/</url>
+    <content><![CDATA[<p>最近想要用 waifu2X 的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的 waifu2x</p>
+<p>這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的 waifu2X</p>
+<span id="more"></span>
+
+<p>使用 Vulkan API，所以顯卡太舊的可能會無法使用</p>
+<h2 id="下載"><a href="#下載" class="headerlink" title="下載"></a>下載</h2><p>下載網址按<a href="https://github.com/nihui/waifu2x-ncnn-vulkan">這裡</a>，有Windows/macOS/Linux三版本可供選擇</p>
+<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p><strong>Step 1:</strong> 解壓縮後，在資料夾的網址列輸入 cmd.exe 打開命令提示字元</p>
+<p><img data-src="https://i.imgur.com/YdnRbs5.png"></p>
+<p><strong>Step 2:</strong> 以這個指令為基礎，可以直接執行，也可以加入其他指令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">waifu2x-ncnn-vulkan.exe -i input.jpg -o output.png -n 2 -s 2</span><br></pre></td></tr></table></figure>
+
+<p>其他指令：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-h                   顯示說明</span><br><span class="line">-v                   輸出詳細 (見備註一)</span><br><span class="line">-i input-path        輸入文件路徑</span><br><span class="line">-o output-path       輸出文件路徑</span><br><span class="line">-n noise-level       降噪等級 (-1/0/1/2/3, 預設為0)</span><br><span class="line">-s scale             放大倍率 (1/2, 預設為2)</span><br><span class="line">-t tile-size         塊的大小 (&gt;=32/0皆為自動, 預設為0)</span><br><span class="line">-m model-path        waifu2x樣式選擇(預設為models-cunet，見備註二)</span><br><span class="line">-g gpu-id            gpu device to use (default=0)</span><br><span class="line">-j load:proc:save    載入/處理/儲存所使用的執行緒設定 (預設為=1:2:2，見備註三)</span><br><span class="line">-x                   開啟 tta 模式</span><br><span class="line">-f format            輸出格式設定 (png/webp, 預設為ext/png</span><br></pre></td></tr></table></figure>
+
+<em>
+
+<p><strong>備註一</strong></p>
+</em>
+
+<p>輸出完成後會有以下的說明出現</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">C:\Users\&lt;username&gt;\Desktop\image.jpg -&gt; C:\Users\&lt;username&gt;\Documents\output.png done</span><br></pre></td></tr></table></figure>
+
+
+
+<em>
+
+<p><strong>備註二</strong></p>
+</em>
+
+<p>處理一般圖片用 <code>models-cunet</code> ，處理插圖用 <code>models-upconv_7_anime_style_art_rgb</code></p>
+<em>
+
+<p><strong>備註三</strong></p>
+</em>
+
+<p>數字越大，GPU 及 VRAM 的使用率會上升，小圖建議調大、大圖調小</p>
+<h2 id="GUI版本"><a href="#GUI版本" class="headerlink" title="GUI版本"></a>GUI版本</h2><p>不想打太多指令，就來用 GUI 版本吧</p>
+<p>下載網址：<a href="https://github.com/f11894/waifu2x-ncnn-vulkan-GUI">https://github.com/f11894/waifu2x-ncnn-vulkan-GUI</a></p>
+<p>打開來會是下面這樣子<br><img data-src="https://i.imgur.com/C4GuN3H.png"></p>
+<p>功能就跟上面的一樣，需要特別注意的是來源路徑和輸出路徑不能一樣，否則會輸出失敗</p>
+]]></content>
+      <categories>
+        <category>教學類</category>
+      </categories>
+      <tags>
+        <tag>Teach</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《FGO Waltz》試玩心得</title>
     <url>/posts/fgo-waltz-review/</url>
     <content><![CDATA[<p>我自己是沒在玩 FGO，不過突然瞄到這款慶祝5周年推出的遊戲，裡面的瑪修好可愛</p>
@@ -678,37 +729,6 @@
       <tags>
         <tag>Review</tag>
         <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>讓顯卡也能使用waifu2x</title>
-    <url>/posts/using-waifu2x-with-gpu/</url>
-    <content><![CDATA[<p>最近想要用waifu2X的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的waifu2x</p>
-<p>這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的waifu2X</p>
-<span id="more"></span>
-<p>使用Vulkan API，所以顯卡太舊的可能會無法使用</p>
-<h2 id="下載"><a href="#下載" class="headerlink" title="下載"></a>下載</h2><p>下載網址按<a href="https://github.com/nihui/waifu2x-ncnn-vulkan">這裡</a>，有Windows/macOS/Linux三版本可供選擇</p>
-<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p><strong>Step 1:</strong> 解壓縮後，在資料夾的網址列輸入cmd.exe打開命令提示字元<br><img data-src=https://i.imgur.com/YdnRbs5.png><br><br><br><strong>Step 2:</strong> 以這個指令為基礎，可以直接執行，也可以加入其他指令</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">waifu2x-ncnn-vulkan.exe -i input.jpg -o output.png -n 2 -s 2</span><br></pre></td></tr></table></figure>
-<p>其他指令：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-h                   顯示說明</span><br><span class="line">-v                   輸出詳細 (見備註一)</span><br><span class="line">-i input-path        輸入文件路徑</span><br><span class="line">-o output-path       輸出文件路徑</span><br><span class="line">-n noise-level       降噪等級 (-1/0/1/2/3, 預設為0)</span><br><span class="line">-s scale             放大倍率 (1/2, 預設為2)</span><br><span class="line">-t tile-size         塊的大小 (&gt;=32/0皆為自動, 預設為0)</span><br><span class="line">-m model-path        waifu2x樣式選擇(預設為models-cunet，見備註二)</span><br><span class="line">-g gpu-id            gpu device to use (default=0)</span><br><span class="line">-j load:proc:save    載入/處理/儲存所使用的執行緒設定 (預設為=1:2:2，見備註三)</span><br><span class="line">-x                   開啟 tta 模式</span><br><span class="line">-f format            輸出格式設定 (png/webp, 預設為ext/png</span><br></pre></td></tr></table></figure>
-
-<p><em><strong>備註一：</strong>輸出完成後會有以下的說明出現</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">C:\Users\&lt;username&gt;\Desktop\image.jpg -&gt; C:\Users\&lt;username&gt;\Documents\output.png done</span><br></pre></td></tr></table></figure>
-</em>
-
-<p><em><strong>備註二：</strong>處理一般圖片用<code>models-cunet</code>，處理插圖用<code>models-upconv_7_anime_style_art_rgb</code><br></em></p>
-<p><em><strong>備註三：</strong>數字越大，GPU及VRAM的使用率會上升，小圖建議調大、大圖調小<br></em></p>
-<h2 id="GUI版本"><a href="#GUI版本" class="headerlink" title="GUI版本"></a>GUI版本</h2><p>不想打太多指令，就來用GUI版本吧</p>
-<p>下載網址：<br><a href="https://github.com/f11894/waifu2x-ncnn-vulkan-GUI">https://github.com/f11894/waifu2x-ncnn-vulkan-GUI</a></p>
-<p>打開來會是下面這樣子<br><img data-src=https://i.imgur.com/C4GuN3H.png></p>
-<p>功能就跟上面的一樣，需要特別注意的是輸入／輸出不能在同一個位置，不能會輸出失敗</p>
-]]></content>
-      <categories>
-        <category>教學類</category>
-      </categories>
-      <tags>
-        <tag>Teach</tag>
       </tags>
   </entry>
   <entry>
@@ -781,234 +801,239 @@
     <url>/posts/priconne-give-statistics/</url>
     <content><![CDATA[<p>為什麼會想要整理這些東西呢？一方面是我有興趣想知道，另一方面是想要知道台版福利是否如大家所說的好，於是這個資料就誕生了</p>
 <p>以下資料都是從官網的最新消息裡找出來的，日版官網還可以看圖片確認，但台版官網就只能看標題然後點進去確認，相對麻煩不少</p>
-<p>主要是台版和日版的比較，但有加入其他版本（中、韓、泰、美）的送石資料，提供給大家對比、參考</p>
-<p>更新頻率為固定月初一次、其餘時間不定時</p>
-<p>想獲得最新資訊可至<a href="https://home.gamer.com.tw/creationDetail.php?sn=4915862">巴哈姆特小屋</a>或參閱<a href="https://bit.ly/priconnegivestatistics">此表格</a>。</p>
+<p>主要是台版和日版的比較，但也有加入其他版本（中、韓、泰、美）的送石資料，提供給大家對比以及參考</p>
+<p>更新頻率時間不定時，如果想獲得最新資訊可至<a href="https://home.gamer.com.tw/creationDetail.php?sn=4915862">巴哈姆特小屋</a>或參閱<a href="https://bit.ly/priconnegivestatistics">此表格</a>。</p>
 <span id="more"></span>
 
 <h2 id="統計"><a href="#統計" class="headerlink" title="統計"></a><b>統計</b></h2><p>目前所有版本（繁中版、日本版、中國版、韓國版、泰國版及國際版）皆有統計</p>
-<h3 id="懶人包"><a href="#懶人包" class="headerlink" title="懶人包"></a>懶人包</h3><p><strong>開服至今（2021/10/02 更新）</strong></p>
-<div style="overflow-x:auto;">
+<h3 id="懶人包"><a href="#懶人包" class="headerlink" title="懶人包"></a>懶人包</h3><p><strong>開服至今（2021/10/18 更新）</strong></p>
 <table>
-   <tr>
-      <td></td>
-      <td align="center" valign="center"><b>開服日</b></td>
-      <td align="center" valign="center"><b>寶石</b></td>
-      <td align="center" valign="center"><b>免費十連</b></td>
-      <td align="center" valign="center"><b>蘭德索爾盃</b></td>
-      <td align="center" valign="center"><b>抽籤</b></td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>日本版</b></td>
-      <td align="center" valign="center">2018-02-15</td>
-      <td align="center" valign="center">186,200 顆</td>
-      <td align="center" valign="center">181+10 天</td>
-      <td align="center" valign="center">104 天</td>
-      <td align="center" valign="center">21 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>繁中版</b></td>
-      <td align="center" valign="center">2018-08-01</td>
-      <td align="center" valign="center">143,590 顆</td>
-      <td align="center" valign="center">183+10 天</td>
-      <td align="center" valign="center">78 天</td>
-      <td align="center" valign="center">21 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>韓國版</b></td>
-      <td align="center" valign="center">2019-03-28</td>
-      <td align="center" valign="center">90,961 顆</td>
-      <td align="center" valign="center">124+10 天</td>
-      <td align="center" valign="center">17 天</td>
-      <td align="center" valign="center">14 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>簡中版</b></td>
-      <td align="center" valign="center">2020-04-17</td>
-      <td align="center" valign="center">79,350 顆</td>
-      <td align="center" valign="center">70 天</td>
-      <td align="center" valign="center">62 天</td>
-      <td align="center" valign="center">7 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>泰國版</b></td>
-      <td align="center" valign="center">2020-09-18</td>
-      <td align="center" valign="center">22,100 顆</td>
-      <td align="center" valign="center">47 天</td>
-      <td align="center" valign="center">0 天</td>
-      <td align="center" valign="center">0 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>國際版</b></td>
-      <td align="center" valign="center">2021-01-20</td>
-      <td align="center" valign="center">14,700 顆</td>
-      <td align="center" valign="center">22+10 天</td>
-      <td align="center" valign="center">0 天</td>
-      <td align="center" valign="center">0 天</td>
-   </tr>
-</table>
-</div>
-
-<h3 id="以時間分類"><a href="#以時間分類" class="headerlink" title="以時間分類"></a>以時間分類</h3><p><em>計算範圍：待確定</em></p>
-<p><em>以下表格僅供參考，未來可能會更新計算方式</em></p>
-<p><strong>開服～一週年</strong></p>
+<thead>
+<tr>
+<th align="center">服別</th>
+<th align="center">開服日</th>
+<th align="center">寶石</th>
+<th align="center">免費十連</th>
+<th align="center">蘭德索爾盃</th>
+<th align="center">抽籤</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><strong>日本版</strong></td>
+<td align="center">2018-02-15</td>
+<td align="center">186,200 顆</td>
+<td align="center">181+10 天</td>
+<td align="center">104 天</td>
+<td align="center">21 天</td>
+</tr>
+<tr>
+<td align="center"><strong>繁中版</strong></td>
+<td align="center">2018-08-01</td>
+<td align="center">143,590 顆</td>
+<td align="center">183+10 天</td>
+<td align="center">78 天</td>
+<td align="center">21 天</td>
+</tr>
+<tr>
+<td align="center"><strong>韓國版</strong></td>
+<td align="center">2019-03-28</td>
+<td align="center">90,961 顆</td>
+<td align="center">124+10 天</td>
+<td align="center">17 天</td>
+<td align="center">14 天</td>
+</tr>
+<tr>
+<td align="center"><strong>簡中版</strong></td>
+<td align="center">2020-04-17</td>
+<td align="center">79,350 顆</td>
+<td align="center">70 天</td>
+<td align="center">62 天</td>
+<td align="center">7 天</td>
+</tr>
+<tr>
+<td align="center"><strong>泰國版</strong></td>
+<td align="center">2020-09-18</td>
+<td align="center">22,100 顆</td>
+<td align="center">47 天</td>
+<td align="center">0 天</td>
+<td align="center">0 天</td>
+</tr>
+<tr>
+<td align="center"><strong>國際版</strong></td>
+<td align="center">2021-01-20</td>
+<td align="center">14,700 顆</td>
+<td align="center">22+10 天</td>
+<td align="center">0 天</td>
+<td align="center">0 天</td>
+</tr>
+</tbody></table>
+<h3 id="以時間分類"><a href="#以時間分類" class="headerlink" title="以時間分類"></a>以時間分類</h3><h4 id="計算範圍"><a href="#計算範圍" class="headerlink" title="計算範圍"></a>計算範圍</h4><p><strong><em>開服～一週年</em></strong></p>
+<p>開服當天一週年當天</p>
+<p><strong><em>一週年之後</em></strong></p>
+<p>週年後一天～下一週年當天</p>
+<h4 id="統計資料"><a href="#統計資料" class="headerlink" title="統計資料"></a>統計資料</h4><p><strong>開服～一週年</strong></p>
 <table>
-   <tr>
-      <td></td>
-      <td align="center" valign="center"><b>寶石</b></td>
-      <td align="center" valign="center"><b>免費十連</b></td>
-      <td align="center" valign="center"><b>蘭德索爾盃</b></td>
-      <td align="center" valign="center"><b>抽籤</b></td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>日本版</b></td>
-      <td align="center" valign="center">18,700 顆</td>
-      <td align="center" valign="center">34 天</td>
-      <td align="center" valign="center">0 天</td>
-      <td align="center" valign="center">7 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>繁中版</b></td>
-      <td align="center" valign="center">22,450 顆</td>
-      <td align="center" valign="center">48 天</td>
-      <td align="center" valign="center">0 天</td>
-      <td align="center" valign="center">0 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>韓國版</b></td>
-      <td align="center" valign="center">28,450 顆</td>
-      <td align="center" valign="center">53 天</td>
-      <td align="center" valign="center">0 天</td>
-      <td align="center" valign="center">7 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>中國版</b></td>
-      <td align="center" valign="center">56,350 顆</td>
-      <td align="center" valign="center">53 天</td>
-      <td align="center" valign="center">21 天</td>
-      <td align="center" valign="center">7 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>泰國版</b></td>
-      <td align="center" valign="center">20,600 顆</td>
-      <td align="center" valign="center">47 天</td>
-      <td align="center" valign="center">0 天</td>
-      <td align="center" valign="center">0 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>國際版</b></td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-   </tr>
-</table>
-
+<thead>
+<tr>
+<th align="center">服別</th>
+<th align="center">寶石</th>
+<th align="center">免費十連</th>
+<th align="center">蘭德索爾盃</th>
+<th align="center">抽籤</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><strong>日本版</strong></td>
+<td align="center">21,700 顆</td>
+<td align="center">48 天</td>
+<td align="center">14 天</td>
+<td align="center">7 天</td>
+</tr>
+<tr>
+<td align="center"><strong>繁中版</strong></td>
+<td align="center">31,950 顆</td>
+<td align="center">63 天</td>
+<td align="center">14 天</td>
+<td align="center">7 天</td>
+</tr>
+<tr>
+<td align="center"><strong>韓國版</strong></td>
+<td align="center">29,950 顆</td>
+<td align="center">53 天</td>
+<td align="center">17 天</td>
+<td align="center">0 天</td>
+</tr>
+<tr>
+<td align="center"><strong>簡中版</strong></td>
+<td align="center">59,350 顆</td>
+<td align="center">70 天</td>
+<td align="center">53 天</td>
+<td align="center">21 天</td>
+</tr>
+<tr>
+<td align="center"><strong>泰國版</strong></td>
+<td align="center">22,100 顆</td>
+<td align="center">47 天</td>
+<td align="center">0 天</td>
+<td align="center">0 天</td>
+</tr>
+<tr>
+<td align="center"><strong>國際版</strong></td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+</tr>
+</tbody></table>
 <p><strong>一週年～兩週年</strong></p>
 <table>
-   <tr>
-      <td></td>
-      <td align="center" valign="center"><b>寶石</b></td>
-      <td align="center" valign="center"><b>免費十連</b></td>
-      <td align="center" valign="center"><b>蘭德索爾盃</b></td>
-      <td align="center" valign="center"><b>抽籤</b></td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>日本版</b></td>
-      <td align="center" valign="center">42,900 顆</td>
-      <td align="center" valign="center">46 天</td>
-      <td align="center" valign="center">41 天</td>
-      <td align="center" valign="center">7 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>繁中版</b></td>
-      <td align="center" valign="center">42,500 顆</td>
-      <td align="center" valign="center">66 天</td>
-      <td align="center" valign="center">47 天</td>
-      <td align="center" valign="center">7 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>韓國版</b></td>
-      <td align="center" valign="center">31,511 顆</td>
-      <td align="center" valign="center">47 天</td>
-      <td align="center" valign="center">0 天</td>
-      <td align="center" valign="center">7 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>中國版</b></td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>泰國版</b></td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>國際版</b></td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-   </tr>
-</table>
-
+<thead>
+<tr>
+<th align="center">服別</th>
+<th align="center">寶石</th>
+<th align="center">免費十連</th>
+<th align="center">蘭德索爾盃</th>
+<th align="center">抽籤</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><strong>日本版</strong></td>
+<td align="center">50,900 顆</td>
+<td align="center">47 天</td>
+<td align="center">42 天</td>
+<td align="center">7 天</td>
+</tr>
+<tr>
+<td align="center"><strong>繁中版</strong></td>
+<td align="center">52,540 顆</td>
+<td align="center">51 天</td>
+<td align="center">33 天</td>
+<td align="center">7 天</td>
+</tr>
+<tr>
+<td align="center"><strong>韓國版</strong></td>
+<td align="center">39,511 顆</td>
+<td align="center">47 天</td>
+<td align="center">17 天</td>
+<td align="center">7 天</td>
+</tr>
+<tr>
+<td align="center"><strong>簡中版</strong></td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+</tr>
+<tr>
+<td align="center"><strong>泰國版</strong></td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+</tr>
+<tr>
+<td align="center"><strong>國際版</strong></td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+</tr>
+</tbody></table>
 <p><strong>兩週年～三週年</strong></p>
 <table>
-   <tr>
-      <td></td>
-      <td align="center" valign="center"><b>寶石</b></td>
-      <td align="center" valign="center"><b>免費十連</b></td>
-      <td align="center" valign="center"><b>蘭德索爾盃</b></td>
-      <td align="center" valign="center"><b>抽籤</b></td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>日本版</b></td>
-      <td align="center" valign="center">67,100 顆</td>
-      <td align="center" valign="center">60+10 天</td>
-      <td align="center" valign="center">32 天</td>
-      <td align="center" valign="center">7 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>繁中版</b></td>
-      <td align="center" valign="center">46,600 顆</td>
-      <td align="center" valign="center">59+10 天</td>
-      <td align="center" valign="center">17 天</td>
-      <td align="center" valign="center">7 天</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>韓國版</b></td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>中國版</b></td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>泰國版</b></td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-   </tr>
-   <tr>
-      <td align="center" valign="center"><b>國際版</b></td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-      <td align="center" valign="center">待補</td>
-   </tr>
-</table>]]></content>
+<thead>
+<tr>
+<th align="center">服別</th>
+<th align="center">寶石</th>
+<th align="center">免費十連</th>
+<th align="center">蘭德索爾盃</th>
+<th align="center">抽籤</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><strong>日本版</strong></td>
+<td align="center">70,100 顆</td>
+<td align="center">59+10 天</td>
+<td align="center">31 天</td>
+<td align="center">7 天</td>
+</tr>
+<tr>
+<td align="center"><strong>繁中版</strong></td>
+<td align="center">48,600 顆</td>
+<td align="center">59+10 天</td>
+<td align="center">31 天</td>
+<td align="center">7 天</td>
+</tr>
+<tr>
+<td align="center"><strong>韓國版</strong></td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+</tr>
+<tr>
+<td align="center"><strong>簡中版</strong></td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+</tr>
+<tr>
+<td align="center"><strong>泰國版</strong></td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+</tr>
+<tr>
+<td align="center"><strong>國際版</strong></td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+<td align="center">暫無</td>
+</tr>
+</tbody></table>
+]]></content>
       <categories>
         <category>ACGN類</category>
         <category>其他</category>
@@ -1081,6 +1106,30 @@
       </tags>
   </entry>
   <entry>
+    <title>《少女與戰車最終章》第1+2話 有雷心得</title>
+    <url>/posts/girls-und-panzer-das-finale-part-1-and-2-review/</url>
+    <content><![CDATA[<p>昨天才決定要來看，原因是看到第二週特典送底片，加上我從沒看過4DX的電影，所以就來體驗一下。</p>
+<span id="more"></span>
+
+<p>這次是去林口威秀看的，看網路上的評價是各方面都有80分以上。實際體驗後是真的挺不錯的，尤其是有幾個片段是大洗跟其他學校對峙時，震動、氣流、晃動等好幾個效果同時出現，會有多爽相信只要有去看的都能夠體會</p>
+<p>當然除了這些之外，在戰車下水的時候有噴水霧，下雨的時候也會有雨滴，但我覺得雨滴比較像是灑水啦</p>
+<p>接著是劇情的部分。故事是以拯救桃子免於留級為起點，讓桃子當上隊長並獲勝，好讓她能夠錄取不錯的大學</p>
+<p>第一戰對上BC自由學園，總隊長瑪莉瘋狂吃蛋糕，策略似乎都是其他隊長制定，但是光是校內就分成兩個派系，兩派也經常爭吵，但是這次卻團結在一起，將大洗逼入危機之中。</p>
+<p>不過最後大洗使出一些手段，讓BC的兩派隊長誤認為是對方在打自己，因此兩人也殺紅了眼，即使到後面瑪莉發現不對勁，也還是無事於補，旗車被包圍擊毀</p>
+<p>第二戰則是對上知波單學園，這次不是一味的突襲，而是想了許多對策，並且結尾都加了突襲兩字，但實際上跟突襲一點關係都沒有</p>
+<p>與知波單的對決只到這邊而已，要看後續可能要2~3年後才會有吧，如果不意外的話下次去看應該是3+4的時候了</p>
+<p>如果沒看過的，推薦大家去看，光是4DX的效果就很值得去看。</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src=https://1.bp.blogspot.com/-eCnYbljUEJA/X4qjkf4crkI/AAAAAAAAUHo/-YPGT6uGN9M2T-8h-dxeF3sJyKxVAmlTQCPcBGAsYHg/s2000/IMG_20201017_122055.jpg></div><div class="group-picture-column"><img data-src=https://1.bp.blogspot.com/-BWjy_OFg0IU/X4qjkSeLBmI/AAAAAAAAUHo/dut1yePkeokvjMnR0VFe4HHw0ugTAXhrwCPcBGAsYHg/s2000/IMG_20201017_153024.jpg></div></div></div>]]></content>
+      <categories>
+        <category>ACGN類</category>
+        <category>動畫電影心得</category>
+      </categories>
+      <tags>
+        <tag>Review</tag>
+        <tag>Anime Movie</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2020年秋季動畫心得</title>
     <url>/posts/2020-fall-anime-review/</url>
     <content><![CDATA[<p>今年10月應該是自從2018年後最閒的一次了，也因此這次看了10幾部動畫</p>
@@ -1142,30 +1191,6 @@
       <tags>
         <tag>Review</tag>
         <tag>Anime</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《少女與戰車最終章》第1+2話 有雷心得</title>
-    <url>/posts/girls-und-panzer-das-finale-part-1-and-2-review/</url>
-    <content><![CDATA[<p>昨天才決定要來看，原因是看到第二週特典送底片，加上我從沒看過4DX的電影，所以就來體驗一下。</p>
-<span id="more"></span>
-
-<p>這次是去林口威秀看的，看網路上的評價是各方面都有80分以上。實際體驗後是真的挺不錯的，尤其是有幾個片段是大洗跟其他學校對峙時，震動、氣流、晃動等好幾個效果同時出現，會有多爽相信只要有去看的都能夠體會</p>
-<p>當然除了這些之外，在戰車下水的時候有噴水霧，下雨的時候也會有雨滴，但我覺得雨滴比較像是灑水啦</p>
-<p>接著是劇情的部分。故事是以拯救桃子免於留級為起點，讓桃子當上隊長並獲勝，好讓她能夠錄取不錯的大學</p>
-<p>第一戰對上BC自由學園，總隊長瑪莉瘋狂吃蛋糕，策略似乎都是其他隊長制定，但是光是校內就分成兩個派系，兩派也經常爭吵，但是這次卻團結在一起，將大洗逼入危機之中。</p>
-<p>不過最後大洗使出一些手段，讓BC的兩派隊長誤認為是對方在打自己，因此兩人也殺紅了眼，即使到後面瑪莉發現不對勁，也還是無事於補，旗車被包圍擊毀</p>
-<p>第二戰則是對上知波單學園，這次不是一味的突襲，而是想了許多對策，並且結尾都加了突襲兩字，但實際上跟突襲一點關係都沒有</p>
-<p>與知波單的對決只到這邊而已，要看後續可能要2~3年後才會有吧，如果不意外的話下次去看應該是3+4的時候了</p>
-<p>如果沒看過的，推薦大家去看，光是4DX的效果就很值得去看。</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src=https://1.bp.blogspot.com/-eCnYbljUEJA/X4qjkf4crkI/AAAAAAAAUHo/-YPGT6uGN9M2T-8h-dxeF3sJyKxVAmlTQCPcBGAsYHg/s2000/IMG_20201017_122055.jpg></div><div class="group-picture-column"><img data-src=https://1.bp.blogspot.com/-BWjy_OFg0IU/X4qjkSeLBmI/AAAAAAAAUHo/dut1yePkeokvjMnR0VFe4HHw0ugTAXhrwCPcBGAsYHg/s2000/IMG_20201017_153024.jpg></div></div></div>]]></content>
-      <categories>
-        <category>ACGN類</category>
-        <category>動畫電影心得</category>
-      </categories>
-      <tags>
-        <tag>Review</tag>
-        <tag>Anime Movie</tag>
       </tags>
   </entry>
   <entry>

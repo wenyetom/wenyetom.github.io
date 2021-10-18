@@ -7,10 +7,10 @@
 <meta name="generator" content="Hexo 5.4.0">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon3.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon3.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon3.png">
-  <link rel="mask-icon" href="/img/favicon3.png" color="#222">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon_big.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon.png">
+  <link rel="mask-icon" href="/img/favicon_big.png" color="#222">
   <meta name="google-site-verification" content="google04f531381a73a8c3.html">
 
 <link rel="stylesheet" href="/css/main.css">
@@ -21,18 +21,21 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"wenyetom.github.io","root":"/","images":"/images","scheme":"Gemini","version":"8.7.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12,"width":280},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":true,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":true,"transition":{"post_block":"fadeIn","post_header":null,"post_body":null,"coll_header":"fadeIn","sidebar":"fadeIn"}},"prism":false,"i18n":{"placeholder":"搜尋...","empty":"找不到符合「${query}」的文章或內文","hits_time":"${hits} results found in ${time} ms","hits":"共有 ${hits} 項結果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
-<meta name="description" content="最近想要用waifu2X的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的waifu2x 這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的waifu2X">
+<meta name="description" content="最近想要用 waifu2X 的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的 waifu2x 這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的 waifu2X">
 <meta property="og:type" content="article">
 <meta property="og:title" content="讓顯卡也能使用waifu2x">
 <meta property="og:url" content="https://wenyetom.github.io/posts/using-waifu2x-with-gpu/index.html">
 <meta property="og:site_name" content="沙連三棧">
-<meta property="og:description" content="最近想要用waifu2X的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的waifu2x 這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的waifu2X">
+<meta property="og:description" content="最近想要用 waifu2X 的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的 waifu2x 這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的 waifu2X">
 <meta property="og:locale" content="zh_TW">
+<meta property="og:image" content="https://i.imgur.com/YdnRbs5.png">
+<meta property="og:image" content="https://i.imgur.com/C4GuN3H.png">
 <meta property="article:published_time" content="2020-08-03T05:42:58.000Z">
-<meta property="article:modified_time" content="2020-12-06T11:14:23.315Z">
+<meta property="article:modified_time" content="2021-10-16T11:31:32.072Z">
 <meta property="article:author" content="沙連">
 <meta property="article:tag" content="Teach">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://i.imgur.com/YdnRbs5.png">
 
 
 <link rel="canonical" href="https://wenyetom.github.io/posts/using-waifu2x-with-gpu/">
@@ -196,10 +199,10 @@
         <a href="https://home.gamer.com.tw/lewopa47894" title="巴哈姆特 → https:&#x2F;&#x2F;home.gamer.com.tw&#x2F;lewopa47894" rel="noopener" target="_blank"><i class="fas fa-dragon fa-fw"></i>巴哈姆特</a>
       </span>
       <span class="links-of-author-item">
-        <a href="https://twitter.com/Tom_Salan" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;Tom_Salan" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
+        <a href="https://www.youtube.com/channel/UCcZxiAD-z_Y_UbtL_H46sJA" title="YouTube → https:&#x2F;&#x2F;www.youtube.com&#x2F;channel&#x2F;UCcZxiAD-z_Y_UbtL_H46sJA" rel="noopener" target="_blank"><i class="fab fa-youtube fa-fw"></i>YouTube</a>
       </span>
       <span class="links-of-author-item">
-        <a href="https://www.youtube.com/channel/UCcZxiAD-z_Y_UbtL_H46sJA" title="YouTube → https:&#x2F;&#x2F;www.youtube.com&#x2F;channel&#x2F;UCcZxiAD-z_Y_UbtL_H46sJA" rel="noopener" target="_blank"><i class="fab fa-youtube fa-fw"></i>YouTube</a>
+        <a href="https://twitter.com/Tom_Salan" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;Tom_Salan" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
       </span>
       <span class="links-of-author-item">
         <a href="https://www.flickr.com/people/wenyehtom/" title="Flickr → https:&#x2F;&#x2F;www.flickr.com&#x2F;people&#x2F;wenyehtom&#x2F;" rel="noopener" target="_blank"><i class="fab fa-flickr fa-fw"></i>Flickr</a>
@@ -271,7 +274,7 @@
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新日期：</span>
-        <time title="更新時間：2020-12-06 19:14:23" itemprop="dateModified" datetime="2020-12-06T19:14:23+08:00">2020-12-06</time>
+        <time title="更新時間：2021-10-16 19:31:32" itemprop="dateModified" datetime="2021-10-16T19:31:32+08:00">2021-10-16</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -290,7 +293,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">字數：</span>
-      <span>488 字</span>
+      <span>485 字</span>
     </span>
     <span class="post-meta-item" title="閱讀時間">
       <span class="post-meta-item-icon">
@@ -308,26 +311,46 @@
     
     
     <div class="post-body" itemprop="articleBody">
-        <p>最近想要用waifu2X的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的waifu2x</p>
-<p>這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的waifu2X</p>
+        <p>最近想要用 waifu2X 的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的 waifu2x</p>
+<p>這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的 waifu2X</p>
 <span id="more"></span>
-<p>使用Vulkan API，所以顯卡太舊的可能會無法使用</p>
+
+<p>使用 Vulkan API，所以顯卡太舊的可能會無法使用</p>
 <h2 id="下載"><a href="#下載" class="headerlink" title="下載"></a>下載</h2><p>下載網址按<a target="_blank" rel="noopener" href="https://github.com/nihui/waifu2x-ncnn-vulkan">這裡</a>，有Windows/macOS/Linux三版本可供選擇</p>
-<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p><strong>Step 1:</strong> 解壓縮後，在資料夾的網址列輸入cmd.exe打開命令提示字元<br><img data-src=https://i.imgur.com/YdnRbs5.png><br><br><br><strong>Step 2:</strong> 以這個指令為基礎，可以直接執行，也可以加入其他指令</p>
+<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p><strong>Step 1:</strong> 解壓縮後，在資料夾的網址列輸入 cmd.exe 打開命令提示字元</p>
+<p><img data-src="https://i.imgur.com/YdnRbs5.png"></p>
+<p><strong>Step 2:</strong> 以這個指令為基礎，可以直接執行，也可以加入其他指令</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">waifu2x-ncnn-vulkan.exe -i input.jpg -o output.png -n 2 -s 2</span><br></pre></td></tr></table></figure>
+
 <p>其他指令：</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">-h                   顯示說明</span><br><span class="line">-v                   輸出詳細 (見備註一)</span><br><span class="line">-i input-path        輸入文件路徑</span><br><span class="line">-o output-path       輸出文件路徑</span><br><span class="line">-n noise-level       降噪等級 (-1/0/1/2/3, 預設為0)</span><br><span class="line">-s scale             放大倍率 (1/2, 預設為2)</span><br><span class="line">-t tile-size         塊的大小 (&gt;=32/0皆為自動, 預設為0)</span><br><span class="line">-m model-path        waifu2x樣式選擇(預設為models-cunet，見備註二)</span><br><span class="line">-g gpu-id            gpu device to use (default=0)</span><br><span class="line">-j load:proc:save    載入/處理/儲存所使用的執行緒設定 (預設為=1:2:2，見備註三)</span><br><span class="line">-x                   開啟 tta 模式</span><br><span class="line">-f format            輸出格式設定 (png/webp, 預設為ext/png</span><br></pre></td></tr></table></figure>
 
-<p><em><strong>備註一：</strong>輸出完成後會有以下的說明出現</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">C:\Users\&lt;username&gt;\Desktop\image.jpg -&gt; C:\Users\&lt;username&gt;\Documents\output.png done</span><br></pre></td></tr></table></figure>
+<em>
+
+<p><strong>備註一</strong></p>
 </em>
 
-<p><em><strong>備註二：</strong>處理一般圖片用<code>models-cunet</code>，處理插圖用<code>models-upconv_7_anime_style_art_rgb</code><br></em></p>
-<p><em><strong>備註三：</strong>數字越大，GPU及VRAM的使用率會上升，小圖建議調大、大圖調小<br></em></p>
-<h2 id="GUI版本"><a href="#GUI版本" class="headerlink" title="GUI版本"></a>GUI版本</h2><p>不想打太多指令，就來用GUI版本吧</p>
-<p>下載網址：<br><a target="_blank" rel="noopener" href="https://github.com/f11894/waifu2x-ncnn-vulkan-GUI">https://github.com/f11894/waifu2x-ncnn-vulkan-GUI</a></p>
-<p>打開來會是下面這樣子<br><img data-src=https://i.imgur.com/C4GuN3H.png></p>
-<p>功能就跟上面的一樣，需要特別注意的是輸入／輸出不能在同一個位置，不能會輸出失敗</p>
+<p>輸出完成後會有以下的說明出現</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">C:\Users\&lt;username&gt;\Desktop\image.jpg -&gt; C:\Users\&lt;username&gt;\Documents\output.png done</span><br></pre></td></tr></table></figure>
+
+
+
+<em>
+
+<p><strong>備註二</strong></p>
+</em>
+
+<p>處理一般圖片用 <code>models-cunet</code> ，處理插圖用 <code>models-upconv_7_anime_style_art_rgb</code></p>
+<em>
+
+<p><strong>備註三</strong></p>
+</em>
+
+<p>數字越大，GPU 及 VRAM 的使用率會上升，小圖建議調大、大圖調小</p>
+<h2 id="GUI版本"><a href="#GUI版本" class="headerlink" title="GUI版本"></a>GUI版本</h2><p>不想打太多指令，就來用 GUI 版本吧</p>
+<p>下載網址：<a target="_blank" rel="noopener" href="https://github.com/f11894/waifu2x-ncnn-vulkan-GUI">https://github.com/f11894/waifu2x-ncnn-vulkan-GUI</a></p>
+<p>打開來會是下面這樣子<br><img data-src="https://i.imgur.com/C4GuN3H.png"></p>
+<p>功能就跟上面的一樣，需要特別注意的是來源路徑和輸出路徑不能一樣，否則會輸出失敗</p>
 
     </div>
 
@@ -384,7 +407,7 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-line"></i>
     </span>
-    <span title="總字數">44,213 字</span>
+    <span title="總字數">44,230 字</span>
   </span>
   <span class="post-meta-item">
     <span class="post-meta-item-icon">
