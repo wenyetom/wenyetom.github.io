@@ -3232,12 +3232,6 @@ p {
 .posts-expand .post-header {
   margin-bottom: 20px;
 }
-/* 底部文字與間距 */
-.footer,
-.footer a {
-  margin: 10px 0 15px 0;
-  color: #555;
-}
 /*--------------- 「文章列表」設定 ---------------*/
 /* 左邊垂直線 */
 .posts-collapse .post-content .post-header::before {
@@ -3356,6 +3350,20 @@ p {
   border-bottom: 0;
   border-top: 0;
   transition: border-color 0.2s ease-in-out;
+  width: 10px;
+  height: 36px;
+  font-size: 18px;
+}
+/*--------------- 「Footer」設定 ---------------*/
+/* Footer 字體大小 */
+.footer {
+  font-size: 0.875em;
+}
+/* 底部文字與間距 */
+.footer,
+.footer a {
+  margin: 0px 0 15px 0;
+  color: #555;
 }
 /*--------------- 「返回頂部」設定 ---------------*/
 /* 返回頂部按鈕 */
@@ -3429,7 +3437,7 @@ table {
   padding: 5px 0 0 0;
 }
 /* 主頁圖片放大效果 */
-/* 滑鼠移入封面圖片會法大 */
+/* 滑鼠移入封面圖片會放大 */
 .post-gallery .post-gallery-image {
   transform: scale(1, 1);
   transition: all 0.25s ease-out;
