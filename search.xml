@@ -392,32 +392,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《劇場版 SHIROBAKO》簡易心得</title>
-    <url>/posts/shirobako-movie-review/</url>
-    <content><![CDATA[<p>今天是SHIROBAKO劇場版的首映日，閒人如我就跑去看了</p>
-<span id="more"></span>
-
-<img data-src=https://1.bp.blogspot.com/-ffVlvUbtZ-Q/XrV7zgosmvI/AAAAAAAARY4/Ygw008YPT4sLMl7KaMNw4_RovQM33jRkgCPcBGAsYHg/s1600/IMG_20200508_142649.jpg>
-
-<p>劇情簡單來說就是製作劇場版動畫《SIVA》，但是這一次不像是TV版製作動畫一樣輕鬆了</p>
-<p>因為武藏野之前曾經終止製作過一部動畫，導致核心人員紛紛出走，最後只剩下六位</p>
-<p>為了製作劇場版動畫，喵森運用她身為製作人的人脈，找回了幾乎全部的前武藏野成員來完成</p>
-<p>之後也就一帆風順的製作下去。不過就在接近完成時，「G<del>P</del>U~」（也就是《SIVA》的前製作方）突然要求武藏野停止製作，但是被喵森以「大人的手段」結束這回合</p>
-<p>最後的結局當然是順利的完成動畫，而大家也回歸各自的工作，回復到以往的日子。</p>
-<p>這次的《劇場版 SHIROBAKO》一如既往的美化了實際的動畫工作，但也因為有著被迫中止企劃和合約的陰謀面等劇情，讓白箱感覺離現實更進一步了</p>
-<p>如果說TV版是想讓渴望踏入動畫業界的新人們勇敢逐夢的話，我想劇場版是想要傳達「不要放棄夢想，即使遇到挫折，也要擦乾淚水繼續向前邁進」的心情吧。</p>
-<p>Cover image source: <a href="https://twitter.com/kuerun/status/1233614897952354305">＜える宮原拓也</a></p>
-]]></content>
-      <categories>
-        <category>ACGN類</category>
-        <category>動畫電影心得</category>
-      </categories>
-      <tags>
-        <tag>Review</tag>
-        <tag>Anime Movie</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2020年春季動畫心得</title>
     <url>/posts/2020-spring-anime-review/</url>
     <content><![CDATA[<p>今年四月顯然不太平靜，一堆動畫都不敵肺炎而選擇停播或延期（截至4/30為止共有46部），剩下還在播的動畫真的是要且看且珍惜</p>
@@ -511,6 +485,32 @@
         <tag>Anime</tag>
         <tag>Unboxing</tag>
         <tag>Blu-ray Disc</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《劇場版 SHIROBAKO》簡易心得</title>
+    <url>/posts/shirobako-movie-review/</url>
+    <content><![CDATA[<p>今天是SHIROBAKO劇場版的首映日，閒人如我就跑去看了</p>
+<span id="more"></span>
+
+<img data-src=https://1.bp.blogspot.com/-ffVlvUbtZ-Q/XrV7zgosmvI/AAAAAAAARY4/Ygw008YPT4sLMl7KaMNw4_RovQM33jRkgCPcBGAsYHg/s1600/IMG_20200508_142649.jpg>
+
+<p>劇情簡單來說就是製作劇場版動畫《SIVA》，但是這一次不像是TV版製作動畫一樣輕鬆了</p>
+<p>因為武藏野之前曾經終止製作過一部動畫，導致核心人員紛紛出走，最後只剩下六位</p>
+<p>為了製作劇場版動畫，喵森運用她身為製作人的人脈，找回了幾乎全部的前武藏野成員來完成</p>
+<p>之後也就一帆風順的製作下去。不過就在接近完成時，「G<del>P</del>U~」（也就是《SIVA》的前製作方）突然要求武藏野停止製作，但是被喵森以「大人的手段」結束這回合</p>
+<p>最後的結局當然是順利的完成動畫，而大家也回歸各自的工作，回復到以往的日子。</p>
+<p>這次的《劇場版 SHIROBAKO》一如既往的美化了實際的動畫工作，但也因為有著被迫中止企劃和合約的陰謀面等劇情，讓白箱感覺離現實更進一步了</p>
+<p>如果說TV版是想讓渴望踏入動畫業界的新人們勇敢逐夢的話，我想劇場版是想要傳達「不要放棄夢想，即使遇到挫折，也要擦乾淚水繼續向前邁進」的心情吧。</p>
+<p>Cover image source: <a href="https://twitter.com/kuerun/status/1233614897952354305">＜える宮原拓也</a></p>
+]]></content>
+      <categories>
+        <category>ACGN類</category>
+        <category>動畫電影心得</category>
+      </categories>
+      <tags>
+        <tag>Review</tag>
+        <tag>Anime Movie</tag>
       </tags>
   </entry>
   <entry>
@@ -640,57 +640,6 @@
       <tags>
         <tag>Review</tag>
         <tag>Anime</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>讓顯卡也能使用waifu2x</title>
-    <url>/posts/using-waifu2x-with-gpu/</url>
-    <content><![CDATA[<p>最近想要用 waifu2X 的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的 waifu2x</p>
-<p>這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的 waifu2X</p>
-<span id="more"></span>
-
-<p>使用 Vulkan API，所以顯卡太舊的可能會無法使用</p>
-<h2 id="下載"><a href="#下載" class="headerlink" title="下載"></a>下載</h2><p>下載網址按<a href="https://github.com/nihui/waifu2x-ncnn-vulkan">這裡</a>，有Windows/macOS/Linux三版本可供選擇</p>
-<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p><strong>Step 1:</strong> 解壓縮後，在資料夾的網址列輸入 cmd.exe 打開命令提示字元</p>
-<p><img data-src="https://i.imgur.com/YdnRbs5.png"></p>
-<p><strong>Step 2:</strong> 以這個指令為基礎，可以直接執行，也可以加入其他指令</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">waifu2x-ncnn-vulkan.exe -i input.jpg -o output.png -n 2 -s 2</span><br></pre></td></tr></table></figure>
-
-<p>其他指令：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-h                   顯示說明</span><br><span class="line">-v                   輸出詳細 (見備註一)</span><br><span class="line">-i input-path        輸入文件路徑</span><br><span class="line">-o output-path       輸出文件路徑</span><br><span class="line">-n noise-level       降噪等級 (-1/0/1/2/3, 預設為0)</span><br><span class="line">-s scale             放大倍率 (1/2, 預設為2)</span><br><span class="line">-t tile-size         塊的大小 (&gt;=32/0皆為自動, 預設為0)</span><br><span class="line">-m model-path        waifu2x樣式選擇(預設為models-cunet，見備註二)</span><br><span class="line">-g gpu-id            gpu device to use (default=0)</span><br><span class="line">-j load:proc:save    載入/處理/儲存所使用的執行緒設定 (預設為=1:2:2，見備註三)</span><br><span class="line">-x                   開啟 tta 模式</span><br><span class="line">-f format            輸出格式設定 (png/webp, 預設為ext/png</span><br></pre></td></tr></table></figure>
-
-<em>
-
-<p><strong>備註一</strong></p>
-</em>
-
-<p>輸出完成後會有以下的說明出現</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">C:\Users\&lt;username&gt;\Desktop\image.jpg -&gt; C:\Users\&lt;username&gt;\Documents\output.png done</span><br></pre></td></tr></table></figure>
-
-
-
-<em>
-
-<p><strong>備註二</strong></p>
-</em>
-
-<p>處理一般圖片用 <code>models-cunet</code> ，處理插圖用 <code>models-upconv_7_anime_style_art_rgb</code></p>
-<em>
-
-<p><strong>備註三</strong></p>
-</em>
-
-<p>數字越大，GPU 及 VRAM 的使用率會上升，小圖建議調大、大圖調小</p>
-<h2 id="GUI版本"><a href="#GUI版本" class="headerlink" title="GUI版本"></a>GUI版本</h2><p>不想打太多指令，就來用 GUI 版本吧</p>
-<p>下載網址：<a href="https://github.com/f11894/waifu2x-ncnn-vulkan-GUI">https://github.com/f11894/waifu2x-ncnn-vulkan-GUI</a></p>
-<p>打開來會是下面這樣子<br><img data-src="https://i.imgur.com/C4GuN3H.png"></p>
-<p>功能就跟上面的一樣，需要特別注意的是來源路徑和輸出路徑不能一樣，否則會輸出失敗</p>
-]]></content>
-      <categories>
-        <category>教學類</category>
-      </categories>
-      <tags>
-        <tag>Teach</tag>
       </tags>
   </entry>
   <entry>
@@ -1044,6 +993,57 @@
       </tags>
   </entry>
   <entry>
+    <title>讓顯卡也能使用waifu2x</title>
+    <url>/posts/using-waifu2x-with-gpu/</url>
+    <content><![CDATA[<p>最近想要用 waifu2X 的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的 waifu2x</p>
+<p>這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的 waifu2X</p>
+<span id="more"></span>
+
+<p>使用 Vulkan API，所以顯卡太舊的可能會無法使用</p>
+<h2 id="下載"><a href="#下載" class="headerlink" title="下載"></a>下載</h2><p>下載網址按<a href="https://github.com/nihui/waifu2x-ncnn-vulkan">這裡</a>，有Windows/macOS/Linux三版本可供選擇</p>
+<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p><strong>Step 1:</strong> 解壓縮後，在資料夾的網址列輸入 cmd.exe 打開命令提示字元</p>
+<p><img data-src="https://i.imgur.com/YdnRbs5.png"></p>
+<p><strong>Step 2:</strong> 以這個指令為基礎，可以直接執行，也可以加入其他指令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">waifu2x-ncnn-vulkan.exe -i input.jpg -o output.png -n 2 -s 2</span><br></pre></td></tr></table></figure>
+
+<p>其他指令：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-h                   顯示說明</span><br><span class="line">-v                   輸出詳細 (見備註一)</span><br><span class="line">-i input-path        輸入文件路徑</span><br><span class="line">-o output-path       輸出文件路徑</span><br><span class="line">-n noise-level       降噪等級 (-1/0/1/2/3, 預設為0)</span><br><span class="line">-s scale             放大倍率 (1/2, 預設為2)</span><br><span class="line">-t tile-size         塊的大小 (&gt;=32/0皆為自動, 預設為0)</span><br><span class="line">-m model-path        waifu2x樣式選擇(預設為models-cunet，見備註二)</span><br><span class="line">-g gpu-id            gpu device to use (default=0)</span><br><span class="line">-j load:proc:save    載入/處理/儲存所使用的執行緒設定 (預設為=1:2:2，見備註三)</span><br><span class="line">-x                   開啟 tta 模式</span><br><span class="line">-f format            輸出格式設定 (png/webp, 預設為ext/png</span><br></pre></td></tr></table></figure>
+
+<em>
+
+<p><strong>備註一</strong></p>
+</em>
+
+<p>輸出完成後會有以下的說明出現</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">C:\Users\&lt;username&gt;\Desktop\image.jpg -&gt; C:\Users\&lt;username&gt;\Documents\output.png done</span><br></pre></td></tr></table></figure>
+
+
+
+<em>
+
+<p><strong>備註二</strong></p>
+</em>
+
+<p>處理一般圖片用 <code>models-cunet</code> ，處理插圖用 <code>models-upconv_7_anime_style_art_rgb</code></p>
+<em>
+
+<p><strong>備註三</strong></p>
+</em>
+
+<p>數字越大，GPU 及 VRAM 的使用率會上升，小圖建議調大、大圖調小</p>
+<h2 id="GUI版本"><a href="#GUI版本" class="headerlink" title="GUI版本"></a>GUI版本</h2><p>不想打太多指令，就來用 GUI 版本吧</p>
+<p>下載網址：<a href="https://github.com/f11894/waifu2x-ncnn-vulkan-GUI">https://github.com/f11894/waifu2x-ncnn-vulkan-GUI</a></p>
+<p>打開來會是下面這樣子<br><img data-src="https://i.imgur.com/C4GuN3H.png"></p>
+<p>功能就跟上面的一樣，需要特別注意的是來源路徑和輸出路徑不能一樣，否則會輸出失敗</p>
+]]></content>
+      <categories>
+        <category>教學類</category>
+      </categories>
+      <tags>
+        <tag>Teach</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《紫羅蘭永恆花園劇場版》 有雷心得</title>
     <url>/posts/violet-evergarden-the-movie-review/</url>
     <content><![CDATA[<p>總之就是期待了很久，在今天終於上映了</p>
@@ -1103,6 +1103,30 @@
       <tags>
         <tag>Unboxing</tag>
         <tag>LightNovel</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《少女與戰車最終章》第1+2話 有雷心得</title>
+    <url>/posts/girls-und-panzer-das-finale-part-1-and-2-review/</url>
+    <content><![CDATA[<p>昨天才決定要來看，原因是看到第二週特典送底片，加上我從沒看過4DX的電影，所以就來體驗一下。</p>
+<span id="more"></span>
+
+<p>這次是去林口威秀看的，看網路上的評價是各方面都有80分以上。實際體驗後是真的挺不錯的，尤其是有幾個片段是大洗跟其他學校對峙時，震動、氣流、晃動等好幾個效果同時出現，會有多爽相信只要有去看的都能夠體會</p>
+<p>當然除了這些之外，在戰車下水的時候有噴水霧，下雨的時候也會有雨滴，但我覺得雨滴比較像是灑水啦</p>
+<p>接著是劇情的部分。故事是以拯救桃子免於留級為起點，讓桃子當上隊長並獲勝，好讓她能夠錄取不錯的大學</p>
+<p>第一戰對上BC自由學園，總隊長瑪莉瘋狂吃蛋糕，策略似乎都是其他隊長制定，但是光是校內就分成兩個派系，兩派也經常爭吵，但是這次卻團結在一起，將大洗逼入危機之中。</p>
+<p>不過最後大洗使出一些手段，讓BC的兩派隊長誤認為是對方在打自己，因此兩人也殺紅了眼，即使到後面瑪莉發現不對勁，也還是無事於補，旗車被包圍擊毀</p>
+<p>第二戰則是對上知波單學園，這次不是一味的突襲，而是想了許多對策，並且結尾都加了突襲兩字，但實際上跟突襲一點關係都沒有</p>
+<p>與知波單的對決只到這邊而已，要看後續可能要2~3年後才會有吧，如果不意外的話下次去看應該是3+4的時候了</p>
+<p>如果沒看過的，推薦大家去看，光是4DX的效果就很值得去看。</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src=https://1.bp.blogspot.com/-eCnYbljUEJA/X4qjkf4crkI/AAAAAAAAUHo/-YPGT6uGN9M2T-8h-dxeF3sJyKxVAmlTQCPcBGAsYHg/s2000/IMG_20201017_122055.jpg></div><div class="group-picture-column"><img data-src=https://1.bp.blogspot.com/-BWjy_OFg0IU/X4qjkSeLBmI/AAAAAAAAUHo/dut1yePkeokvjMnR0VFe4HHw0ugTAXhrwCPcBGAsYHg/s2000/IMG_20201017_153024.jpg></div></div></div>]]></content>
+      <categories>
+        <category>ACGN類</category>
+        <category>動畫電影心得</category>
+      </categories>
+      <tags>
+        <tag>Review</tag>
+        <tag>Anime Movie</tag>
       </tags>
   </entry>
   <entry>
@@ -1170,69 +1194,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《少女與戰車最終章》第1+2話 有雷心得</title>
-    <url>/posts/girls-und-panzer-das-finale-part-1-and-2-review/</url>
-    <content><![CDATA[<p>昨天才決定要來看，原因是看到第二週特典送底片，加上我從沒看過4DX的電影，所以就來體驗一下。</p>
-<span id="more"></span>
-
-<p>這次是去林口威秀看的，看網路上的評價是各方面都有80分以上。實際體驗後是真的挺不錯的，尤其是有幾個片段是大洗跟其他學校對峙時，震動、氣流、晃動等好幾個效果同時出現，會有多爽相信只要有去看的都能夠體會</p>
-<p>當然除了這些之外，在戰車下水的時候有噴水霧，下雨的時候也會有雨滴，但我覺得雨滴比較像是灑水啦</p>
-<p>接著是劇情的部分。故事是以拯救桃子免於留級為起點，讓桃子當上隊長並獲勝，好讓她能夠錄取不錯的大學</p>
-<p>第一戰對上BC自由學園，總隊長瑪莉瘋狂吃蛋糕，策略似乎都是其他隊長制定，但是光是校內就分成兩個派系，兩派也經常爭吵，但是這次卻團結在一起，將大洗逼入危機之中。</p>
-<p>不過最後大洗使出一些手段，讓BC的兩派隊長誤認為是對方在打自己，因此兩人也殺紅了眼，即使到後面瑪莉發現不對勁，也還是無事於補，旗車被包圍擊毀</p>
-<p>第二戰則是對上知波單學園，這次不是一味的突襲，而是想了許多對策，並且結尾都加了突襲兩字，但實際上跟突襲一點關係都沒有</p>
-<p>與知波單的對決只到這邊而已，要看後續可能要2~3年後才會有吧，如果不意外的話下次去看應該是3+4的時候了</p>
-<p>如果沒看過的，推薦大家去看，光是4DX的效果就很值得去看。</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src=https://1.bp.blogspot.com/-eCnYbljUEJA/X4qjkf4crkI/AAAAAAAAUHo/-YPGT6uGN9M2T-8h-dxeF3sJyKxVAmlTQCPcBGAsYHg/s2000/IMG_20201017_122055.jpg></div><div class="group-picture-column"><img data-src=https://1.bp.blogspot.com/-BWjy_OFg0IU/X4qjkSeLBmI/AAAAAAAAUHo/dut1yePkeokvjMnR0VFe4HHw0ugTAXhrwCPcBGAsYHg/s2000/IMG_20201017_153024.jpg></div></div></div>]]></content>
-      <categories>
-        <category>ACGN類</category>
-        <category>動畫電影心得</category>
-      </categories>
-      <tags>
-        <tag>Review</tag>
-        <tag>Anime Movie</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《鬼滅之刃劇場版 無限列車篇》前無雷後有雷心得</title>
-    <url>/posts/kimetsu-no-yaiba-movie-review/</url>
-    <content><![CDATA[<p>其實當初也是沒有打算去看的（因為看過漫畫了），不過看到一些人的心得後覺得好棒，於是又很不爭氣的訂票了</p>
-<p>當初看漫畫的時候，就覺得一個鬼打完再接下一個打的劇情根本就停不下來，於是花了五天時間追到最新進度</p>
-<p>不過要是你問我劇情，我只能說我現在已經忘了XD</p>
-<span id="more"></span>
-
-<img data-src=https://1.bp.blogspot.com/-G8hoyllGvD4/X5vsuL5k5dI/AAAAAAAAU5M/a03o-hEz8mgqk2NtfnsKndO_bfTSbY5lgCPcBGAsYHg/s2000/IMG_20201030_132251.jpg width=100%>
-<br>
-
-<hr>
-<center><strong><font color=#008000>👌無雷心得</font></strong></center>
-<hr>
-
-<p>這次的劇場版還是一如既往的ufotable風格。就是跟TV版一樣媲美光污染的特效，還有作畫也是很棒。</p>
-<p>劇情方面，反正就是毫無冷場，有武戲也有文戲，兩者表現的也都很好</p>
-<p>再來是音樂，LiSA的「炎」真的是很好聽，我自己看了一下中文翻譯的歌詞，感覺就是為了炭治郎量身打造的歌曲呢</p>
-<p>話說我這一場，有人在散場的時候直接開罵，好像是她隔壁的人走來走去而且手機通知聲還一直響，最後直接怒噴「事業做這麼大就不要來看電影啊」XDD</p>
-<p>總之，只要不是對鬼滅之刃感到厭惡的話，都非常推薦來看。就算不是為了劇情，為了可愛的彌豆子也是賺。</p>
-<hr>
-<center><strong><font color=#FF0000>🚫有雷心得</font></strong></center>
-<hr>
-
-<p>說回劇場版的劇情，我個人認為最精彩的部分當屬最後炎柱與上弦之參的對決了</p>
-<p>我覺得這場戰鬥炎柱真的稱不上佔有優勢，才剛打完下弦之一就要開打上弦之參，你當這是玩遊戲嗎？只能說對炎柱太不公平了。還有最後明明有機會一換一，上三卻在最後一刻掙脫，內心真的是很幹</p>
-<p>還有最後猗窩座逃跑之後，炎柱不顧自己的傷，叫炭治郎不要亂動以免失血過多，這段真的是感到鼻酸。在看這段的時候我就在想，杏壽郎從頭到尾都在為別人著想，但怎麼就不多對自己著想呢？</p>
-<p>最後就用一句話結束吧：</p>
-<p>「煉獄大哥沒有輸，車上一個人都沒有死，是煉獄大哥的勝利」</p>
-]]></content>
-      <categories>
-        <category>ACGN類</category>
-        <category>動畫電影心得</category>
-      </categories>
-      <tags>
-        <tag>Review</tag>
-        <tag>Anime Movie</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>iPad 2019 使用心得</title>
     <url>/posts/ipad-7th-unboxing/</url>
     <content><![CDATA[<p>買iPad主要是為了要記筆記，理論上是不需要用到iPad Pro這種等級，不過實際用過之後我的心就被擄獲了</p>
@@ -1287,6 +1248,45 @@
       <tags>
         <tag>Tablet</tag>
         <tag>Unboxing</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《鬼滅之刃劇場版 無限列車篇》前無雷後有雷心得</title>
+    <url>/posts/kimetsu-no-yaiba-movie-review/</url>
+    <content><![CDATA[<p>其實當初也是沒有打算去看的（因為看過漫畫了），不過看到一些人的心得後覺得好棒，於是又很不爭氣的訂票了</p>
+<p>當初看漫畫的時候，就覺得一個鬼打完再接下一個打的劇情根本就停不下來，於是花了五天時間追到最新進度</p>
+<p>不過要是你問我劇情，我只能說我現在已經忘了XD</p>
+<span id="more"></span>
+
+<img data-src=https://1.bp.blogspot.com/-G8hoyllGvD4/X5vsuL5k5dI/AAAAAAAAU5M/a03o-hEz8mgqk2NtfnsKndO_bfTSbY5lgCPcBGAsYHg/s2000/IMG_20201030_132251.jpg width=100%>
+<br>
+
+<hr>
+<center><strong><font color=#008000>👌無雷心得</font></strong></center>
+<hr>
+
+<p>這次的劇場版還是一如既往的ufotable風格。就是跟TV版一樣媲美光污染的特效，還有作畫也是很棒。</p>
+<p>劇情方面，反正就是毫無冷場，有武戲也有文戲，兩者表現的也都很好</p>
+<p>再來是音樂，LiSA的「炎」真的是很好聽，我自己看了一下中文翻譯的歌詞，感覺就是為了炭治郎量身打造的歌曲呢</p>
+<p>話說我這一場，有人在散場的時候直接開罵，好像是她隔壁的人走來走去而且手機通知聲還一直響，最後直接怒噴「事業做這麼大就不要來看電影啊」XDD</p>
+<p>總之，只要不是對鬼滅之刃感到厭惡的話，都非常推薦來看。就算不是為了劇情，為了可愛的彌豆子也是賺。</p>
+<hr>
+<center><strong><font color=#FF0000>🚫有雷心得</font></strong></center>
+<hr>
+
+<p>說回劇場版的劇情，我個人認為最精彩的部分當屬最後炎柱與上弦之參的對決了</p>
+<p>我覺得這場戰鬥炎柱真的稱不上佔有優勢，才剛打完下弦之一就要開打上弦之參，你當這是玩遊戲嗎？只能說對炎柱太不公平了。還有最後明明有機會一換一，上三卻在最後一刻掙脫，內心真的是很幹</p>
+<p>還有最後猗窩座逃跑之後，炎柱不顧自己的傷，叫炭治郎不要亂動以免失血過多，這段真的是感到鼻酸。在看這段的時候我就在想，杏壽郎從頭到尾都在為別人著想，但怎麼就不多對自己著想呢？</p>
+<p>最後就用一句話結束吧：</p>
+<p>「煉獄大哥沒有輸，車上一個人都沒有死，是煉獄大哥的勝利」</p>
+]]></content>
+      <categories>
+        <category>ACGN類</category>
+        <category>動畫電影心得</category>
+      </categories>
+      <tags>
+        <tag>Review</tag>
+        <tag>Anime Movie</tag>
       </tags>
   </entry>
   <entry>
@@ -1409,31 +1409,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《喬瑟與虎與魚群》簡易心得</title>
-    <url>/posts/joseetora-review/</url>
-    <content><![CDATA[<p>無意間看到這一部即將要上映，稍微看了其他人的評論覺得還可以，於是就決定來看一下</p>
-<span id="more"></span>
-
-<p><img data-src="https://upload.cc/i1/2021/01/20/5pcZB6.jpg"></p>
-<p>為了一次拿到兩個特典，我決定穿過桃園來到台北大直美麗華來看，美麗華的獨家特典是一張海報，而且不是一般的海報而是高磅數的A3紙，摸起來、看起來都很棒</p>
-<p><img data-src="https://upload.cc/i1/2021/01/20/N2lL9S.jpg"></p>
-<p>還有每一間都會送的特典，是兩張明信片</p>
-<p><img data-src="https://upload.cc/i1/2021/01/20/PiN3Ol.jpg"></p>
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>整體來說，還真的是很純愛的故事，尤其是當喬瑟接受恆夫的照顧之後，他們倆的一舉一動在我看來都是甜到不行啊。然後我很喜歡的片段是在恆夫發生意外後，面臨著無法實現願望而放棄一切的時候，喬瑟親自畫了一本繪本，裡面的故事就是她和恆夫相遇及相處的故事，那一段真的是蠻不錯的。</p>
-<p>不過之後恆夫受到鼓舞決定振作起來，在他要出院的前一天邀請喬瑟來接他，但是喬瑟在當天卻決定離開恆夫；當恆夫找到喬瑟時，她就說即使沒有恆夫也可以自己生活，我認為這一段是為了要讓恆夫能和喬瑟告白才會有的橋段，不過還是覺得有種說不出來的怪。</p>
-<p>還有電影剛開始沒多久的時候，我還抱持著原作是很久之前的小說，所以劇情應該是不會有太大的起伏，結果卻出現了：喬瑟看到恆夫跟別人交談就吃醋鬧脾氣，中斷恆夫管理員的職務、喬瑟又再一次鬧脾氣，造成恆夫出車禍（這段真的是很八點檔）、還有就是第二段提到的劇情。綜合起來就是很公主病吧？幸好最後還是坦率了起來XD</p>
-<p>再提一下Evan Call的配樂，真的是太讚了，不過有幾段配樂真的很有紫羅蘭的感覺，害我又想再看一次紫羅蘭電影版了（可惡…已經沒了）</p>
-]]></content>
-      <categories>
-        <category>ACGN類</category>
-        <category>動畫電影心得</category>
-      </categories>
-      <tags>
-        <tag>Review</tag>
-        <tag>Anime Movie</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2020年秋季動畫完結心得</title>
     <url>/posts/2020-fall-anime-completed-review/</url>
     <content><![CDATA[<p>呃…不知不覺又過去一年了。原本是想說每季都來一篇完結心得，但因為我就懶所以沒有動手；不過這次十月的動畫突然有些想法，於是這篇就生出來了。</p>
@@ -1473,6 +1448,31 @@
       <tags>
         <tag>Review</tag>
         <tag>Anime</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《喬瑟與虎與魚群》簡易心得</title>
+    <url>/posts/joseetora-review/</url>
+    <content><![CDATA[<p>無意間看到這一部即將要上映，稍微看了其他人的評論覺得還可以，於是就決定來看一下</p>
+<span id="more"></span>
+
+<p><img data-src="https://upload.cc/i1/2021/01/20/5pcZB6.jpg"></p>
+<p>為了一次拿到兩個特典，我決定穿過桃園來到台北大直美麗華來看，美麗華的獨家特典是一張海報，而且不是一般的海報而是高磅數的A3紙，摸起來、看起來都很棒</p>
+<p><img data-src="https://upload.cc/i1/2021/01/20/N2lL9S.jpg"></p>
+<p>還有每一間都會送的特典，是兩張明信片</p>
+<p><img data-src="https://upload.cc/i1/2021/01/20/PiN3Ol.jpg"></p>
+<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>整體來說，還真的是很純愛的故事，尤其是當喬瑟接受恆夫的照顧之後，他們倆的一舉一動在我看來都是甜到不行啊。然後我很喜歡的片段是在恆夫發生意外後，面臨著無法實現願望而放棄一切的時候，喬瑟親自畫了一本繪本，裡面的故事就是她和恆夫相遇及相處的故事，那一段真的是蠻不錯的。</p>
+<p>不過之後恆夫受到鼓舞決定振作起來，在他要出院的前一天邀請喬瑟來接他，但是喬瑟在當天卻決定離開恆夫；當恆夫找到喬瑟時，她就說即使沒有恆夫也可以自己生活，我認為這一段是為了要讓恆夫能和喬瑟告白才會有的橋段，不過還是覺得有種說不出來的怪。</p>
+<p>還有電影剛開始沒多久的時候，我還抱持著原作是很久之前的小說，所以劇情應該是不會有太大的起伏，結果卻出現了：喬瑟看到恆夫跟別人交談就吃醋鬧脾氣，中斷恆夫管理員的職務、喬瑟又再一次鬧脾氣，造成恆夫出車禍（這段真的是很八點檔）、還有就是第二段提到的劇情。綜合起來就是很公主病吧？幸好最後還是坦率了起來XD</p>
+<p>再提一下Evan Call的配樂，真的是太讚了，不過有幾段配樂真的很有紫羅蘭的感覺，害我又想再看一次紫羅蘭電影版了（可惡…已經沒了）</p>
+]]></content>
+      <categories>
+        <category>ACGN類</category>
+        <category>動畫電影心得</category>
+      </categories>
+      <tags>
+        <tag>Review</tag>
+        <tag>Anime Movie</tag>
       </tags>
   </entry>
   <entry>
@@ -1725,6 +1725,92 @@
       </tags>
   </entry>
   <entry>
+    <title>Hexo 簡易調教指南（二）：網站設定</title>
+    <url>/posts/hexo-guide-chapter-2/</url>
+    <content><![CDATA[<p>建立好屬於自己的網站之後，接著就是要開始調整網站內的設定了</p>
+<p>一般來說需要設定的會有<strong>網站</strong>和<strong>主題</strong>兩個部分，我們先從簡單的網站設定做起</p>
+<span id="more"></span>
+
+<h2 id="資料夾結構"><a href="#資料夾結構" class="headerlink" title="資料夾結構"></a>資料夾結構</h2><p>在調整各項設定之前，先來認識一下網站資料夾內有什麼東西吧</p>
+<p>打開上篇所建立的資料夾會看到以下的檔案結構</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">┌─ .github</span><br><span class="line">├─ node_modules</span><br><span class="line">├─ public</span><br><span class="line">├─ scaffolds</span><br><span class="line">├─ source</span><br><span class="line">├─ themes</span><br><span class="line">├─ .gitignore</span><br><span class="line">├─ _config.landscape.yml</span><br><span class="line">├─ _config.yml</span><br><span class="line">├─ db.json</span><br><span class="line">├─ package.json</span><br><span class="line">└─ package-lock.json</span><br></pre></td></tr></table></figure>
+
+<p><strong>node_modules</strong></p>
+<p>網站會使用到的套件都放置於此，同時使用 <code>npm</code> 指令安裝的主題也會在這裡</p>
+<p>按照上一篇使用 <code>npm</code> 安裝 NexT 主題，就能在這裡面找到 <code>hexo-theme-next</code> 資料夾</p>
+<p><strong>public</strong></p>
+<p>需要使用 <code>hexo g</code> 指令之後才會產生這一個資料夾</p>
+<p>裡面存放的是靜態網站的檔案，部屬網站實際上就是上傳這個資料夾裡面的檔案</p>
+<p><strong>scaffolds</strong></p>
+<p>預設會有 <code>post.md</code>、<code>draft.md</code> 和 <code>page.md</code> 三個檔案</p>
+<p>每個檔案的內容會影響到新文章在初始化時所給予的內容</p>
+<p><strong>source</strong></p>
+<p>放置各種資源的資料夾，預設是存放文章、草稿以及頁面，也可以將圖片等資料放在這裡</p>
+<p>如果不想要上傳某些檔案或資料夾，可以在檔案或資料夾名稱前面加上底線（<code>_</code>）</p>
+<p>但是放置文章的 <code>_posts</code> 名稱本來就含有底線，所以這個規則對它並不適用</p>
+<p><strong>themes</strong></p>
+<p>使用 <code>git clone</code> 所加入的主題會放置在這裡</p>
+<p><strong>.gitignore</strong></p>
+<p>不想被上傳的資料可以列在這個檔案裡面</p>
+<p><strong>_config.landscape.yml</strong></p>
+<p>這個是 Hexo 內建主題 landscape 的配置檔案</p>
+<p>因為已經安裝 NexT 主題，所以這個檔案已經沒出場機會了</p>
+<p><strong>_config.yml</strong></p>
+<p>網站的配置檔案，網站資訊、主題、網址等等的設定都包含在此</p>
+<h2 id="網站設定"><a href="#網站設定" class="headerlink" title="網站設定"></a>網站設定</h2><p>在 <code>_config.yml</code> 裡面總共有 12 項可供調整：</p>
+<ol>
+<li>Site（網站資訊）</li>
+<li>URL（永久連結）</li>
+<li>Directory（目錄）</li>
+<li>Writing（寫作）</li>
+<li>Home page setting（主頁設定）</li>
+<li>Category &amp; Tag（分類及標籤）</li>
+<li>Metadata elements（詮釋資料元素）</li>
+<li>Date / Time format（日期／時間格式）</li>
+<li>Pagination（分頁）</li>
+<li>Include / Exclude file(s)（包含／排除資料）</li>
+<li>Extensions（擴充套件）</li>
+<li>Deployment（部屬）</li>
+</ol>
+<h3 id="設定網站資訊"><a href="#設定網站資訊" class="headerlink" title="設定網站資訊"></a>設定網站資訊</h3><p>在 <code># Site</code> 中可以設定網站標題、描述、作者等資訊</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Site</span></span><br><span class="line"><span class="attr">title:</span> <span class="string">Hexo</span> <span class="comment"># 網站標題</span></span><br><span class="line"><span class="attr">subtitle:</span> <span class="string">&#x27;&#x27;</span> <span class="comment"># 網站子標題</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">&#x27;&#x27;</span> <span class="comment"># 網站描述</span></span><br><span class="line"><span class="attr">keywords:</span> <span class="comment"># 網站關鍵字</span></span><br><span class="line"><span class="attr">author:</span> <span class="string">John</span> <span class="string">Doe</span> <span class="comment"># 作者名稱</span></span><br><span class="line"><span class="attr">language:</span> <span class="string">en</span> <span class="comment"># 網站顯示語言</span></span><br><span class="line"><span class="attr">timezone:</span> <span class="string">&#x27;&#x27;</span> <span class="comment"># 時區</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="調整永久網址"><a href="#調整永久網址" class="headerlink" title="調整永久網址"></a>調整永久網址</h3><p>在 <code># URL</code> 中需要調整兩個欄位</p>
+<p><code>url</code> 欄位填入第一篇所建立的專案名稱</p>
+<p><code>permalink</code> 欄位可以自訂 <code>url</code> 後面顯示的內容，關於可使用的變數可以到<a href="https://hexo.io/zh-tw/docs/permalinks">官方教學文件</a>觀看</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># URL</span></span><br><span class="line"><span class="comment">## Set your site url here. For example, if you use GitHub Page, set url as &#x27;https://username.github.io/project&#x27;</span></span><br><span class="line"><span class="attr">url:</span> <span class="string">https://&lt;username&gt;.github.io/</span> <span class="comment"># &quot;https://&quot; 後面改成自己的專案名稱</span></span><br><span class="line"><span class="attr">permalink:</span> <span class="string">:year/:month/:day/:title/</span> <span class="comment"># 按照教學文件內提供的變數來更改</span></span><br><span class="line"><span class="attr">permalink_defaults:</span></span><br><span class="line"><span class="attr">pretty_urls:</span></span><br><span class="line">  <span class="attr">trailing_index:</span> <span class="literal">true</span> <span class="comment"># Set to false to remove trailing &#x27;index.html&#x27; from permalinks</span></span><br><span class="line">  <span class="attr">trailing_html:</span> <span class="literal">true</span> <span class="comment"># Set to false to remove trailing &#x27;.html&#x27; from permalinks</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="分類及標籤別名"><a href="#分類及標籤別名" class="headerlink" title="分類及標籤別名"></a>分類及標籤別名</h3><p>不想要網址列出現中文，除了將分類／標籤設為英文之外，還可以設定英文別名</p>
+<p><img data-src="https://i.imgur.com/StemLnV.png"></p>
+<p>在 <code># Category &amp; Tag</code> 中按照以下格式調整</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Category &amp; Tag</span></span><br><span class="line"><span class="attr">default_category:</span> <span class="string">uncategorized</span></span><br><span class="line"><span class="attr">category_map:</span></span><br><span class="line">  <span class="string">日記:</span> <span class="string">Daily</span> <span class="comment"># 開頭要空兩格</span></span><br><span class="line"><span class="attr">tag_map:</span></span><br><span class="line">  <span class="string">第一週:</span> <span class="string">&quot;Week-1&quot;</span> <span class="comment"># 引號可加可不加</span></span><br></pre></td></tr></table></figure>
+
+<p>如此一來在維持中文名稱的同時，網址列也會顯示英文</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/40NdvxF.png"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/ztZrzid.png"></div></div></div>
+
+<h3 id="擴充套件"><a href="#擴充套件" class="headerlink" title="擴充套件"></a>擴充套件</h3><p>在 <code># Extensions</code> 中的 <code>theme</code> 欄位變更網站的佈景主題</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Extensions</span></span><br><span class="line"><span class="comment">## Plugins: https://hexo.io/plugins/</span></span><br><span class="line"><span class="comment">## Themes: https://hexo.io/themes/</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">next</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="新增文章"><a href="#新增文章" class="headerlink" title="新增文章"></a>新增文章</h2><p>在終端機內輸入</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure>
+
+<p><code>[layout]</code> 對應到 <strong>scaffolds</strong> 資料夾內的 <code>post.md</code>、<code>draft.md</code> 和 <code>page.md</code> 這三個檔案，輸入時只需輸入檔案名稱即可</p>
+<p><img data-src="https://i.imgur.com/iazEz49.png"></p>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p><code>_config.yml</code> 的設定就先到此為止，之後如果有安裝套件的時候還需要回到這裡新增套件的設定選項。</p>
+<p>修改完內在之後，下一篇就要開始裝飾（調教）外表（主題）了</p>
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><p><a href="https://ithelp.ithome.com.tw/users/20119486/ironman/2944">試著學 Hexo :: 第 12 屆 iT 邦幫忙鐵人賽</a></p>
+<p><a href="https://hexo.io/zh-tw/docs/">文件 | Hexo</a></p>
+]]></content>
+      <categories>
+        <category>教學類</category>
+        <category>Hexo 簡易調教指南</category>
+      </categories>
+      <tags>
+        <tag>Teach</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo 簡易調教指南（一）：軟體安裝及網站建構</title>
     <url>/posts/hexo-guide-chapter-1/</url>
     <content><![CDATA[<p>上一篇「<a href="https://home.gamer.com.tw/creationDetail.php?sn=4849277">10分鐘內從安裝Hexo到佈署至GitHub Pages</a>」教大家用短短 10 分鐘來建立屬於自己的網站。這次我想進階一點，將我所用到的功能介紹給大家</p>
@@ -1789,6 +1875,94 @@
       <tags>
         <tag>Teach</tag>
         <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021年春季動畫心得</title>
+    <url>/posts/2021-spring-anime-review/</url>
+    <content><![CDATA[<p>這次有很多動畫看起來都蠻棒的，而且也有一些冷門良作，希望能為身處水深火熱的我帶來一點消遣(´_ゝ`)</p>
+<span id="more"></span>
+
+<h3 id="戰鬥員派遣中！"><a href="#戰鬥員派遣中！" class="headerlink" title="戰鬥員派遣中！"></a>戰鬥員派遣中！</h3><p><img data-src="https://i.imgur.com/tbjqqsR.jpg"></p>
+<p>看到是《美好世界》的作者就有興趣了，而且這個作品好像在《美好世界》之前就已經誕生，所以既視感還蠻重的。看了三集之後我覺得有很重要的一點就是人設很棒，通常只要人物長得好看，就算劇情普普我還是能看完；但是論搞笑程度還是比《美好世界》略遜一籌，這部的笑點比較多都是建立在無俚頭的行為上，像是第一集的「小雞雞慶典」就蠻經典的</p>
+<h3 id="刮掉鬍子的我與撿到的女高中生"><a href="#刮掉鬍子的我與撿到的女高中生" class="headerlink" title="刮掉鬍子的我與撿到的女高中生"></a>刮掉鬍子的我與撿到的女高中生</h3><p><img data-src="https://i.imgur.com/hasY1gK.jpg"></p>
+<p>這部作品的爭議度還蠻大的，光是在 PTT 西洽板包含「沙優」的標題每天就有 16 篇。一開始還沒什麼感覺，到後來一進版就看到這些文章，久了真的是有點煩</p>
+<p>說回作品，早在小說第一卷剛出不久時就有因為封面而稍微注意一下，當初靠著零碎的心得只知道劇情還不錯。等到一年多後台版出了，才從心得文中發現是這樣的劇情</p>
+<p>被稱為「神待少女」的少女靠著自己的身體來換取留宿，光是在推特搜尋「#家出少女」就能輕易看到許多幾分鐘前發的推文，就能大致了解到這件事在日本是真的很普遍。但卻有這麼一個作品將這種事情包裝成好像是一位大叔救贖了一位少女，雖然這種劇情在現實中也有類似事件，但現實當中的那名男子最後還是遭到判刑，所以說這種感覺像是「美化犯罪」的劇情就讓某些人覺得不恰當</p>
+<p>當然我自己是一點都不在乎啦，不管是什麼用什麼議題來創作，只要作者寫得好並且受到讀者的肯定，那麼我就覺得這是一個好作品。不過我還是很難理解為什麼爭議這麼大，卻還是能在 2019 年的《這本輕小說真厲害！》得到第四名，或許是劇情真的還不錯吧</p>
+<h3 id="聖女魔力無所不能"><a href="#聖女魔力無所不能" class="headerlink" title="聖女魔力無所不能"></a>聖女魔力無所不能</h3><p><img data-src="https://i.imgur.com/CMp7SGR.jpg"></p>
+<p>看到宣傳圖的時候就有股熟悉的感覺，查了一下才想到是之前看過小說封面的緣故。雖然之前被小說封面吸引住，但看到女主角是二十幾歲的 OL 就瞬間失去興趣了。現在既然動畫化了就來看一下</p>
+<p>這部的女主角是由石川由依配音，我對她的印象還只有在米卡莎和薇爾莉特，所以當我聽到她配比較開朗的角色時就感覺有點新鮮，不過可能也是我沒看過她配其他角色的動畫所以才會這麼想</p>
+<p>整個動畫帶給我的感覺就是很悠閒的感覺，畢竟播到現在也沒有什麼發生戰爭的劇情，大部分劇情也都發生在研究所附近，所以說很適合在閒閒沒事的時候看</p>
+<h3 id="佐賀偶像是傳奇-捲土重來"><a href="#佐賀偶像是傳奇-捲土重來" class="headerlink" title="佐賀偶像是傳奇 捲土重來"></a>佐賀偶像是傳奇 捲土重來</h3><p><img data-src="https://i.imgur.com/Y7p7fFS.jpg"></p>
+<p>時隔兩年多，第二季強勢登場。回想當初第一季剛播出的時候，即使打著「Cygames 出品」和「新感覺殭屍系動畫」的名號，討論度卻還是非常的低。但是自從越來越多人推薦之後，大家才開始發現這部具有黑馬潛力的動畫</p>
+<p>說回第二季，整體還是熟悉的味道，並且在此基礎上對於每位角色的心理層面也有更進一步的描寫，像我覺得第二集就還蠻不錯的，原本身處於相同世代，結果因為變成殭屍，別人的時間持續走動，但自己的時間卻從此定格了，感覺也是蠻奇妙的</p>
+<h3 id="86－不存在的戰區－"><a href="#86－不存在的戰區－" class="headerlink" title="86－不存在的戰區－"></a>86－不存在的戰區－</h3><p><img data-src="https://i.imgur.com/GrSt364.jpg"></p>
+<p>有幸在 2018 年讀完了小說第一集，當時真的是有震撼到我，一方面是小說在戰鬥部分的劇情寫得滿詳細的，而且還陸續有人領便當，讓人感覺到在這個殘酷世界卻什麼都沒辦法的無力感；另一方面就是覺得共和國真的是個王八蛋，明明自己也沒什麼實力，但卻一直將他們看不慣的「86」丟到戰場上，甚至還說出戰爭無人傷亡這種謊言，這兩種因素結合在一起就變成在看小說的時候會很有感</p>
+<p>不過看完小說第一集後原本想繼續看第二集，結果看沒幾頁就放著積灰塵了（不是，我買的是電子版…），所以當看到動畫是半年番的時候倒是沒什麼感覺。不過趁此機會，剛好可以把小說第一集重新看一次，順便把小說第二、三集看一下，又或者是直接跳到第三集後面開始看…？</p>
+]]></content>
+      <categories>
+        <category>ACGN類</category>
+        <category>新番心得</category>
+      </categories>
+      <tags>
+        <tag>Review</tag>
+        <tag>Anime</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>irocks M40E 開箱</title>
+    <url>/posts/irocks-m40e-unboxing/</url>
+    <content><![CDATA[<p>用了一年多的 G304 還是難逃連點的命運，迫不得已只好買一個新滑鼠</p>
+<p>因為預算只有 1500 元，所以就挑了評價不錯的 irocks M40E</p>
+<span id="more"></span>
+
+<h2 id="開箱"><a href="#開箱" class="headerlink" title="開箱"></a>開箱</h2><p>盒裝正面和背面，然後其實正面是可以掀開來看滑鼠本體的</p>
+<p>不過剛拿到的時候忘記有這回事，所以就沒拍了</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://1.bp.blogspot.com/-foYn0rk5g3U/YNff9RZ5ILI/AAAAAAAAaEQ/hixNRyibdkE93LhDh0W2Knyr_vc_qfDCgCPcBGAsYHg/s2288/P_20210624_105345.jpg"></div><div class="group-picture-column"><img data-src="https://1.bp.blogspot.com/-oR_cQtqrxo8/YNff9Zll3yI/AAAAAAAAaEQ/aRRpvL5guWMuRr5AtgQAcA2_xSrndncFQCPcBGAsYHg/s2288/P_20210624_105414.jpg"></div></div></div>
+
+<p>把內容物拉出來，本體登場</p>
+<p><img data-src="https://1.bp.blogspot.com/-ahBpK5n48xQ/YNff9UWb3vI/AAAAAAAAaEQ/a__uviBnF8g3Gc0-GMiNWN4uTFSIQ7XMQCPcBGAsYHg/s2288/P_20210624_105609.jpg"></p>
+<h2 id="手感"><a href="#手感" class="headerlink" title="手感"></a>手感</h2><p>滑鼠本體只有 62g，甚至比沒裝電池的 G304 還要輕</p>
+<p>線材也有別於一般的編織線（叫做傘繩線），幾乎可以無視它的存在</p>
+<p>滑鼠的手感挺奇妙的，滑滑的但是又可以抓得很牢，只能說握過就回不去了</p>
+<p><img data-src="https://1.bp.blogspot.com/-vPaaovDygwg/YNff9VipkvI/AAAAAAAAaEQ/le3Q4sP9DecX0XVcXM1Wv3KGSRRNoFYMACPcBGAsYHg/s2288/P_20210624_105820.jpg"></p>
+<p>滑鼠底部，感應器是高階的 PMW3389</p>
+<p>然後鼠貼其實有保護貼，記得使用之前要撕掉</p>
+<p>不要像我用了這幾天覺得鼠貼怎麼這麼容易磨損，查別人開箱文才知道這件事</p>
+<p><img data-src="https://1.bp.blogspot.com/-ozOfEdGdUR4/YNff9TihzYI/AAAAAAAAaEQ/udVpmIPW9y46Ar1Hp_zs2_DCLPV4Kmy4gCPcBGAsYHg/s2288/P_20210624_105902.jpg"></p>
+<p>接上電腦後，預設的燈光是多彩流光</p>
+<p><img data-src="https://1.bp.blogspot.com/-42k917l5RjU/YNff9bPaDVI/AAAAAAAAaEQ/yrGGVajZKcsLGptI6f6xLrxxaJ_yu19ZQCPcBGAsYHg/s2288/IMG_20210624_110049.jpg"></p>
+<p>這隻的微動是歐姆龍新的 D2FC-F-K 60MN，似乎是 50M 的小改款</p>
+<p>在 50M 的時候就有人提到耐用性的問題，60M 是否有改善就待時間驗證了</p>
+<p>比較手感的部分就拿我手上的 G304 和 G300s 來做對比</p>
+<p>第一個是滾輪，M40E 滾動時有輕微的刻度回饋感，按下去的回饋感則是大於其他兩個</p>
+<p>第二個是左右鍵，M40E 鍵程比其他兩個都要短，按起來很輕脆</p>
+<p><img data-src="https://1.bp.blogspot.com/-Gedn7ZYDp3A/YNff9b5-VeI/AAAAAAAAaEQ/ep4AHD373zciXYhGHFBRzqduObYPucqRACPcBGAsYHg/s2288/P_20210624_123735.jpg"></p>
+<p>第三點是側鍵，按鍵大小和反饋感就樂勝其他兩個，但是跟其他兩個一樣都軟軟的</p>
+<p><img data-src="https://1.bp.blogspot.com/-jz-ZeCf_ZVY/YNff9X0UJeI/AAAAAAAAaEQ/fxS406P_URUJedNfnySlF57eCKODnFOBwCPcBGAsYHg/s2288/P_20210624_120302.jpg"></p>
+<h3 id="懶人包"><a href="#懶人包" class="headerlink" title="懶人包"></a>懶人包</h3><p>滾輪滾動回饋：G304 &gt; M40E &gt; G300s</p>
+<p>中鍵按壓手感：M40E &gt; G304 &gt; G300s</p>
+<p>左右鍵空鍵程：G304 &gt; G300s ≥ M40E</p>
+<p>左右鍵手感：M40E &gt; G304 &gt; G300s</p>
+<p>側鍵大小：M40E &gt; G300s &gt; G304</p>
+<p>側鍵按壓手感：M40E &gt; G300s &gt; G304</p>
+<h2 id="軟體"><a href="#軟體" class="headerlink" title="軟體"></a>軟體</h2><p>「iRocks應用軟體」跟「Logitech 遊戲軟體」的功能雖然都差不多，但是論美觀程度是 irocks 樂勝</p>
+<p>羅技目前的軟體是 G HUB，但評價不太好；irocks 軟體倒是沒看過有人抱怨</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/fpYUOId.png"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/Y4nATy1.png"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/1569Q6l.png"></div></div></div>
+
+<p>比較特別的設定是把其中一個按鍵設為「滑鼠 FN」的話，其他五個按鍵就能用組合鍵的方式自訂不同的功能，並且和原本按一次所設定的功能共存，等於可以自訂十種功能</p>
+<p><img data-src="https://i.imgur.com/13s2q69.png"></p>
+<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>原本還在跟 M39 Pro 和 M40E 之間做抉擇，幸好最後是買 M40E，不然我的小手可能會握不住 XD</p>
+<p>總體來說還是挺滿意的，尤其是重量輕這件事，用起來真的很爽。</p>
+]]></content>
+      <categories>
+        <category>開箱類</category>
+        <category>電腦周邊</category>
+      </categories>
+      <tags>
+        <tag>Unboxing</tag>
+        <tag>Mouse</tag>
       </tags>
   </entry>
   <entry>
@@ -1895,180 +2069,6 @@
       <tags>
         <tag>Review</tag>
         <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo 簡易調教指南（二）：網站設定</title>
-    <url>/posts/hexo-guide-chapter-2/</url>
-    <content><![CDATA[<p>建立好屬於自己的網站之後，接著就是要開始調整網站內的設定了</p>
-<p>一般來說需要設定的會有<strong>網站</strong>和<strong>主題</strong>兩個部分，我們先從簡單的網站設定做起</p>
-<span id="more"></span>
-
-<h2 id="資料夾結構"><a href="#資料夾結構" class="headerlink" title="資料夾結構"></a>資料夾結構</h2><p>在調整各項設定之前，先來認識一下網站資料夾內有什麼東西吧</p>
-<p>打開上篇所建立的資料夾會看到以下的檔案結構</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">┌─ .github</span><br><span class="line">├─ node_modules</span><br><span class="line">├─ public</span><br><span class="line">├─ scaffolds</span><br><span class="line">├─ source</span><br><span class="line">├─ themes</span><br><span class="line">├─ .gitignore</span><br><span class="line">├─ _config.landscape.yml</span><br><span class="line">├─ _config.yml</span><br><span class="line">├─ db.json</span><br><span class="line">├─ package.json</span><br><span class="line">└─ package-lock.json</span><br></pre></td></tr></table></figure>
-
-<p><strong>node_modules</strong></p>
-<p>網站會使用到的套件都放置於此，同時使用 <code>npm</code> 指令安裝的主題也會在這裡</p>
-<p>按照上一篇使用 <code>npm</code> 安裝 NexT 主題，就能在這裡面找到 <code>hexo-theme-next</code> 資料夾</p>
-<p><strong>public</strong></p>
-<p>需要使用 <code>hexo g</code> 指令之後才會產生這一個資料夾</p>
-<p>裡面存放的是靜態網站的檔案，部屬網站實際上就是上傳這個資料夾裡面的檔案</p>
-<p><strong>scaffolds</strong></p>
-<p>預設會有 <code>post.md</code>、<code>draft.md</code> 和 <code>page.md</code> 三個檔案</p>
-<p>每個檔案的內容會影響到新文章在初始化時所給予的內容</p>
-<p><strong>source</strong></p>
-<p>放置各種資源的資料夾，預設是存放文章、草稿以及頁面，也可以將圖片等資料放在這裡</p>
-<p>如果不想要上傳某些檔案或資料夾，可以在檔案或資料夾名稱前面加上底線（<code>_</code>）</p>
-<p>但是放置文章的 <code>_posts</code> 名稱本來就含有底線，所以這個規則對它並不適用</p>
-<p><strong>themes</strong></p>
-<p>使用 <code>git clone</code> 所加入的主題會放置在這裡</p>
-<p><strong>.gitignore</strong></p>
-<p>不想被上傳的資料可以列在這個檔案裡面</p>
-<p><strong>_config.landscape.yml</strong></p>
-<p>這個是 Hexo 內建主題 landscape 的配置檔案</p>
-<p>因為已經安裝 NexT 主題，所以這個檔案已經沒出場機會了</p>
-<p><strong>_config.yml</strong></p>
-<p>網站的配置檔案，網站資訊、主題、網址等等的設定都包含在此</p>
-<h2 id="網站設定"><a href="#網站設定" class="headerlink" title="網站設定"></a>網站設定</h2><p>在 <code>_config.yml</code> 裡面總共有 12 項可供調整：</p>
-<ol>
-<li>Site（網站資訊）</li>
-<li>URL（永久連結）</li>
-<li>Directory（目錄）</li>
-<li>Writing（寫作）</li>
-<li>Home page setting（主頁設定）</li>
-<li>Category &amp; Tag（分類及標籤）</li>
-<li>Metadata elements（詮釋資料元素）</li>
-<li>Date / Time format（日期／時間格式）</li>
-<li>Pagination（分頁）</li>
-<li>Include / Exclude file(s)（包含／排除資料）</li>
-<li>Extensions（擴充套件）</li>
-<li>Deployment（部屬）</li>
-</ol>
-<h3 id="設定網站資訊"><a href="#設定網站資訊" class="headerlink" title="設定網站資訊"></a>設定網站資訊</h3><p>在 <code># Site</code> 中可以設定網站標題、描述、作者等資訊</p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Site</span></span><br><span class="line"><span class="attr">title:</span> <span class="string">Hexo</span> <span class="comment"># 網站標題</span></span><br><span class="line"><span class="attr">subtitle:</span> <span class="string">&#x27;&#x27;</span> <span class="comment"># 網站子標題</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">&#x27;&#x27;</span> <span class="comment"># 網站描述</span></span><br><span class="line"><span class="attr">keywords:</span> <span class="comment"># 網站關鍵字</span></span><br><span class="line"><span class="attr">author:</span> <span class="string">John</span> <span class="string">Doe</span> <span class="comment"># 作者名稱</span></span><br><span class="line"><span class="attr">language:</span> <span class="string">en</span> <span class="comment"># 網站顯示語言</span></span><br><span class="line"><span class="attr">timezone:</span> <span class="string">&#x27;&#x27;</span> <span class="comment"># 時區</span></span><br></pre></td></tr></table></figure>
-
-<h3 id="調整永久網址"><a href="#調整永久網址" class="headerlink" title="調整永久網址"></a>調整永久網址</h3><p>在 <code># URL</code> 中需要調整兩個欄位</p>
-<p><code>url</code> 欄位填入第一篇所建立的專案名稱</p>
-<p><code>permalink</code> 欄位可以自訂 <code>url</code> 後面顯示的內容，關於可使用的變數可以到<a href="https://hexo.io/zh-tw/docs/permalinks">官方教學文件</a>觀看</p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># URL</span></span><br><span class="line"><span class="comment">## Set your site url here. For example, if you use GitHub Page, set url as &#x27;https://username.github.io/project&#x27;</span></span><br><span class="line"><span class="attr">url:</span> <span class="string">https://&lt;username&gt;.github.io/</span> <span class="comment"># &quot;https://&quot; 後面改成自己的專案名稱</span></span><br><span class="line"><span class="attr">permalink:</span> <span class="string">:year/:month/:day/:title/</span> <span class="comment"># 按照教學文件內提供的變數來更改</span></span><br><span class="line"><span class="attr">permalink_defaults:</span></span><br><span class="line"><span class="attr">pretty_urls:</span></span><br><span class="line">  <span class="attr">trailing_index:</span> <span class="literal">true</span> <span class="comment"># Set to false to remove trailing &#x27;index.html&#x27; from permalinks</span></span><br><span class="line">  <span class="attr">trailing_html:</span> <span class="literal">true</span> <span class="comment"># Set to false to remove trailing &#x27;.html&#x27; from permalinks</span></span><br></pre></td></tr></table></figure>
-
-<h3 id="分類及標籤別名"><a href="#分類及標籤別名" class="headerlink" title="分類及標籤別名"></a>分類及標籤別名</h3><p>不想要網址列出現中文，除了將分類／標籤設為英文之外，還可以設定英文別名</p>
-<p><img data-src="https://i.imgur.com/StemLnV.png"></p>
-<p>在 <code># Category &amp; Tag</code> 中按照以下格式調整</p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Category &amp; Tag</span></span><br><span class="line"><span class="attr">default_category:</span> <span class="string">uncategorized</span></span><br><span class="line"><span class="attr">category_map:</span></span><br><span class="line">  <span class="string">日記:</span> <span class="string">Daily</span> <span class="comment"># 開頭要空兩格</span></span><br><span class="line"><span class="attr">tag_map:</span></span><br><span class="line">  <span class="string">第一週:</span> <span class="string">&quot;Week-1&quot;</span> <span class="comment"># 引號可加可不加</span></span><br></pre></td></tr></table></figure>
-
-<p>如此一來在維持中文名稱的同時，網址列也會顯示英文</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/40NdvxF.png"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/ztZrzid.png"></div></div></div>
-
-<h3 id="擴充套件"><a href="#擴充套件" class="headerlink" title="擴充套件"></a>擴充套件</h3><p>在 <code># Extensions</code> 中的 <code>theme</code> 欄位變更網站的佈景主題</p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Extensions</span></span><br><span class="line"><span class="comment">## Plugins: https://hexo.io/plugins/</span></span><br><span class="line"><span class="comment">## Themes: https://hexo.io/themes/</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">next</span></span><br></pre></td></tr></table></figure>
-
-<h2 id="新增文章"><a href="#新增文章" class="headerlink" title="新增文章"></a>新增文章</h2><p>在終端機內輸入</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure>
-
-<p><code>[layout]</code> 對應到 <strong>scaffolds</strong> 資料夾內的 <code>post.md</code>、<code>draft.md</code> 和 <code>page.md</code> 這三個檔案，輸入時只需輸入檔案名稱即可</p>
-<p><img data-src="https://i.imgur.com/iazEz49.png"></p>
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p><code>_config.yml</code> 的設定就先到此為止，之後如果有安裝套件的時候還需要回到這裡新增套件的設定選項。</p>
-<p>修改完內在之後，下一篇就要開始裝飾（調教）外表（主題）了</p>
-<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><p><a href="https://ithelp.ithome.com.tw/users/20119486/ironman/2944">試著學 Hexo :: 第 12 屆 iT 邦幫忙鐵人賽</a></p>
-<p><a href="https://hexo.io/zh-tw/docs/">文件 | Hexo</a></p>
-]]></content>
-      <categories>
-        <category>教學類</category>
-        <category>Hexo 簡易調教指南</category>
-      </categories>
-      <tags>
-        <tag>Teach</tag>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>irocks M40E 開箱</title>
-    <url>/posts/irocks-m40e-unboxing/</url>
-    <content><![CDATA[<p>用了一年多的 G304 還是難逃連點的命運，迫不得已只好買一個新滑鼠</p>
-<p>因為預算只有 1500 元，所以就挑了評價不錯的 irocks M40E</p>
-<span id="more"></span>
-
-<h2 id="開箱"><a href="#開箱" class="headerlink" title="開箱"></a>開箱</h2><p>盒裝正面和背面，然後其實正面是可以掀開來看滑鼠本體的</p>
-<p>不過剛拿到的時候忘記有這回事，所以就沒拍了</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://1.bp.blogspot.com/-foYn0rk5g3U/YNff9RZ5ILI/AAAAAAAAaEQ/hixNRyibdkE93LhDh0W2Knyr_vc_qfDCgCPcBGAsYHg/s2288/P_20210624_105345.jpg"></div><div class="group-picture-column"><img data-src="https://1.bp.blogspot.com/-oR_cQtqrxo8/YNff9Zll3yI/AAAAAAAAaEQ/aRRpvL5guWMuRr5AtgQAcA2_xSrndncFQCPcBGAsYHg/s2288/P_20210624_105414.jpg"></div></div></div>
-
-<p>把內容物拉出來，本體登場</p>
-<p><img data-src="https://1.bp.blogspot.com/-ahBpK5n48xQ/YNff9UWb3vI/AAAAAAAAaEQ/a__uviBnF8g3Gc0-GMiNWN4uTFSIQ7XMQCPcBGAsYHg/s2288/P_20210624_105609.jpg"></p>
-<h2 id="手感"><a href="#手感" class="headerlink" title="手感"></a>手感</h2><p>滑鼠本體只有 62g，甚至比沒裝電池的 G304 還要輕</p>
-<p>線材也有別於一般的編織線（叫做傘繩線），幾乎可以無視它的存在</p>
-<p>滑鼠的手感挺奇妙的，滑滑的但是又可以抓得很牢，只能說握過就回不去了</p>
-<p><img data-src="https://1.bp.blogspot.com/-vPaaovDygwg/YNff9VipkvI/AAAAAAAAaEQ/le3Q4sP9DecX0XVcXM1Wv3KGSRRNoFYMACPcBGAsYHg/s2288/P_20210624_105820.jpg"></p>
-<p>滑鼠底部，感應器是高階的 PMW3389</p>
-<p>然後鼠貼其實有保護貼，記得使用之前要撕掉</p>
-<p>不要像我用了這幾天覺得鼠貼怎麼這麼容易磨損，查別人開箱文才知道這件事</p>
-<p><img data-src="https://1.bp.blogspot.com/-ozOfEdGdUR4/YNff9TihzYI/AAAAAAAAaEQ/udVpmIPW9y46Ar1Hp_zs2_DCLPV4Kmy4gCPcBGAsYHg/s2288/P_20210624_105902.jpg"></p>
-<p>接上電腦後，預設的燈光是多彩流光</p>
-<p><img data-src="https://1.bp.blogspot.com/-42k917l5RjU/YNff9bPaDVI/AAAAAAAAaEQ/yrGGVajZKcsLGptI6f6xLrxxaJ_yu19ZQCPcBGAsYHg/s2288/IMG_20210624_110049.jpg"></p>
-<p>這隻的微動是歐姆龍新的 D2FC-F-K 60MN，似乎是 50M 的小改款</p>
-<p>在 50M 的時候就有人提到耐用性的問題，60M 是否有改善就待時間驗證了</p>
-<p>比較手感的部分就拿我手上的 G304 和 G300s 來做對比</p>
-<p>第一個是滾輪，M40E 滾動時有輕微的刻度回饋感，按下去的回饋感則是大於其他兩個</p>
-<p>第二個是左右鍵，M40E 鍵程比其他兩個都要短，按起來很輕脆</p>
-<p><img data-src="https://1.bp.blogspot.com/-Gedn7ZYDp3A/YNff9b5-VeI/AAAAAAAAaEQ/ep4AHD373zciXYhGHFBRzqduObYPucqRACPcBGAsYHg/s2288/P_20210624_123735.jpg"></p>
-<p>第三點是側鍵，按鍵大小和反饋感就樂勝其他兩個，但是跟其他兩個一樣都軟軟的</p>
-<p><img data-src="https://1.bp.blogspot.com/-jz-ZeCf_ZVY/YNff9X0UJeI/AAAAAAAAaEQ/fxS406P_URUJedNfnySlF57eCKODnFOBwCPcBGAsYHg/s2288/P_20210624_120302.jpg"></p>
-<h3 id="懶人包"><a href="#懶人包" class="headerlink" title="懶人包"></a>懶人包</h3><p>滾輪滾動回饋：G304 &gt; M40E &gt; G300s</p>
-<p>中鍵按壓手感：M40E &gt; G304 &gt; G300s</p>
-<p>左右鍵空鍵程：G304 &gt; G300s ≥ M40E</p>
-<p>左右鍵手感：M40E &gt; G304 &gt; G300s</p>
-<p>側鍵大小：M40E &gt; G300s &gt; G304</p>
-<p>側鍵按壓手感：M40E &gt; G300s &gt; G304</p>
-<h2 id="軟體"><a href="#軟體" class="headerlink" title="軟體"></a>軟體</h2><p>「iRocks應用軟體」跟「Logitech 遊戲軟體」的功能雖然都差不多，但是論美觀程度是 irocks 樂勝</p>
-<p>羅技目前的軟體是 G HUB，但評價不太好；irocks 軟體倒是沒看過有人抱怨</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/fpYUOId.png"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/Y4nATy1.png"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/1569Q6l.png"></div></div></div>
-
-<p>比較特別的設定是把其中一個按鍵設為「滑鼠 FN」的話，其他五個按鍵就能用組合鍵的方式自訂不同的功能，並且和原本按一次所設定的功能共存，等於可以自訂十種功能</p>
-<p><img data-src="https://i.imgur.com/13s2q69.png"></p>
-<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>原本還在跟 M39 Pro 和 M40E 之間做抉擇，幸好最後是買 M40E，不然我的小手可能會握不住 XD</p>
-<p>總體來說還是挺滿意的，尤其是重量輕這件事，用起來真的很爽。</p>
-]]></content>
-      <categories>
-        <category>開箱類</category>
-        <category>電腦周邊</category>
-      </categories>
-      <tags>
-        <tag>Unboxing</tag>
-        <tag>Mouse</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2021年春季動畫心得</title>
-    <url>/posts/2021-spring-anime-review/</url>
-    <content><![CDATA[<p>這次有很多動畫看起來都蠻棒的，而且也有一些冷門良作，希望能為身處水深火熱的我帶來一點消遣(´_ゝ`)</p>
-<span id="more"></span>
-
-<h3 id="戰鬥員派遣中！"><a href="#戰鬥員派遣中！" class="headerlink" title="戰鬥員派遣中！"></a>戰鬥員派遣中！</h3><p><img data-src="https://i.imgur.com/tbjqqsR.jpg"></p>
-<p>看到是《美好世界》的作者就有興趣了，而且這個作品好像在《美好世界》之前就已經誕生，所以既視感還蠻重的。看了三集之後我覺得有很重要的一點就是人設很棒，通常只要人物長得好看，就算劇情普普我還是能看完；但是論搞笑程度還是比《美好世界》略遜一籌，這部的笑點比較多都是建立在無俚頭的行為上，像是第一集的「小雞雞慶典」就蠻經典的</p>
-<h3 id="刮掉鬍子的我與撿到的女高中生"><a href="#刮掉鬍子的我與撿到的女高中生" class="headerlink" title="刮掉鬍子的我與撿到的女高中生"></a>刮掉鬍子的我與撿到的女高中生</h3><p><img data-src="https://i.imgur.com/hasY1gK.jpg"></p>
-<p>這部作品的爭議度還蠻大的，光是在 PTT 西洽板包含「沙優」的標題每天就有 16 篇。一開始還沒什麼感覺，到後來一進版就看到這些文章，久了真的是有點煩</p>
-<p>說回作品，早在小說第一卷剛出不久時就有因為封面而稍微注意一下，當初靠著零碎的心得只知道劇情還不錯。等到一年多後台版出了，才從心得文中發現是這樣的劇情</p>
-<p>被稱為「神待少女」的少女靠著自己的身體來換取留宿，光是在推特搜尋「#家出少女」就能輕易看到許多幾分鐘前發的推文，就能大致了解到這件事在日本是真的很普遍。但卻有這麼一個作品將這種事情包裝成好像是一位大叔救贖了一位少女，雖然這種劇情在現實中也有類似事件，但現實當中的那名男子最後還是遭到判刑，所以說這種感覺像是「美化犯罪」的劇情就讓某些人覺得不恰當</p>
-<p>當然我自己是一點都不在乎啦，不管是什麼用什麼議題來創作，只要作者寫得好並且受到讀者的肯定，那麼我就覺得這是一個好作品。不過我還是很難理解為什麼爭議這麼大，卻還是能在 2019 年的《這本輕小說真厲害！》得到第四名，或許是劇情真的還不錯吧</p>
-<h3 id="聖女魔力無所不能"><a href="#聖女魔力無所不能" class="headerlink" title="聖女魔力無所不能"></a>聖女魔力無所不能</h3><p><img data-src="https://i.imgur.com/CMp7SGR.jpg"></p>
-<p>看到宣傳圖的時候就有股熟悉的感覺，查了一下才想到是之前看過小說封面的緣故。雖然之前被小說封面吸引住，但看到女主角是二十幾歲的 OL 就瞬間失去興趣了。現在既然動畫化了就來看一下</p>
-<p>這部的女主角是由石川由依配音，我對她的印象還只有在米卡莎和薇爾莉特，所以當我聽到她配比較開朗的角色時就感覺有點新鮮，不過可能也是我沒看過她配其他角色的動畫所以才會這麼想</p>
-<p>整個動畫帶給我的感覺就是很悠閒的感覺，畢竟播到現在也沒有什麼發生戰爭的劇情，大部分劇情也都發生在研究所附近，所以說很適合在閒閒沒事的時候看</p>
-<h3 id="佐賀偶像是傳奇-捲土重來"><a href="#佐賀偶像是傳奇-捲土重來" class="headerlink" title="佐賀偶像是傳奇 捲土重來"></a>佐賀偶像是傳奇 捲土重來</h3><p><img data-src="https://i.imgur.com/Y7p7fFS.jpg"></p>
-<p>時隔兩年多，第二季強勢登場。回想當初第一季剛播出的時候，即使打著「Cygames 出品」和「新感覺殭屍系動畫」的名號，討論度卻還是非常的低。但是自從越來越多人推薦之後，大家才開始發現這部具有黑馬潛力的動畫</p>
-<p>說回第二季，整體還是熟悉的味道，並且在此基礎上對於每位角色的心理層面也有更進一步的描寫，像我覺得第二集就還蠻不錯的，原本身處於相同世代，結果因為變成殭屍，別人的時間持續走動，但自己的時間卻從此定格了，感覺也是蠻奇妙的</p>
-<h3 id="86－不存在的戰區－"><a href="#86－不存在的戰區－" class="headerlink" title="86－不存在的戰區－"></a>86－不存在的戰區－</h3><p><img data-src="https://i.imgur.com/GrSt364.jpg"></p>
-<p>有幸在 2018 年讀完了小說第一集，當時真的是有震撼到我，一方面是小說在戰鬥部分的劇情寫得滿詳細的，而且還陸續有人領便當，讓人感覺到在這個殘酷世界卻什麼都沒辦法的無力感；另一方面就是覺得共和國真的是個王八蛋，明明自己也沒什麼實力，但卻一直將他們看不慣的「86」丟到戰場上，甚至還說出戰爭無人傷亡這種謊言，這兩種因素結合在一起就變成在看小說的時候會很有感</p>
-<p>不過看完小說第一集後原本想繼續看第二集，結果看沒幾頁就放著積灰塵了（不是，我買的是電子版…），所以當看到動畫是半年番的時候倒是沒什麼感覺。不過趁此機會，剛好可以把小說第一集重新看一次，順便把小說第二、三集看一下，又或者是直接跳到第三集後面開始看…？</p>
-]]></content>
-      <categories>
-        <category>ACGN類</category>
-        <category>新番心得</category>
-      </categories>
-      <tags>
-        <tag>Review</tag>
-        <tag>Anime</tag>
       </tags>
   </entry>
   <entry>
@@ -2460,42 +2460,6 @@
       </tags>
   </entry>
   <entry>
-    <title>老兵不死，只是凋零：Google Pixel 3 使用心得</title>
-    <url>/posts/google-pixel-3-review/</url>
-    <content><![CDATA[<p>幾個月前把 ZenFone 7 換成了 Pixel 3，用到現在也有三個多月了，跟大家說一下這支手機的使用心得</p>
-<span id="more"></span>
-
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>我這台 Pixel 3 是在逛 PTT 的 mobilesales 版看到有版友在用 3,500 元販賣，那個時候就連 Pixel 3a 都還要四千多塊，所以看到這台就趕緊跟他買了</p>
-<p>不過買回來之後卻發現相機有小黑點，雖然照片不放大根本看不見，但想想還是很不爽，於是就決定送去給 Fun2Repair 修</p>
-<p>不得不說 Fun2Repair 維修的速度挺快，第一天申請報修後不久就會有人來收件，第二天收到檢定結果和維修報價，當天付款就會在第三天開始維修和寄回，然後在第四天就可以收到</p>
-<p>最後換了電池和主鏡頭總共花了快三千元，所以買這支手機的成本已經快七千元了。仔細想想好像有哪邊不對，但總之我拿到正常的 Pixel 3 了</p>
-<h2 id="按鍵手感"><a href="#按鍵手感" class="headerlink" title="按鍵手感"></a>按鍵手感</h2><p>之前在買手機和平板的時候都沒有注意過按鍵手感，不過自從越買越貴之後也會開始在意。我這台雖然是二手機不過按鍵很紮實，只能說不愧是</p>
-<h2 id="尺寸與重量"><a href="#尺寸與重量" class="headerlink" title="尺寸與重量"></a>尺寸與重量</h2><p>長期使用 200g 以上的手機後，再拿回 148g 的手機簡直就是如釋重負，就算拿得再久也不容易手痠；而且 5.5 吋的機身單手就能掌握，在操作的時候比之前方便太多了</p>
-<p><img data-src="https://i.imgur.com/JoDd2s1.jpg"></p>
-<h2 id="螢幕"><a href="#螢幕" class="headerlink" title="螢幕"></a>螢幕</h2><p>螢幕更新率雖然從 ZenFone 7 的 90Hz 降到 Pixel 3 的 60Hz，但是實際上也沒有覺得比較卡，就算會卡也是效能上的瓶頸導致</p>
-<p>倒是同為 OLED，Pixel 3 的螢幕顯色方面卻比 ZenFone 7 還要鮮豔，可能是 Pixel 3 支援比較廣的色域吧</p>
-<h2 id="喇叭"><a href="#喇叭" class="headerlink" title="喇叭"></a>喇叭</h2><p>喇叭根本就是全面升級，只能說 ZenFone 7 的喇叭真的太弱了，Pixel 3 兩個喇叭的音量都差不多，所以爽度自然提升不少</p>
-<h2 id="相機"><a href="#相機" class="headerlink" title="相機"></a>相機</h2><p>相機雖然只有單鏡頭，但是有鏡頭防手震和 Google 的調教加持，在長焦方面也有 Super Res Zoom 來改善數位變焦的畫質，所以除了超廣角鏡頭之外，這兩隻的畫質可以說是差不多，甚至有時候 Pixel 3 拍出來的照片會更加討喜</p>
-<h2 id="效能"><a href="#效能" class="headerlink" title="效能"></a>效能</h2><p>效能方面，就算是旗艦機也已經是三年前的規格了，Snapdragon 845 和 4GB 記憶體的組合在日常使用上沒有問題，但是玩遊戲就有點力不從心，玩公連的時候就偶有 LAG 的情況發生；不過我已經改成在 iPad 上面玩遊戲了，所以問題不大</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/P4TcyKC.png"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/KXoD8KE.png"></div></div></div>
-
-<p>而且這支手機只有 64GB 的儲存空間，裝一兩個遊戲就快滿了，所以其實也沒什麼機會在這上面玩遊戲啦</p>
-<p><img data-src="https://i.imgur.com/hJkTd84.png"></p>
-<h2 id="續航與充電速度"><a href="#續航與充電速度" class="headerlink" title="續航與充電速度"></a>續航與充電速度</h2><p>2,915 mAh 的電量不太夠用，螢幕使用時間最多也就四小時，大概是睡前充滿電、隔天下午就會沒電的程度；充電速度因為電池不大所以不算很慢，從 15% 到 100% 大約 1 小時 36 分就能充滿，至於使用無線充電的話大概要花三個多小時才能充滿</p>
-<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>從 2016 年的 Google Pixel 誕生之初就很想要買一台 Pixel 來使用，那這次如願以償用到了 Pixel 3，雖然不是最新款，但是整體上還是用得很滿意</p>
-<p>那畢竟 Pixel 3 也在 Android 12 推出之後正式停止支援了，所以如果想要買一支二手 Pixel 來體驗一下的話，至少也要選 Pixel 4a 以上才值得</p>
-<p>最後就希望這隻能夠陪我至少兩年吧，到時候再換最新的 Pixel 手機。</p>
-]]></content>
-      <categories>
-        <category>開箱類</category>
-        <category>手機</category>
-      </categories>
-      <tags>
-        <tag>Unboxing</tag>
-        <tag>Phone</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo 簡易調教指南（五）：套件安裝及網站部屬</title>
     <url>/posts/hexo-guide-chapter-5/</url>
     <content><![CDATA[<p>這次來安裝一些有用的套件，以及將網站部署到 GitHub Pages 上面</p>
@@ -2571,6 +2535,57 @@
       </tags>
   </entry>
   <entry>
+    <title>AKG N400NC 開箱＆使用心得</title>
+    <url>/posts/akg-n400nc-unboxing/</url>
+    <content><![CDATA[<p>最近我的 TRN T200 右耳壞掉，所以只好開始尋找下一副耳機了</p>
+<p>剛好就在這個時候看到 AKG N400NC 這一個耳機，爬文發現音質似乎挺不錯，因此決定直接盲狙買下去</p>
+<span id="more"></span>
+
+<h2 id="開箱"><a href="#開箱" class="headerlink" title="開箱"></a>開箱</h2><p>外盒正面和背面</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/Ze7DT3f.jpg"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/nifEuFo.jpg"></div></div></div>
+
+<p>製造日期是去年八月</p>
+<p><img data-src="https://i.imgur.com/Vokgie6.jpg"></p>
+<p>裡面的盒子裝有耳塞、耳翼、充電盒、耳機本體和幾本說明書</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/ywctsJ7.jpg"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/IyBPA0Q.jpg"></div></div></div>
+
+<p>耳機本體和充電線被固定在一個海綿上面</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/2rxqWSp.jpg"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/L6lBnEm.jpg"></div></div></div>
+
+<p>充電盒是金屬磨砂材質，拿在手裡很有份量，而且質感也不錯</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/rRktkmZ.jpg"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/tQ4P3DT.jpg"></div></div></div>
+
+<p>充電盒內放置耳機的位置是左右相反，剛開始會放錯，但是放幾次之後就熟悉了</p>
+<p><img data-src="https://i.imgur.com/f306HRU.jpg"></p>
+<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><h3 id="連接"><a href="#連接" class="headerlink" title="連接"></a>連接</h3><p>開啟充電盒的蓋子就會自動連線，連線的速度大概在 6 秒左右（連到 Pixel 3 和 iPad Pro）</p>
+<p>基本上連線非常穩定，在沒有阻擋的情況下距離 15 公尺左右也是綽綽有餘。</p>
+<p>AKG N400NC 將兩耳合併成一個裝置來跟其他裝置配對，優點是不用擔心其中一耳連不上，但是缺點是不能一支耳機連線、另一支放在充電盒內充電，所以如果是經常用單邊耳機的人可能要稍微注意一下</p>
+<h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><p>App 叫做 AKG Headphone，Android 和 iOS 都可以下載。裡面可以選擇模式、調整降噪平衡和設定手勢</p>
+<p>開啟之後需要等待大約 6 秒之後才可以操作，而且每次重開 App 都要等，算是一個小缺點</p>
+<p>可以調整的手勢非常少，只有左耳的向前滑動和右耳的前／後滑動、連點兩次及連點三次等四個部分</p>
+<p>靈敏度還算不錯，剛開始用的時候覺得滑動很難觸發，隨著時間過去反而變得容易了，不知道是我已經掌握技巧還是耳機自己變好了？</p>
+<h3 id="配戴感"><a href="#配戴感" class="headerlink" title="配戴感"></a>配戴感</h3><p>我目前是用 M 號的耳塞和耳翼，剛開始配戴的時候感覺還不錯，但是戴了一個小時之後耳甲艇的位置就會開始痛</p>
+<p>後來發現是耳翼會一直頂在我的耳甲艇上面，換了鯊魚鰭後有稍微好一點，但是會變得比較難戴上</p>
+<p>所以最終還是換回原來的 M 號耳翼了</p>
+<h3 id="音質"><a href="#音質" class="headerlink" title="音質"></a>音質</h3><p>AKG N400NC 最高只有 AAC，這個規格完全對不起它原價 5,990 元的身分，算是非常可惜的一點</p>
+<p>但是音質其實還是很不錯，除了低頻下淺不夠深之外，中高頻基本上很不錯、音場有但是沒有很大、人聲和樂器聲也不會糊在一起，整體調音偏向白開水</p>
+<p>至於降噪就算是中規中矩，開啟之後還是能稍微聽到外部的雜音，而且有風吹過來就會有很明顯的風切聲，但是只要播著音樂也是能沉浸在自己的世界裡</p>
+<h3 id="續航"><a href="#續航" class="headerlink" title="續航"></a>續航</h3><p>續航是 AKG N400NC 的最大短版，官方數據是單純耳機是 6 小時（不開降噪）加上充電盒的額外 6 小時，最高 12 小時</p>
+<p>以實際使用的經驗來看，每次使用都剩下 70% 到 80% 的電量，大概使用第三、四次的時候就會開始閃紅燈了，如果用比較多次的話甚至要每天充電</p>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>2,500 元的價格給你 6,000 元的規格怎麼想都很划算，有質感的充電盒、不錯的音質、還能接受的降噪以及很強的防水性能</p>
+<p>除了續航和手勢之外，通話品質好像也蠻爛的，但除此之外好像也沒什麼好挑剔的</p>
+<p>總之在兩千元的價位中算是不錯的選擇。</p>
+]]></content>
+      <categories>
+        <category>開箱類</category>
+        <category>耳機</category>
+      </categories>
+      <tags>
+        <tag>Unboxing</tag>
+        <tag>Earphone</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo 簡易調教指南（六）：網站流量分析</title>
     <url>/posts/hexo-guide-chapter-6/</url>
     <content><![CDATA[<p>使用 Google Analytics 和 Google Search Console 統計網站流量以及觀察網站的搜尋表現</p>
@@ -2621,6 +2636,42 @@
       <tags>
         <tag>Teach</tag>
         <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>老兵不死，只是凋零：Google Pixel 3 使用心得</title>
+    <url>/posts/google-pixel-3-review/</url>
+    <content><![CDATA[<p>幾個月前把 ZenFone 7 換成了 Pixel 3，用到現在也有三個多月了，跟大家說一下這支手機的使用心得</p>
+<span id="more"></span>
+
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>我這台 Pixel 3 是在逛 PTT 的 mobilesales 版看到有版友在用 3,500 元販賣，那個時候就連 Pixel 3a 都還要四千多塊，所以看到這台就趕緊跟他買了</p>
+<p>不過買回來之後卻發現相機有小黑點，雖然照片不放大根本看不見，但想想還是很不爽，於是就決定送去給 Fun2Repair 修</p>
+<p>不得不說 Fun2Repair 維修的速度挺快，第一天申請報修後不久就會有人來收件，第二天收到檢定結果和維修報價，當天付款就會在第三天開始維修和寄回，然後在第四天就可以收到</p>
+<p>最後換了電池和主鏡頭總共花了快三千元，所以買這支手機的成本已經快七千元了。仔細想想好像有哪邊不對，但總之我拿到正常的 Pixel 3 了</p>
+<h2 id="按鍵手感"><a href="#按鍵手感" class="headerlink" title="按鍵手感"></a>按鍵手感</h2><p>之前在買手機和平板的時候都沒有注意過按鍵手感，不過自從越買越貴之後也會開始在意。我這台雖然是二手機不過按鍵很紮實，只能說不愧是</p>
+<h2 id="尺寸與重量"><a href="#尺寸與重量" class="headerlink" title="尺寸與重量"></a>尺寸與重量</h2><p>長期使用 200g 以上的手機後，再拿回 148g 的手機簡直就是如釋重負，就算拿得再久也不容易手痠；而且 5.5 吋的機身單手就能掌握，在操作的時候比之前方便太多了</p>
+<p><img data-src="https://i.imgur.com/JoDd2s1.jpg"></p>
+<h2 id="螢幕"><a href="#螢幕" class="headerlink" title="螢幕"></a>螢幕</h2><p>螢幕更新率雖然從 ZenFone 7 的 90Hz 降到 Pixel 3 的 60Hz，但是實際上也沒有覺得比較卡，就算會卡也是效能上的瓶頸導致</p>
+<p>倒是同為 OLED，Pixel 3 的螢幕顯色方面卻比 ZenFone 7 還要鮮豔，可能是 Pixel 3 支援比較廣的色域吧</p>
+<h2 id="喇叭"><a href="#喇叭" class="headerlink" title="喇叭"></a>喇叭</h2><p>喇叭根本就是全面升級，只能說 ZenFone 7 的喇叭真的太弱了，Pixel 3 兩個喇叭的音量都差不多，所以爽度自然提升不少</p>
+<h2 id="相機"><a href="#相機" class="headerlink" title="相機"></a>相機</h2><p>相機雖然只有單鏡頭，但是有鏡頭防手震和 Google 的調教加持，在長焦方面也有 Super Res Zoom 來改善數位變焦的畫質，所以除了超廣角鏡頭之外，這兩隻的畫質可以說是差不多，甚至有時候 Pixel 3 拍出來的照片會更加討喜</p>
+<h2 id="效能"><a href="#效能" class="headerlink" title="效能"></a>效能</h2><p>效能方面，就算是旗艦機也已經是三年前的規格了，Snapdragon 845 和 4GB 記憶體的組合在日常使用上沒有問題，但是玩遊戲就有點力不從心，玩公連的時候就偶有 LAG 的情況發生；不過我已經改成在 iPad 上面玩遊戲了，所以問題不大</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/P4TcyKC.png"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/KXoD8KE.png"></div></div></div>
+
+<p>而且這支手機只有 64GB 的儲存空間，裝一兩個遊戲就快滿了，所以其實也沒什麼機會在這上面玩遊戲啦</p>
+<p><img data-src="https://i.imgur.com/hJkTd84.png"></p>
+<h2 id="續航與充電速度"><a href="#續航與充電速度" class="headerlink" title="續航與充電速度"></a>續航與充電速度</h2><p>2,915 mAh 的電量不太夠用，螢幕使用時間最多也就四小時，大概是睡前充滿電、隔天下午就會沒電的程度；充電速度因為電池不大所以不算很慢，從 15% 到 100% 大約 1 小時 36 分就能充滿，至於使用無線充電的話大概要花三個多小時才能充滿</p>
+<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>從 2016 年的 Google Pixel 誕生之初就很想要買一台 Pixel 來使用，那這次如願以償用到了 Pixel 3，雖然不是最新款，但是整體上還是用得很滿意</p>
+<p>那畢竟 Pixel 3 也在 Android 12 推出之後正式停止支援了，所以如果想要買一支二手 Pixel 來體驗一下的話，至少也要選 Pixel 4a 以上才值得</p>
+<p>最後就希望這隻能夠陪我至少兩年吧，到時候再換最新的 Pixel 手機。</p>
+]]></content>
+      <categories>
+        <category>開箱類</category>
+        <category>手機</category>
+      </categories>
+      <tags>
+        <tag>Unboxing</tag>
+        <tag>Phone</tag>
       </tags>
   </entry>
 </search>

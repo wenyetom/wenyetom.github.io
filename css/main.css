@@ -3366,20 +3366,23 @@ p {
   color: #555;
 }
 /*--------------- 「返回頂部」設定 ---------------*/
-/* 返回頂部按鈕 */
-.back-to-top .back-to-top-on {
-  cursor: pointer;
-  opacity: 0.6;
-  border-radius: 0 0 10px 10px;
-  color: #000;
-}
-/* 返回頂部的 hover 效果 */
-.back-to-top .back-to-top-on:hover {
-  opacity: 0.8;
-  border-radius: 0 0 10px 10px;
-}
 /* 返回頂部按鈕文字 */
 .back-to-top {
+  display: none;
+  font-size: 22px;
+}
+.back-to-top-disp {
+  display: block;
+}
+/* 返回頂部的 hover 效果 */
+.back-to-top:hover {
+  background: #e1e1e1;
+  border-radius: 0 0 10px 10px;
+}
+.back-to-top:active {
+  padding-top: 2px;
+  width: 280px;
+  height: 42px;
   font-size: 20px;
 }
 /*--------------- 其他 ---------------*/
@@ -3453,5 +3456,51 @@ table {
 @media (max-width: 767px) {
   .post-gallery .post-gallery-image:hover {
     transform: none;
+  }
+}
+/*--------------- 404 ---------------*/
+/* Using Stylus style */
+#emoji {
+  font-size: 1.75rem;
+}
+.funcBtn {
+  display: block;
+  width: 130px;
+  height: 45px;
+  line-height: 45px;
+  font-size: 1.25rem;
+  border: 2px solid #000;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  color: #000;
+}
+.funcBtn:hover {
+  transition: all ease 150ms;
+  background-color: #282828;
+  color: #fff;
+}
+.funcBtn:active {
+  background-color: #565656;
+}
+a:active {
+  border-color: #565656;
+}
+/* in Dark mode */
+@media (prefers-color-scheme: dark) {
+  a:hover {
+    border-color: #4e4e4e;
+  }
+  .funcBtn {
+    background-color: #282828;
+    color: #fff;
+  }
+  .funcBtn:hover {
+    transition: all ease 150ms;
+    background-color: #3f3f3f;
+    color: #fff;
+  }
+  .funcBtn:active {
+    background-color: #4e4e4e;
   }
 }
