@@ -450,6 +450,32 @@
       </tags>
   </entry>
   <entry>
+    <title>《劇場版 SHIROBAKO》簡易心得</title>
+    <url>/posts/shirobako-movie-review/</url>
+    <content><![CDATA[<p>今天是SHIROBAKO劇場版的首映日，閒人如我就跑去看了</p>
+<span id="more"></span>
+
+<img data-src=https://1.bp.blogspot.com/-ffVlvUbtZ-Q/XrV7zgosmvI/AAAAAAAARY4/Ygw008YPT4sLMl7KaMNw4_RovQM33jRkgCPcBGAsYHg/s1600/IMG_20200508_142649.jpg>
+
+<p>劇情簡單來說就是製作劇場版動畫《SIVA》，但是這一次不像是TV版製作動畫一樣輕鬆了</p>
+<p>因為武藏野之前曾經終止製作過一部動畫，導致核心人員紛紛出走，最後只剩下六位</p>
+<p>為了製作劇場版動畫，喵森運用她身為製作人的人脈，找回了幾乎全部的前武藏野成員來完成</p>
+<p>之後也就一帆風順的製作下去。不過就在接近完成時，「G<del>P</del>U~」（也就是《SIVA》的前製作方）突然要求武藏野停止製作，但是被喵森以「大人的手段」結束這回合</p>
+<p>最後的結局當然是順利的完成動畫，而大家也回歸各自的工作，回復到以往的日子。</p>
+<p>這次的《劇場版 SHIROBAKO》一如既往的美化了實際的動畫工作，但也因為有著被迫中止企劃和合約的陰謀面等劇情，讓白箱感覺離現實更進一步了</p>
+<p>如果說TV版是想讓渴望踏入動畫業界的新人們勇敢逐夢的話，我想劇場版是想要傳達「不要放棄夢想，即使遇到挫折，也要擦乾淚水繼續向前邁進」的心情吧。</p>
+<p>Cover image source: <a href="https://twitter.com/kuerun/status/1233614897952354305">＜える宮原拓也</a></p>
+]]></content>
+      <categories>
+        <category>ACGN類</category>
+        <category>動畫電影心得</category>
+      </categories>
+      <tags>
+        <tag>Review</tag>
+        <tag>Anime Movie</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>輝夜姬想讓人告白 第二季 BD Vol.1 開箱</title>
     <url>/posts/kaguya-season-2-bd-vol-1-unboxing/</url>
     <content><![CDATA[<p>之前從沒買過BD，不過為了支持一下、增加出第三季的機會，就買了人生中第一份BD惹</p>
@@ -485,32 +511,6 @@
         <tag>Anime</tag>
         <tag>Unboxing</tag>
         <tag>Blu-ray Disc</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《劇場版 SHIROBAKO》簡易心得</title>
-    <url>/posts/shirobako-movie-review/</url>
-    <content><![CDATA[<p>今天是SHIROBAKO劇場版的首映日，閒人如我就跑去看了</p>
-<span id="more"></span>
-
-<img data-src=https://1.bp.blogspot.com/-ffVlvUbtZ-Q/XrV7zgosmvI/AAAAAAAARY4/Ygw008YPT4sLMl7KaMNw4_RovQM33jRkgCPcBGAsYHg/s1600/IMG_20200508_142649.jpg>
-
-<p>劇情簡單來說就是製作劇場版動畫《SIVA》，但是這一次不像是TV版製作動畫一樣輕鬆了</p>
-<p>因為武藏野之前曾經終止製作過一部動畫，導致核心人員紛紛出走，最後只剩下六位</p>
-<p>為了製作劇場版動畫，喵森運用她身為製作人的人脈，找回了幾乎全部的前武藏野成員來完成</p>
-<p>之後也就一帆風順的製作下去。不過就在接近完成時，「G<del>P</del>U~」（也就是《SIVA》的前製作方）突然要求武藏野停止製作，但是被喵森以「大人的手段」結束這回合</p>
-<p>最後的結局當然是順利的完成動畫，而大家也回歸各自的工作，回復到以往的日子。</p>
-<p>這次的《劇場版 SHIROBAKO》一如既往的美化了實際的動畫工作，但也因為有著被迫中止企劃和合約的陰謀面等劇情，讓白箱感覺離現實更進一步了</p>
-<p>如果說TV版是想讓渴望踏入動畫業界的新人們勇敢逐夢的話，我想劇場版是想要傳達「不要放棄夢想，即使遇到挫折，也要擦乾淚水繼續向前邁進」的心情吧。</p>
-<p>Cover image source: <a href="https://twitter.com/kuerun/status/1233614897952354305">＜える宮原拓也</a></p>
-]]></content>
-      <categories>
-        <category>ACGN類</category>
-        <category>動畫電影心得</category>
-      </categories>
-      <tags>
-        <tag>Review</tag>
-        <tag>Anime Movie</tag>
       </tags>
   </entry>
   <entry>
@@ -643,6 +643,57 @@
       </tags>
   </entry>
   <entry>
+    <title>讓顯卡也能使用waifu2x</title>
+    <url>/posts/using-waifu2x-with-gpu/</url>
+    <content><![CDATA[<p>最近想要用 waifu2X 的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的 waifu2x</p>
+<p>這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的 waifu2X</p>
+<span id="more"></span>
+
+<p>使用 Vulkan API，所以顯卡太舊的可能會無法使用</p>
+<h2 id="下載"><a href="#下載" class="headerlink" title="下載"></a>下載</h2><p>下載網址按<a href="https://github.com/nihui/waifu2x-ncnn-vulkan">這裡</a>，有Windows/macOS/Linux三版本可供選擇</p>
+<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p><strong>Step 1:</strong> 解壓縮後，在資料夾的網址列輸入 cmd.exe 打開命令提示字元</p>
+<p><img data-src="https://i.imgur.com/YdnRbs5.png"></p>
+<p><strong>Step 2:</strong> 以這個指令為基礎，可以直接執行，也可以加入其他指令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">waifu2x-ncnn-vulkan.exe -i input.jpg -o output.png -n 2 -s 2</span><br></pre></td></tr></table></figure>
+
+<p>其他指令：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-h                   顯示說明</span><br><span class="line">-v                   輸出詳細 (見備註一)</span><br><span class="line">-i input-path        輸入文件路徑</span><br><span class="line">-o output-path       輸出文件路徑</span><br><span class="line">-n noise-level       降噪等級 (-1/0/1/2/3, 預設為0)</span><br><span class="line">-s scale             放大倍率 (1/2, 預設為2)</span><br><span class="line">-t tile-size         塊的大小 (&gt;=32/0皆為自動, 預設為0)</span><br><span class="line">-m model-path        waifu2x樣式選擇(預設為models-cunet，見備註二)</span><br><span class="line">-g gpu-id            gpu device to use (default=0)</span><br><span class="line">-j load:proc:save    載入/處理/儲存所使用的執行緒設定 (預設為=1:2:2，見備註三)</span><br><span class="line">-x                   開啟 tta 模式</span><br><span class="line">-f format            輸出格式設定 (png/webp, 預設為ext/png</span><br></pre></td></tr></table></figure>
+
+<em>
+
+<p><strong>備註一</strong></p>
+</em>
+
+<p>輸出完成後會有以下的說明出現</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">C:\Users\&lt;username&gt;\Desktop\image.jpg -&gt; C:\Users\&lt;username&gt;\Documents\output.png done</span><br></pre></td></tr></table></figure>
+
+
+
+<em>
+
+<p><strong>備註二</strong></p>
+</em>
+
+<p>處理一般圖片用 <code>models-cunet</code> ，處理插圖用 <code>models-upconv_7_anime_style_art_rgb</code></p>
+<em>
+
+<p><strong>備註三</strong></p>
+</em>
+
+<p>數字越大，GPU 及 VRAM 的使用率會上升，小圖建議調大、大圖調小</p>
+<h2 id="GUI版本"><a href="#GUI版本" class="headerlink" title="GUI版本"></a>GUI版本</h2><p>不想打太多指令，就來用 GUI 版本吧</p>
+<p>下載網址：<a href="https://github.com/f11894/waifu2x-ncnn-vulkan-GUI">https://github.com/f11894/waifu2x-ncnn-vulkan-GUI</a></p>
+<p>打開來會是下面這樣子<br><img data-src="https://i.imgur.com/C4GuN3H.png"></p>
+<p>功能就跟上面的一樣，需要特別注意的是來源路徑和輸出路徑不能一樣，否則會輸出失敗</p>
+]]></content>
+      <categories>
+        <category>教學類</category>
+      </categories>
+      <tags>
+        <tag>Teach</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《FGO Waltz》試玩心得</title>
     <url>/posts/fgo-waltz-review/</url>
     <content><![CDATA[<p>我自己是沒在玩 FGO，不過突然瞄到這款慶祝5周年推出的遊戲，裡面的瑪修好可愛</p>
@@ -754,8 +805,12 @@
 <p>更新頻率時間不定時，如果想獲得最新資訊可至<a href="https://home.gamer.com.tw/creationDetail.php?sn=4915862">巴哈姆特小屋</a>或參閱<a href="https://bit.ly/priconnegivestatistics">此表格</a>。</p>
 <span id="more"></span>
 
-<h2 id="統計"><a href="#統計" class="headerlink" title="統計"></a><b>統計</b></h2><p>目前所有版本（繁中版、日本版、中國版、韓國版、泰國版及國際版）皆有統計</p>
-<h3 id="懶人包"><a href="#懶人包" class="headerlink" title="懶人包"></a>懶人包</h3><p><strong>開服至今（2021/10/18 更新）</strong></p>
+<h2 id="懶人包"><a href="#懶人包" class="headerlink" title="懶人包"></a>懶人包</h2><div class="post-msg-normal">
+  <p class="post-msg-title">統計範圍</p>
+  <p class="post-msg-content">目前所有版本（繁中版、日本版、中國版、韓國版、泰國版及國際版）皆有統計</p>
+</div>
+
+<p><strong>開服至今（2021/11/07 更新）</strong></p>
 <table>
 <thead>
 <tr>
@@ -771,14 +826,14 @@
 <td align="center"><strong>日本版</strong></td>
 <td align="center">2018-02-15</td>
 <td align="center">186,200 顆</td>
-<td align="center">181+10 天</td>
+<td align="center">251+10 天</td>
 <td align="center">104 天</td>
 <td align="center">21 天</td>
 </tr>
 <tr>
 <td align="center"><strong>繁中版</strong></td>
 <td align="center">2018-08-01</td>
-<td align="center">143,590 顆</td>
+<td align="center">145,090 顆</td>
 <td align="center">183+10 天</td>
 <td align="center">78 天</td>
 <td align="center">21 天</td>
@@ -786,7 +841,7 @@
 <tr>
 <td align="center"><strong>韓國版</strong></td>
 <td align="center">2019-03-28</td>
-<td align="center">90,961 顆</td>
+<td align="center">92,461 顆</td>
 <td align="center">124+10 天</td>
 <td align="center">17 天</td>
 <td align="center">14 天</td>
@@ -794,7 +849,7 @@
 <tr>
 <td align="center"><strong>簡中版</strong></td>
 <td align="center">2020-04-17</td>
-<td align="center">79,350 顆</td>
+<td align="center">85,350 顆</td>
 <td align="center">70 天</td>
 <td align="center">62 天</td>
 <td align="center">7 天</td>
@@ -802,7 +857,7 @@
 <tr>
 <td align="center"><strong>泰國版</strong></td>
 <td align="center">2020-09-18</td>
-<td align="center">22,100 顆</td>
+<td align="center">25,100 顆</td>
 <td align="center">47 天</td>
 <td align="center">0 天</td>
 <td align="center">0 天</td>
@@ -810,16 +865,22 @@
 <tr>
 <td align="center"><strong>國際版</strong></td>
 <td align="center">2021-01-20</td>
-<td align="center">14,700 顆</td>
+<td align="center">16,200 顆</td>
 <td align="center">22+10 天</td>
 <td align="center">0 天</td>
 <td align="center">0 天</td>
 </tr>
 </tbody></table>
-<h3 id="以時間分類"><a href="#以時間分類" class="headerlink" title="以時間分類"></a>以時間分類</h3><h4 id="計算範圍"><a href="#計算範圍" class="headerlink" title="計算範圍"></a>計算範圍</h4><p><strong><em>開服～一週年</em></strong></p>
-<p>開服當天一週年當天</p>
-<p><strong><em>一週年之後</em></strong></p>
-<p>週年後一天～下一週年當天</p>
+<h2 id="以時間分類"><a href="#以時間分類" class="headerlink" title="以時間分類"></a>以時間分類</h2><h3 id="統計範圍"><a href="#統計範圍" class="headerlink" title="統計範圍"></a>統計範圍</h3><div class="post-msg-normal-clock">
+  <p class="post-msg-title">開服～一週年</p>
+  <p class="post-msg-content">開服當天～一週年當天</p>
+</div>
+
+<div class="post-msg-normal-clock">
+  <p class="post-msg-title">一週年之後</p>
+  <p class="post-msg-content">週年後一天～下一週年當天</p>
+</div>
+
 <h4 id="統計資料"><a href="#統計資料" class="headerlink" title="統計資料"></a>統計資料</h4><p><strong>開服～一週年</strong></p>
 <table>
 <thead>
@@ -993,57 +1054,6 @@
       </tags>
   </entry>
   <entry>
-    <title>讓顯卡也能使用waifu2x</title>
-    <url>/posts/using-waifu2x-with-gpu/</url>
-    <content><![CDATA[<p>最近想要用 waifu2X 的時候，發現之前介紹的工具已經不能下載了。所以我去找了一個操作更簡單且擁有GUI版本的 waifu2x</p>
-<p>這個工具叫做「waifu2x-ncnn-vulkan」，一款使用神經網路架構的 waifu2X</p>
-<span id="more"></span>
-
-<p>使用 Vulkan API，所以顯卡太舊的可能會無法使用</p>
-<h2 id="下載"><a href="#下載" class="headerlink" title="下載"></a>下載</h2><p>下載網址按<a href="https://github.com/nihui/waifu2x-ncnn-vulkan">這裡</a>，有Windows/macOS/Linux三版本可供選擇</p>
-<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p><strong>Step 1:</strong> 解壓縮後，在資料夾的網址列輸入 cmd.exe 打開命令提示字元</p>
-<p><img data-src="https://i.imgur.com/YdnRbs5.png"></p>
-<p><strong>Step 2:</strong> 以這個指令為基礎，可以直接執行，也可以加入其他指令</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">waifu2x-ncnn-vulkan.exe -i input.jpg -o output.png -n 2 -s 2</span><br></pre></td></tr></table></figure>
-
-<p>其他指令：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-h                   顯示說明</span><br><span class="line">-v                   輸出詳細 (見備註一)</span><br><span class="line">-i input-path        輸入文件路徑</span><br><span class="line">-o output-path       輸出文件路徑</span><br><span class="line">-n noise-level       降噪等級 (-1/0/1/2/3, 預設為0)</span><br><span class="line">-s scale             放大倍率 (1/2, 預設為2)</span><br><span class="line">-t tile-size         塊的大小 (&gt;=32/0皆為自動, 預設為0)</span><br><span class="line">-m model-path        waifu2x樣式選擇(預設為models-cunet，見備註二)</span><br><span class="line">-g gpu-id            gpu device to use (default=0)</span><br><span class="line">-j load:proc:save    載入/處理/儲存所使用的執行緒設定 (預設為=1:2:2，見備註三)</span><br><span class="line">-x                   開啟 tta 模式</span><br><span class="line">-f format            輸出格式設定 (png/webp, 預設為ext/png</span><br></pre></td></tr></table></figure>
-
-<em>
-
-<p><strong>備註一</strong></p>
-</em>
-
-<p>輸出完成後會有以下的說明出現</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">C:\Users\&lt;username&gt;\Desktop\image.jpg -&gt; C:\Users\&lt;username&gt;\Documents\output.png done</span><br></pre></td></tr></table></figure>
-
-
-
-<em>
-
-<p><strong>備註二</strong></p>
-</em>
-
-<p>處理一般圖片用 <code>models-cunet</code> ，處理插圖用 <code>models-upconv_7_anime_style_art_rgb</code></p>
-<em>
-
-<p><strong>備註三</strong></p>
-</em>
-
-<p>數字越大，GPU 及 VRAM 的使用率會上升，小圖建議調大、大圖調小</p>
-<h2 id="GUI版本"><a href="#GUI版本" class="headerlink" title="GUI版本"></a>GUI版本</h2><p>不想打太多指令，就來用 GUI 版本吧</p>
-<p>下載網址：<a href="https://github.com/f11894/waifu2x-ncnn-vulkan-GUI">https://github.com/f11894/waifu2x-ncnn-vulkan-GUI</a></p>
-<p>打開來會是下面這樣子<br><img data-src="https://i.imgur.com/C4GuN3H.png"></p>
-<p>功能就跟上面的一樣，需要特別注意的是來源路徑和輸出路徑不能一樣，否則會輸出失敗</p>
-]]></content>
-      <categories>
-        <category>教學類</category>
-      </categories>
-      <tags>
-        <tag>Teach</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《紫羅蘭永恆花園劇場版》 有雷心得</title>
     <url>/posts/violet-evergarden-the-movie-review/</url>
     <content><![CDATA[<p>總之就是期待了很久，在今天終於上映了</p>
@@ -1194,6 +1204,45 @@
       </tags>
   </entry>
   <entry>
+    <title>《鬼滅之刃劇場版 無限列車篇》前無雷後有雷心得</title>
+    <url>/posts/kimetsu-no-yaiba-movie-review/</url>
+    <content><![CDATA[<p>其實當初也是沒有打算去看的（因為看過漫畫了），不過看到一些人的心得後覺得好棒，於是又很不爭氣的訂票了</p>
+<p>當初看漫畫的時候，就覺得一個鬼打完再接下一個打的劇情根本就停不下來，於是花了五天時間追到最新進度</p>
+<p>不過要是你問我劇情，我只能說我現在已經忘了XD</p>
+<span id="more"></span>
+
+<img data-src=https://1.bp.blogspot.com/-G8hoyllGvD4/X5vsuL5k5dI/AAAAAAAAU5M/a03o-hEz8mgqk2NtfnsKndO_bfTSbY5lgCPcBGAsYHg/s2000/IMG_20201030_132251.jpg width=100%>
+<br>
+
+<hr>
+<center><strong><font color=#008000>👌無雷心得</font></strong></center>
+<hr>
+
+<p>這次的劇場版還是一如既往的ufotable風格。就是跟TV版一樣媲美光污染的特效，還有作畫也是很棒。</p>
+<p>劇情方面，反正就是毫無冷場，有武戲也有文戲，兩者表現的也都很好</p>
+<p>再來是音樂，LiSA的「炎」真的是很好聽，我自己看了一下中文翻譯的歌詞，感覺就是為了炭治郎量身打造的歌曲呢</p>
+<p>話說我這一場，有人在散場的時候直接開罵，好像是她隔壁的人走來走去而且手機通知聲還一直響，最後直接怒噴「事業做這麼大就不要來看電影啊」XDD</p>
+<p>總之，只要不是對鬼滅之刃感到厭惡的話，都非常推薦來看。就算不是為了劇情，為了可愛的彌豆子也是賺。</p>
+<hr>
+<center><strong><font color=#FF0000>🚫有雷心得</font></strong></center>
+<hr>
+
+<p>說回劇場版的劇情，我個人認為最精彩的部分當屬最後炎柱與上弦之參的對決了</p>
+<p>我覺得這場戰鬥炎柱真的稱不上佔有優勢，才剛打完下弦之一就要開打上弦之參，你當這是玩遊戲嗎？只能說對炎柱太不公平了。還有最後明明有機會一換一，上三卻在最後一刻掙脫，內心真的是很幹</p>
+<p>還有最後猗窩座逃跑之後，炎柱不顧自己的傷，叫炭治郎不要亂動以免失血過多，這段真的是感到鼻酸。在看這段的時候我就在想，杏壽郎從頭到尾都在為別人著想，但怎麼就不多對自己著想呢？</p>
+<p>最後就用一句話結束吧：</p>
+<p>「煉獄大哥沒有輸，車上一個人都沒有死，是煉獄大哥的勝利」</p>
+]]></content>
+      <categories>
+        <category>ACGN類</category>
+        <category>動畫電影心得</category>
+      </categories>
+      <tags>
+        <tag>Review</tag>
+        <tag>Anime Movie</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>iPad 2019 使用心得</title>
     <url>/posts/ipad-7th-unboxing/</url>
     <content><![CDATA[<p>買iPad主要是為了要記筆記，理論上是不需要用到iPad Pro這種等級，不過實際用過之後我的心就被擄獲了</p>
@@ -1248,45 +1297,6 @@
       <tags>
         <tag>Tablet</tag>
         <tag>Unboxing</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《鬼滅之刃劇場版 無限列車篇》前無雷後有雷心得</title>
-    <url>/posts/kimetsu-no-yaiba-movie-review/</url>
-    <content><![CDATA[<p>其實當初也是沒有打算去看的（因為看過漫畫了），不過看到一些人的心得後覺得好棒，於是又很不爭氣的訂票了</p>
-<p>當初看漫畫的時候，就覺得一個鬼打完再接下一個打的劇情根本就停不下來，於是花了五天時間追到最新進度</p>
-<p>不過要是你問我劇情，我只能說我現在已經忘了XD</p>
-<span id="more"></span>
-
-<img data-src=https://1.bp.blogspot.com/-G8hoyllGvD4/X5vsuL5k5dI/AAAAAAAAU5M/a03o-hEz8mgqk2NtfnsKndO_bfTSbY5lgCPcBGAsYHg/s2000/IMG_20201030_132251.jpg width=100%>
-<br>
-
-<hr>
-<center><strong><font color=#008000>👌無雷心得</font></strong></center>
-<hr>
-
-<p>這次的劇場版還是一如既往的ufotable風格。就是跟TV版一樣媲美光污染的特效，還有作畫也是很棒。</p>
-<p>劇情方面，反正就是毫無冷場，有武戲也有文戲，兩者表現的也都很好</p>
-<p>再來是音樂，LiSA的「炎」真的是很好聽，我自己看了一下中文翻譯的歌詞，感覺就是為了炭治郎量身打造的歌曲呢</p>
-<p>話說我這一場，有人在散場的時候直接開罵，好像是她隔壁的人走來走去而且手機通知聲還一直響，最後直接怒噴「事業做這麼大就不要來看電影啊」XDD</p>
-<p>總之，只要不是對鬼滅之刃感到厭惡的話，都非常推薦來看。就算不是為了劇情，為了可愛的彌豆子也是賺。</p>
-<hr>
-<center><strong><font color=#FF0000>🚫有雷心得</font></strong></center>
-<hr>
-
-<p>說回劇場版的劇情，我個人認為最精彩的部分當屬最後炎柱與上弦之參的對決了</p>
-<p>我覺得這場戰鬥炎柱真的稱不上佔有優勢，才剛打完下弦之一就要開打上弦之參，你當這是玩遊戲嗎？只能說對炎柱太不公平了。還有最後明明有機會一換一，上三卻在最後一刻掙脫，內心真的是很幹</p>
-<p>還有最後猗窩座逃跑之後，炎柱不顧自己的傷，叫炭治郎不要亂動以免失血過多，這段真的是感到鼻酸。在看這段的時候我就在想，杏壽郎從頭到尾都在為別人著想，但怎麼就不多對自己著想呢？</p>
-<p>最後就用一句話結束吧：</p>
-<p>「煉獄大哥沒有輸，車上一個人都沒有死，是煉獄大哥的勝利」</p>
-]]></content>
-      <categories>
-        <category>ACGN類</category>
-        <category>動畫電影心得</category>
-      </categories>
-      <tags>
-        <tag>Review</tag>
-        <tag>Anime Movie</tag>
       </tags>
   </entry>
   <entry>
@@ -1725,6 +1735,73 @@
       </tags>
   </entry>
   <entry>
+    <title>Hexo 簡易調教指南（一）：軟體安裝及網站建構</title>
+    <url>/posts/hexo-guide-chapter-1/</url>
+    <content><![CDATA[<p>上一篇「<a href="https://home.gamer.com.tw/creationDetail.php?sn=4849277">10分鐘內從安裝Hexo到佈署至GitHub Pages</a>」教大家用短短 10 分鐘來建立屬於自己的網站。這次我想進階一點，將我所用到的功能介紹給大家</p>
+<span id="more"></span>
+
+<p>第一章基本上是以「10 分鐘架設Hexo網站」為基礎，並修改、增加一些內容。</p>
+<h2 id="介紹"><a href="#介紹" class="headerlink" title="介紹"></a>介紹</h2><p>Hexo 是其中一款靜態網站建立工具，靜態網站和動態網站最大的不同就在於前者的內容是固定的，而後者的內容則是會因使用者的不同而產生變化。因此，靜態網站在單純發布文章的情況下具備了高安全性、載入速度快、調整彈性大等優點。</p>
+<h2 id="前置準備"><a href="#前置準備" class="headerlink" title="前置準備"></a>前置準備</h2><h3 id="使用軟體"><a href="#使用軟體" class="headerlink" title="使用軟體"></a>使用軟體</h3><p>安裝以下軟體（使用預設值安裝）：</p>
+<ol>
+<li>Git（必備，選擇最新版本）</li>
+<li>Node.js（必備，選擇 v12 LTS 的最新／任一版本皆可）</li>
+<li>Visual Studio Code（非必備，有自己慣用的編輯器可以不裝）</li>
+</ol>
+<h3 id="建立專案"><a href="#建立專案" class="headerlink" title="建立專案"></a>建立專案</h3><p>首先要有一個 GitHub 帳號以便部屬網站到 GitHub Pages，如果已經有帳號可以直接跳到 <strong>Step 2</strong></p>
+<p><strong>Step 1:</strong> 註冊一個 <a href="https://github.com/">GitHub</a> 帳號</p>
+<p><strong>Step 2:</strong> 點選右上角的「+」→「New repository」</p>
+<p><strong>Step 3:</strong> 在 Repository name 填入「&lt;username&gt;.github.io」，接著點選「Create repository」</p>
+<h2 id="開始安裝"><a href="#開始安裝" class="headerlink" title="開始安裝"></a>開始安裝</h2><h3 id="Hexo-常用指令"><a href="#Hexo-常用指令" class="headerlink" title="Hexo 常用指令"></a>Hexo 常用指令</h3><p>先介紹幾個常用的指令</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate <span class="comment"># 產生靜態網頁檔案</span></span><br><span class="line">hexo clean <span class="comment"># 清除靜態網頁檔案和快取</span></span><br><span class="line">hexo server <span class="comment"># 開啟伺服器</span></span><br><span class="line">hexo server --draft <span class="comment"># 開啟伺服器並顯示草稿</span></span><br><span class="line">hexo server -p 4000 <span class="comment"># 開啟伺服器並使用自訂的端口（數字自訂）</span></span><br><span class="line">hexo new [layout] &lt;titile&gt; <span class="comment"># 新增文章或頁面</span></span><br><span class="line">hexo deploy <span class="comment"># 部屬網頁</span></span><br><span class="line"><span class="comment"># 除了第二個指令之外的縮寫都是第一個英文字母（例如：hexo generate 的縮寫為 hexo g）</span></span><br><span class="line"><span class="comment"># 第二個指令的縮寫則是hexo cl</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="安裝-Hexo"><a href="#安裝-Hexo" class="headerlink" title="安裝 Hexo"></a>安裝 Hexo</h3><p>首先在想要儲存網站資料的地方點選滑鼠右鍵，選擇「Git Bash Here」</p>
+<p>輸入下列指令可以檢查 Node.js 以及 npm 的版本</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure>
+
+<p>確認都沒有問題之後，就可以輸入下列指令來安裝 Hexo</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+
+<p>建立存放網站資料的資料夾（如果不輸入資料夾名稱的話就會在目前路徑建立檔案）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init &lt;自訂資料夾名稱&gt;</span><br></pre></td></tr></table></figure>
+
+<p>把路徑切換至剛剛建立的資料夾</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> &lt;資料夾名稱&gt;</span><br></pre></td></tr></table></figure>
+
+<p>安裝額外的模組</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure>
+
+<p>上述指令都執行後就大功告成了，輸入 <code>hexo g</code> 和 <code>hexo s</code> 建立網站資料和開啟伺服器</p>
+<p>然後在瀏覽器輸入 <a href="http://localhost:4000/">http://localhost:4000</a> 就可以預覽網站了</p>
+<p><strong>提示：</strong>按下 Ctrl + C 可以關閉伺服器</p>
+<h3 id="安裝主題"><a href="#安裝主題" class="headerlink" title="安裝主題"></a>安裝主題</h3><p>上一篇介紹了 <a href="https://github.com/ppoffice/hexo-theme-icarus">ICARUS</a> 這一個主題，這一次要安裝的主題為 <a href="https://github.com/next-theme/hexo-theme-next">NexT</a></p>
+<p>Hexo 的主題提供 npm 和 git clone 兩種安裝方式。為了方便更新主題，建議大家使用 npm 來安裝</p>
+<p>安裝的方式很簡單，在終端機輸入下列指令就可以了</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-theme-next</span><br></pre></td></tr></table></figure>
+
+<p>打開網站根目錄中的 <code>_config.yml</code>，找到 theme 後把 landscape 改成 next</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Extensions</span></span><br><span class="line"><span class="comment">## Plugins: https://hexo.io/plugins/</span></span><br><span class="line"><span class="comment">## Themes: https://hexo.io/themes/</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">next</span> <span class="comment">#原本為 landscape，修改為 next</span></span><br></pre></td></tr></table></figure>
+
+<p><img data-src="https://i.imgur.com/ZzxuYHX.png"></p>
+<p>最後回到終端機執行 <code>hexo g</code> 和 <code>hexo s</code>，沒有意外的話就能在終端機內看到「NEXT」字樣，網站主題也會變成跟下圖一樣</p>
+<p><img data-src="https://i.imgur.com/BpmsVL3.png"></p>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>這系列本來在一月多就開始動工了，結果到了五月才發表，真的是拖了非常久呢</p>
+<p>下一篇會介紹如何設定網站，敬請期待</p>
+<p>更新時間不定…</p>
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><p><a href="https://ithelp.ithome.com.tw/users/20119486/ironman/2944">試著學 Hexo :: 第 12 屆 iT 邦幫忙鐵人賽</a></p>
+<p><a href="https://hexo.io/zh-tw/docs/">文件 | Hexo</a></p>
+<p><a href="https://zespia.tw/">Zespia</a></p>
+]]></content>
+      <categories>
+        <category>教學類</category>
+        <category>Hexo 簡易調教指南</category>
+      </categories>
+      <tags>
+        <tag>Teach</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo 簡易調教指南（二）：網站設定</title>
     <url>/posts/hexo-guide-chapter-2/</url>
     <content><![CDATA[<p>建立好屬於自己的網站之後，接著就是要開始調整網站內的設定了</p>
@@ -1811,73 +1888,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hexo 簡易調教指南（一）：軟體安裝及網站建構</title>
-    <url>/posts/hexo-guide-chapter-1/</url>
-    <content><![CDATA[<p>上一篇「<a href="https://home.gamer.com.tw/creationDetail.php?sn=4849277">10分鐘內從安裝Hexo到佈署至GitHub Pages</a>」教大家用短短 10 分鐘來建立屬於自己的網站。這次我想進階一點，將我所用到的功能介紹給大家</p>
-<span id="more"></span>
-
-<p>第一章基本上是以「10 分鐘架設Hexo網站」為基礎，並修改、增加一些內容。</p>
-<h2 id="介紹"><a href="#介紹" class="headerlink" title="介紹"></a>介紹</h2><p>Hexo 是其中一款靜態網站建立工具，靜態網站和動態網站最大的不同就在於前者的內容是固定的，而後者的內容則是會因使用者的不同而產生變化。因此，靜態網站在單純發布文章的情況下具備了高安全性、載入速度快、調整彈性大等優點。</p>
-<h2 id="前置準備"><a href="#前置準備" class="headerlink" title="前置準備"></a>前置準備</h2><h3 id="使用軟體"><a href="#使用軟體" class="headerlink" title="使用軟體"></a>使用軟體</h3><p>安裝以下軟體（使用預設值安裝）：</p>
-<ol>
-<li>Git（必備，選擇最新版本）</li>
-<li>Node.js（必備，選擇 v12 LTS 的最新／任一版本皆可）</li>
-<li>Visual Studio Code（非必備，有自己慣用的編輯器可以不裝）</li>
-</ol>
-<h3 id="建立專案"><a href="#建立專案" class="headerlink" title="建立專案"></a>建立專案</h3><p>首先要有一個 GitHub 帳號以便部屬網站到 GitHub Pages，如果已經有帳號可以直接跳到 <strong>Step 2</strong></p>
-<p><strong>Step 1:</strong> 註冊一個 <a href="https://github.com/">GitHub</a> 帳號</p>
-<p><strong>Step 2:</strong> 點選右上角的「+」→「New repository」</p>
-<p><strong>Step 3:</strong> 在 Repository name 填入「&lt;username&gt;.github.io」，接著點選「Create repository」</p>
-<h2 id="開始安裝"><a href="#開始安裝" class="headerlink" title="開始安裝"></a>開始安裝</h2><h3 id="Hexo-常用指令"><a href="#Hexo-常用指令" class="headerlink" title="Hexo 常用指令"></a>Hexo 常用指令</h3><p>先介紹幾個常用的指令</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate <span class="comment"># 產生靜態網頁檔案</span></span><br><span class="line">hexo clean <span class="comment"># 清除靜態網頁檔案和快取</span></span><br><span class="line">hexo server <span class="comment"># 開啟伺服器</span></span><br><span class="line">hexo server --draft <span class="comment"># 開啟伺服器並顯示草稿</span></span><br><span class="line">hexo server -p 4000 <span class="comment"># 開啟伺服器並使用自訂的端口（數字自訂）</span></span><br><span class="line">hexo new [layout] &lt;titile&gt; <span class="comment"># 新增文章或頁面</span></span><br><span class="line">hexo deploy <span class="comment"># 部屬網頁</span></span><br><span class="line"><span class="comment"># 除了第二個指令之外的縮寫都是第一個英文字母（例如：hexo generate 的縮寫為 hexo g）</span></span><br><span class="line"><span class="comment"># 第二個指令的縮寫則是hexo cl</span></span><br></pre></td></tr></table></figure>
-
-<h3 id="安裝-Hexo"><a href="#安裝-Hexo" class="headerlink" title="安裝 Hexo"></a>安裝 Hexo</h3><p>首先在想要儲存網站資料的地方點選滑鼠右鍵，選擇「Git Bash Here」</p>
-<p>輸入下列指令可以檢查 Node.js 以及 npm 的版本</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure>
-
-<p>確認都沒有問題之後，就可以輸入下列指令來安裝 Hexo</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
-
-<p>建立存放網站資料的資料夾（如果不輸入資料夾名稱的話就會在目前路徑建立檔案）</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init &lt;自訂資料夾名稱&gt;</span><br></pre></td></tr></table></figure>
-
-<p>把路徑切換至剛剛建立的資料夾</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> &lt;資料夾名稱&gt;</span><br></pre></td></tr></table></figure>
-
-<p>安裝額外的模組</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure>
-
-<p>上述指令都執行後就大功告成了，輸入 <code>hexo g</code> 和 <code>hexo s</code> 建立網站資料和開啟伺服器</p>
-<p>然後在瀏覽器輸入 <a href="http://localhost:4000/">http://localhost:4000</a> 就可以預覽網站了</p>
-<p><strong>提示：</strong>按下 Ctrl + C 可以關閉伺服器</p>
-<h3 id="安裝主題"><a href="#安裝主題" class="headerlink" title="安裝主題"></a>安裝主題</h3><p>上一篇介紹了 <a href="https://github.com/ppoffice/hexo-theme-icarus">ICARUS</a> 這一個主題，這一次要安裝的主題為 <a href="https://github.com/next-theme/hexo-theme-next">NexT</a></p>
-<p>Hexo 的主題提供 npm 和 git clone 兩種安裝方式。為了方便更新主題，建議大家使用 npm 來安裝</p>
-<p>安裝的方式很簡單，在終端機輸入下列指令就可以了</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-theme-next</span><br></pre></td></tr></table></figure>
-
-<p>打開網站根目錄中的 <code>_config.yml</code>，找到 theme 後把 landscape 改成 next</p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Extensions</span></span><br><span class="line"><span class="comment">## Plugins: https://hexo.io/plugins/</span></span><br><span class="line"><span class="comment">## Themes: https://hexo.io/themes/</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">next</span> <span class="comment">#原本為 landscape，修改為 next</span></span><br></pre></td></tr></table></figure>
-
-<p><img data-src="https://i.imgur.com/ZzxuYHX.png"></p>
-<p>最後回到終端機執行 <code>hexo g</code> 和 <code>hexo s</code>，沒有意外的話就能在終端機內看到「NEXT」字樣，網站主題也會變成跟下圖一樣</p>
-<p><img data-src="https://i.imgur.com/BpmsVL3.png"></p>
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>這系列本來在一月多就開始動工了，結果到了五月才發表，真的是拖了非常久呢</p>
-<p>下一篇會介紹如何設定網站，敬請期待</p>
-<p>更新時間不定…</p>
-<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><p><a href="https://ithelp.ithome.com.tw/users/20119486/ironman/2944">試著學 Hexo :: 第 12 屆 iT 邦幫忙鐵人賽</a></p>
-<p><a href="https://hexo.io/zh-tw/docs/">文件 | Hexo</a></p>
-<p><a href="https://zespia.tw/">Zespia</a></p>
-]]></content>
-      <categories>
-        <category>教學類</category>
-        <category>Hexo 簡易調教指南</category>
-      </categories>
-      <tags>
-        <tag>Teach</tag>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2021年春季動畫心得</title>
     <url>/posts/2021-spring-anime-review/</url>
     <content><![CDATA[<p>這次有很多動畫看起來都蠻棒的，而且也有一些冷門良作，希望能為身處水深火熱的我帶來一點消遣(´_ゝ`)</p>
@@ -1908,61 +1918,6 @@
       <tags>
         <tag>Review</tag>
         <tag>Anime</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>irocks M40E 開箱</title>
-    <url>/posts/irocks-m40e-unboxing/</url>
-    <content><![CDATA[<p>用了一年多的 G304 還是難逃連點的命運，迫不得已只好買一個新滑鼠</p>
-<p>因為預算只有 1500 元，所以就挑了評價不錯的 irocks M40E</p>
-<span id="more"></span>
-
-<h2 id="開箱"><a href="#開箱" class="headerlink" title="開箱"></a>開箱</h2><p>盒裝正面和背面，然後其實正面是可以掀開來看滑鼠本體的</p>
-<p>不過剛拿到的時候忘記有這回事，所以就沒拍了</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://1.bp.blogspot.com/-foYn0rk5g3U/YNff9RZ5ILI/AAAAAAAAaEQ/hixNRyibdkE93LhDh0W2Knyr_vc_qfDCgCPcBGAsYHg/s2288/P_20210624_105345.jpg"></div><div class="group-picture-column"><img data-src="https://1.bp.blogspot.com/-oR_cQtqrxo8/YNff9Zll3yI/AAAAAAAAaEQ/aRRpvL5guWMuRr5AtgQAcA2_xSrndncFQCPcBGAsYHg/s2288/P_20210624_105414.jpg"></div></div></div>
-
-<p>把內容物拉出來，本體登場</p>
-<p><img data-src="https://1.bp.blogspot.com/-ahBpK5n48xQ/YNff9UWb3vI/AAAAAAAAaEQ/a__uviBnF8g3Gc0-GMiNWN4uTFSIQ7XMQCPcBGAsYHg/s2288/P_20210624_105609.jpg"></p>
-<h2 id="手感"><a href="#手感" class="headerlink" title="手感"></a>手感</h2><p>滑鼠本體只有 62g，甚至比沒裝電池的 G304 還要輕</p>
-<p>線材也有別於一般的編織線（叫做傘繩線），幾乎可以無視它的存在</p>
-<p>滑鼠的手感挺奇妙的，滑滑的但是又可以抓得很牢，只能說握過就回不去了</p>
-<p><img data-src="https://1.bp.blogspot.com/-vPaaovDygwg/YNff9VipkvI/AAAAAAAAaEQ/le3Q4sP9DecX0XVcXM1Wv3KGSRRNoFYMACPcBGAsYHg/s2288/P_20210624_105820.jpg"></p>
-<p>滑鼠底部，感應器是高階的 PMW3389</p>
-<p>然後鼠貼其實有保護貼，記得使用之前要撕掉</p>
-<p>不要像我用了這幾天覺得鼠貼怎麼這麼容易磨損，查別人開箱文才知道這件事</p>
-<p><img data-src="https://1.bp.blogspot.com/-ozOfEdGdUR4/YNff9TihzYI/AAAAAAAAaEQ/udVpmIPW9y46Ar1Hp_zs2_DCLPV4Kmy4gCPcBGAsYHg/s2288/P_20210624_105902.jpg"></p>
-<p>接上電腦後，預設的燈光是多彩流光</p>
-<p><img data-src="https://1.bp.blogspot.com/-42k917l5RjU/YNff9bPaDVI/AAAAAAAAaEQ/yrGGVajZKcsLGptI6f6xLrxxaJ_yu19ZQCPcBGAsYHg/s2288/IMG_20210624_110049.jpg"></p>
-<p>這隻的微動是歐姆龍新的 D2FC-F-K 60MN，似乎是 50M 的小改款</p>
-<p>在 50M 的時候就有人提到耐用性的問題，60M 是否有改善就待時間驗證了</p>
-<p>比較手感的部分就拿我手上的 G304 和 G300s 來做對比</p>
-<p>第一個是滾輪，M40E 滾動時有輕微的刻度回饋感，按下去的回饋感則是大於其他兩個</p>
-<p>第二個是左右鍵，M40E 鍵程比其他兩個都要短，按起來很輕脆</p>
-<p><img data-src="https://1.bp.blogspot.com/-Gedn7ZYDp3A/YNff9b5-VeI/AAAAAAAAaEQ/ep4AHD373zciXYhGHFBRzqduObYPucqRACPcBGAsYHg/s2288/P_20210624_123735.jpg"></p>
-<p>第三點是側鍵，按鍵大小和反饋感就樂勝其他兩個，但是跟其他兩個一樣都軟軟的</p>
-<p><img data-src="https://1.bp.blogspot.com/-jz-ZeCf_ZVY/YNff9X0UJeI/AAAAAAAAaEQ/fxS406P_URUJedNfnySlF57eCKODnFOBwCPcBGAsYHg/s2288/P_20210624_120302.jpg"></p>
-<h3 id="懶人包"><a href="#懶人包" class="headerlink" title="懶人包"></a>懶人包</h3><p>滾輪滾動回饋：G304 &gt; M40E &gt; G300s</p>
-<p>中鍵按壓手感：M40E &gt; G304 &gt; G300s</p>
-<p>左右鍵空鍵程：G304 &gt; G300s ≥ M40E</p>
-<p>左右鍵手感：M40E &gt; G304 &gt; G300s</p>
-<p>側鍵大小：M40E &gt; G300s &gt; G304</p>
-<p>側鍵按壓手感：M40E &gt; G300s &gt; G304</p>
-<h2 id="軟體"><a href="#軟體" class="headerlink" title="軟體"></a>軟體</h2><p>「iRocks應用軟體」跟「Logitech 遊戲軟體」的功能雖然都差不多，但是論美觀程度是 irocks 樂勝</p>
-<p>羅技目前的軟體是 G HUB，但評價不太好；irocks 軟體倒是沒看過有人抱怨</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/fpYUOId.png"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/Y4nATy1.png"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/1569Q6l.png"></div></div></div>
-
-<p>比較特別的設定是把其中一個按鍵設為「滑鼠 FN」的話，其他五個按鍵就能用組合鍵的方式自訂不同的功能，並且和原本按一次所設定的功能共存，等於可以自訂十種功能</p>
-<p><img data-src="https://i.imgur.com/13s2q69.png"></p>
-<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>原本還在跟 M39 Pro 和 M40E 之間做抉擇，幸好最後是買 M40E，不然我的小手可能會握不住 XD</p>
-<p>總體來說還是挺滿意的，尤其是重量輕這件事，用起來真的很爽。</p>
-]]></content>
-      <categories>
-        <category>開箱類</category>
-        <category>電腦周邊</category>
-      </categories>
-      <tags>
-        <tag>Unboxing</tag>
-        <tag>Mouse</tag>
       </tags>
   </entry>
   <entry>
@@ -2069,6 +2024,61 @@
       <tags>
         <tag>Review</tag>
         <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>irocks M40E 開箱</title>
+    <url>/posts/irocks-m40e-unboxing/</url>
+    <content><![CDATA[<p>用了一年多的 G304 還是難逃連點的命運，迫不得已只好買一個新滑鼠</p>
+<p>因為預算只有 1500 元，所以就挑了評價不錯的 irocks M40E</p>
+<span id="more"></span>
+
+<h2 id="開箱"><a href="#開箱" class="headerlink" title="開箱"></a>開箱</h2><p>盒裝正面和背面，然後其實正面是可以掀開來看滑鼠本體的</p>
+<p>不過剛拿到的時候忘記有這回事，所以就沒拍了</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://1.bp.blogspot.com/-foYn0rk5g3U/YNff9RZ5ILI/AAAAAAAAaEQ/hixNRyibdkE93LhDh0W2Knyr_vc_qfDCgCPcBGAsYHg/s2288/P_20210624_105345.jpg"></div><div class="group-picture-column"><img data-src="https://1.bp.blogspot.com/-oR_cQtqrxo8/YNff9Zll3yI/AAAAAAAAaEQ/aRRpvL5guWMuRr5AtgQAcA2_xSrndncFQCPcBGAsYHg/s2288/P_20210624_105414.jpg"></div></div></div>
+
+<p>把內容物拉出來，本體登場</p>
+<p><img data-src="https://1.bp.blogspot.com/-ahBpK5n48xQ/YNff9UWb3vI/AAAAAAAAaEQ/a__uviBnF8g3Gc0-GMiNWN4uTFSIQ7XMQCPcBGAsYHg/s2288/P_20210624_105609.jpg"></p>
+<h2 id="手感"><a href="#手感" class="headerlink" title="手感"></a>手感</h2><p>滑鼠本體只有 62g，甚至比沒裝電池的 G304 還要輕</p>
+<p>線材也有別於一般的編織線（叫做傘繩線），幾乎可以無視它的存在</p>
+<p>滑鼠的手感挺奇妙的，滑滑的但是又可以抓得很牢，只能說握過就回不去了</p>
+<p><img data-src="https://1.bp.blogspot.com/-vPaaovDygwg/YNff9VipkvI/AAAAAAAAaEQ/le3Q4sP9DecX0XVcXM1Wv3KGSRRNoFYMACPcBGAsYHg/s2288/P_20210624_105820.jpg"></p>
+<p>滑鼠底部，感應器是高階的 PMW3389</p>
+<p>然後鼠貼其實有保護貼，記得使用之前要撕掉</p>
+<p>不要像我用了這幾天覺得鼠貼怎麼這麼容易磨損，查別人開箱文才知道這件事</p>
+<p><img data-src="https://1.bp.blogspot.com/-ozOfEdGdUR4/YNff9TihzYI/AAAAAAAAaEQ/udVpmIPW9y46Ar1Hp_zs2_DCLPV4Kmy4gCPcBGAsYHg/s2288/P_20210624_105902.jpg"></p>
+<p>接上電腦後，預設的燈光是多彩流光</p>
+<p><img data-src="https://1.bp.blogspot.com/-42k917l5RjU/YNff9bPaDVI/AAAAAAAAaEQ/yrGGVajZKcsLGptI6f6xLrxxaJ_yu19ZQCPcBGAsYHg/s2288/IMG_20210624_110049.jpg"></p>
+<p>這隻的微動是歐姆龍新的 D2FC-F-K 60MN，似乎是 50M 的小改款</p>
+<p>在 50M 的時候就有人提到耐用性的問題，60M 是否有改善就待時間驗證了</p>
+<p>比較手感的部分就拿我手上的 G304 和 G300s 來做對比</p>
+<p>第一個是滾輪，M40E 滾動時有輕微的刻度回饋感，按下去的回饋感則是大於其他兩個</p>
+<p>第二個是左右鍵，M40E 鍵程比其他兩個都要短，按起來很輕脆</p>
+<p><img data-src="https://1.bp.blogspot.com/-Gedn7ZYDp3A/YNff9b5-VeI/AAAAAAAAaEQ/ep4AHD373zciXYhGHFBRzqduObYPucqRACPcBGAsYHg/s2288/P_20210624_123735.jpg"></p>
+<p>第三點是側鍵，按鍵大小和反饋感就樂勝其他兩個，但是跟其他兩個一樣都軟軟的</p>
+<p><img data-src="https://1.bp.blogspot.com/-jz-ZeCf_ZVY/YNff9X0UJeI/AAAAAAAAaEQ/fxS406P_URUJedNfnySlF57eCKODnFOBwCPcBGAsYHg/s2288/P_20210624_120302.jpg"></p>
+<h3 id="懶人包"><a href="#懶人包" class="headerlink" title="懶人包"></a>懶人包</h3><p>滾輪滾動回饋：G304 &gt; M40E &gt; G300s</p>
+<p>中鍵按壓手感：M40E &gt; G304 &gt; G300s</p>
+<p>左右鍵空鍵程：G304 &gt; G300s ≥ M40E</p>
+<p>左右鍵手感：M40E &gt; G304 &gt; G300s</p>
+<p>側鍵大小：M40E &gt; G300s &gt; G304</p>
+<p>側鍵按壓手感：M40E &gt; G300s &gt; G304</p>
+<h2 id="軟體"><a href="#軟體" class="headerlink" title="軟體"></a>軟體</h2><p>「iRocks應用軟體」跟「Logitech 遊戲軟體」的功能雖然都差不多，但是論美觀程度是 irocks 樂勝</p>
+<p>羅技目前的軟體是 G HUB，但評價不太好；irocks 軟體倒是沒看過有人抱怨</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/fpYUOId.png"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/Y4nATy1.png"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/1569Q6l.png"></div></div></div>
+
+<p>比較特別的設定是把其中一個按鍵設為「滑鼠 FN」的話，其他五個按鍵就能用組合鍵的方式自訂不同的功能，並且和原本按一次所設定的功能共存，等於可以自訂十種功能</p>
+<p><img data-src="https://i.imgur.com/13s2q69.png"></p>
+<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>原本還在跟 M39 Pro 和 M40E 之間做抉擇，幸好最後是買 M40E，不然我的小手可能會握不住 XD</p>
+<p>總體來說還是挺滿意的，尤其是重量輕這件事，用起來真的很爽。</p>
+]]></content>
+      <categories>
+        <category>開箱類</category>
+        <category>電腦周邊</category>
+      </categories>
+      <tags>
+        <tag>Unboxing</tag>
+        <tag>Mouse</tag>
       </tags>
   </entry>
   <entry>
@@ -2535,57 +2545,6 @@
       </tags>
   </entry>
   <entry>
-    <title>AKG N400NC 開箱＆使用心得</title>
-    <url>/posts/akg-n400nc-unboxing/</url>
-    <content><![CDATA[<p>最近我的 TRN T200 右耳壞掉，所以只好開始尋找下一副耳機了</p>
-<p>剛好就在這個時候看到 AKG N400NC 這一個耳機，爬文發現音質似乎挺不錯，因此決定直接盲狙買下去</p>
-<span id="more"></span>
-
-<h2 id="開箱"><a href="#開箱" class="headerlink" title="開箱"></a>開箱</h2><p>外盒正面和背面</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/Ze7DT3f.jpg"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/nifEuFo.jpg"></div></div></div>
-
-<p>製造日期是去年八月</p>
-<p><img data-src="https://i.imgur.com/Vokgie6.jpg"></p>
-<p>裡面的盒子裝有耳塞、耳翼、充電盒、耳機本體和幾本說明書</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/ywctsJ7.jpg"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/IyBPA0Q.jpg"></div></div></div>
-
-<p>耳機本體和充電線被固定在一個海綿上面</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/2rxqWSp.jpg"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/L6lBnEm.jpg"></div></div></div>
-
-<p>充電盒是金屬磨砂材質，拿在手裡很有份量，而且質感也不錯</p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/rRktkmZ.jpg"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/tQ4P3DT.jpg"></div></div></div>
-
-<p>充電盒內放置耳機的位置是左右相反，剛開始會放錯，但是放幾次之後就熟悉了</p>
-<p><img data-src="https://i.imgur.com/f306HRU.jpg"></p>
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><h3 id="連接"><a href="#連接" class="headerlink" title="連接"></a>連接</h3><p>開啟充電盒的蓋子就會自動連線，連線的速度大概在 6 秒左右（連到 Pixel 3 和 iPad Pro）</p>
-<p>基本上連線非常穩定，在沒有阻擋的情況下距離 15 公尺左右也是綽綽有餘。</p>
-<p>AKG N400NC 將兩耳合併成一個裝置來跟其他裝置配對，優點是不用擔心其中一耳連不上，但是缺點是不能一支耳機連線、另一支放在充電盒內充電，所以如果是經常用單邊耳機的人可能要稍微注意一下</p>
-<h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><p>App 叫做 AKG Headphone，Android 和 iOS 都可以下載。裡面可以選擇模式、調整降噪平衡和設定手勢</p>
-<p>開啟之後需要等待大約 6 秒之後才可以操作，而且每次重開 App 都要等，算是一個小缺點</p>
-<p>可以調整的手勢非常少，只有左耳的向前滑動和右耳的前／後滑動、連點兩次及連點三次等四個部分</p>
-<p>靈敏度還算不錯，剛開始用的時候覺得滑動很難觸發，隨著時間過去反而變得容易了，不知道是我已經掌握技巧還是耳機自己變好了？</p>
-<h3 id="配戴感"><a href="#配戴感" class="headerlink" title="配戴感"></a>配戴感</h3><p>我目前是用 M 號的耳塞和耳翼，剛開始配戴的時候感覺還不錯，但是戴了一個小時之後耳甲艇的位置就會開始痛</p>
-<p>後來發現是耳翼會一直頂在我的耳甲艇上面，換了鯊魚鰭後有稍微好一點，但是會變得比較難戴上</p>
-<p>所以最終還是換回原來的 M 號耳翼了</p>
-<h3 id="音質"><a href="#音質" class="headerlink" title="音質"></a>音質</h3><p>AKG N400NC 最高只有 AAC，這個規格完全對不起它原價 5,990 元的身分，算是非常可惜的一點</p>
-<p>但是音質其實還是很不錯，除了低頻下淺不夠深之外，中高頻基本上很不錯、音場有但是沒有很大、人聲和樂器聲也不會糊在一起，整體調音偏向白開水</p>
-<p>至於降噪就算是中規中矩，開啟之後還是能稍微聽到外部的雜音，而且有風吹過來就會有很明顯的風切聲，但是只要播著音樂也是能沉浸在自己的世界裡</p>
-<h3 id="續航"><a href="#續航" class="headerlink" title="續航"></a>續航</h3><p>續航是 AKG N400NC 的最大短版，官方數據是單純耳機是 6 小時（不開降噪）加上充電盒的額外 6 小時，最高 12 小時</p>
-<p>以實際使用的經驗來看，每次使用都剩下 70% 到 80% 的電量，大概使用第三、四次的時候就會開始閃紅燈了，如果用比較多次的話甚至要每天充電</p>
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>2,500 元的價格給你 6,000 元的規格怎麼想都很划算，有質感的充電盒、不錯的音質、還能接受的降噪以及很強的防水性能</p>
-<p>除了續航和手勢之外，通話品質好像也蠻爛的，但除此之外好像也沒什麼好挑剔的</p>
-<p>總之在兩千元的價位中算是不錯的選擇。</p>
-]]></content>
-      <categories>
-        <category>開箱類</category>
-        <category>耳機</category>
-      </categories>
-      <tags>
-        <tag>Unboxing</tag>
-        <tag>Earphone</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo 簡易調教指南（六）：網站流量分析</title>
     <url>/posts/hexo-guide-chapter-6/</url>
     <content><![CDATA[<p>使用 Google Analytics 和 Google Search Console 統計網站流量以及觀察網站的搜尋表現</p>
@@ -2672,6 +2631,57 @@
       <tags>
         <tag>Unboxing</tag>
         <tag>Phone</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>AKG N400NC 開箱＆使用心得</title>
+    <url>/posts/akg-n400nc-unboxing/</url>
+    <content><![CDATA[<p>最近我的 TRN T200 右耳壞掉，所以只好開始尋找下一副耳機了</p>
+<p>剛好就在這個時候看到 AKG N400NC 這一個耳機，爬文發現音質似乎挺不錯，因此決定直接盲狙買下去</p>
+<span id="more"></span>
+
+<h2 id="開箱"><a href="#開箱" class="headerlink" title="開箱"></a>開箱</h2><p>外盒正面和背面</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/Ze7DT3f.jpg"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/nifEuFo.jpg"></div></div></div>
+
+<p>製造日期是去年八月</p>
+<p><img data-src="https://i.imgur.com/Vokgie6.jpg"></p>
+<p>裡面的盒子裝有耳塞、耳翼、充電盒、耳機本體和幾本說明書</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/ywctsJ7.jpg"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/IyBPA0Q.jpg"></div></div></div>
+
+<p>耳機本體和充電線被固定在一個海綿上面</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/2rxqWSp.jpg"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/L6lBnEm.jpg"></div></div></div>
+
+<p>充電盒是金屬磨砂材質，拿在手裡很有份量，而且質感也不錯</p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://i.imgur.com/rRktkmZ.jpg"></div><div class="group-picture-column"><img data-src="https://i.imgur.com/tQ4P3DT.jpg"></div></div></div>
+
+<p>充電盒內放置耳機的位置是左右相反，剛開始會放錯，但是放幾次之後就熟悉了</p>
+<p><img data-src="https://i.imgur.com/f306HRU.jpg"></p>
+<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><h3 id="連接"><a href="#連接" class="headerlink" title="連接"></a>連接</h3><p>開啟充電盒的蓋子就會自動連線，連線的速度大概在 6 秒左右（連到 Pixel 3 和 iPad Pro）</p>
+<p>基本上連線非常穩定，在沒有阻擋的情況下距離 15 公尺左右也是綽綽有餘。</p>
+<p>AKG N400NC 將兩耳合併成一個裝置來跟其他裝置配對，優點是不用擔心其中一耳連不上，但是缺點是不能一支耳機連線、另一支放在充電盒內充電，所以如果是經常用單邊耳機的人可能要稍微注意一下</p>
+<h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><p>App 叫做 AKG Headphone，Android 和 iOS 都可以下載。裡面可以選擇模式、調整降噪平衡和設定手勢</p>
+<p>開啟之後需要等待大約 6 秒之後才可以操作，而且每次重開 App 都要等，算是一個小缺點</p>
+<p>可以調整的手勢非常少，只有左耳的向前滑動和右耳的前／後滑動、連點兩次及連點三次等四個部分</p>
+<p>靈敏度還算不錯，剛開始用的時候覺得滑動很難觸發，隨著時間過去反而變得容易了，不知道是我已經掌握技巧還是耳機自己變好了？</p>
+<h3 id="配戴感"><a href="#配戴感" class="headerlink" title="配戴感"></a>配戴感</h3><p>我目前是用 M 號的耳塞和耳翼，剛開始配戴的時候感覺還不錯，但是戴了一個小時之後耳甲艇的位置就會開始痛</p>
+<p>後來發現是耳翼會一直頂在我的耳甲艇上面，換了鯊魚鰭後有稍微好一點，但是會變得比較難戴上</p>
+<p>所以最終還是換回原來的 M 號耳翼了</p>
+<h3 id="音質"><a href="#音質" class="headerlink" title="音質"></a>音質</h3><p>AKG N400NC 最高只有 AAC，這個規格完全對不起它原價 5,990 元的身分，算是非常可惜的一點</p>
+<p>但是音質其實還是很不錯，除了低頻下淺不夠深之外，中高頻基本上很不錯、音場有但是沒有很大、人聲和樂器聲也不會糊在一起，整體調音偏向白開水</p>
+<p>至於降噪就算是中規中矩，開啟之後還是能稍微聽到外部的雜音，而且有風吹過來就會有很明顯的風切聲，但是只要播著音樂也是能沉浸在自己的世界裡</p>
+<h3 id="續航"><a href="#續航" class="headerlink" title="續航"></a>續航</h3><p>續航是 AKG N400NC 的最大短版，官方數據是單純耳機是 6 小時（不開降噪）加上充電盒的額外 6 小時，最高 12 小時</p>
+<p>以實際使用的經驗來看，每次使用都剩下 70% 到 80% 的電量，大概使用第三、四次的時候就會開始閃紅燈了，如果用比較多次的話甚至要每天充電</p>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>2,500 元的價格給你 6,000 元的規格怎麼想都很划算，有質感的充電盒、不錯的音質、還能接受的降噪以及很強的防水性能</p>
+<p>除了續航和手勢之外，通話品質好像也蠻爛的，但除此之外好像也沒什麼好挑剔的</p>
+<p>總之在兩千元的價位中算是不錯的選擇。</p>
+]]></content>
+      <categories>
+        <category>開箱類</category>
+        <category>耳機</category>
+      </categories>
+      <tags>
+        <tag>Unboxing</tag>
+        <tag>Earphone</tag>
       </tags>
   </entry>
 </search>
