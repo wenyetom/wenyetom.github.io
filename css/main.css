@@ -1,3 +1,10 @@
+/*
+content-desktop         → 瀏覽器寬度 < 1200px.
+content-desktop-large   → 瀏覽器寬度 >= 1200px.
+content-desktop-largest → 瀏覽器寬度 >= 1600px.
+1080p = 1536px
+2160p = 2048px
+*/
 :root {
   --body-bg-color: #f7f7f7;
   --content-bg-color: #fff;
@@ -219,6 +226,7 @@ body {
 }
 body {
   background: var(--body-bg-color);
+  box-sizing: border-box;
   color: var(--text-color);
   font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.125em;
@@ -396,220 +404,171 @@ td {
   top: -5px;
   transform: rotate(45deg);
 }
-/*
+/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
 
-Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
 
-*/
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
 
-.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
-  background: #F0F0F0;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
 }
 
-
-/* Base color: saturation 0; */
-
-.hljs,
-.hljs-subst {
-  color: #444;
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
 }
 
-.hljs-comment {
-  color: #888888;
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
 }
 
-.hljs-keyword,
-.hljs-attribute,
-.hljs-selector-tag,
-.hljs-meta-keyword,
-.hljs-doctag,
-.hljs-name {
-  font-weight: bold;
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
 }
 
-
-/* User color: hue: 0 */
-
-.hljs-type,
-.hljs-string,
-.hljs-number,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-quote,
-.hljs-template-tag,
-.hljs-deletion {
-  color: #880000;
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
 }
 
-.hljs-title,
-.hljs-section {
-  color: #880000;
-  font-weight: bold;
+.token.punctuation {
+	color: #f8f8f2;
 }
 
-.hljs-regexp,
-.hljs-symbol,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-link,
-.hljs-selector-attr,
-.hljs-selector-pseudo {
-  color: #BC6060;
+.token.namespace {
+	opacity: .7;
 }
 
-
-/* Language color: hue: 90; */
-
-.hljs-literal {
-  color: #78A960;
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
 }
 
-.hljs-built_in,
-.hljs-bullet,
-.hljs-code,
-.hljs-addition {
-  color: #397300;
+.token.boolean,
+.token.number {
+	color: #ae81ff;
 }
 
-
-/* Meta color: hue: 200 */
-
-.hljs-meta {
-  color: #1f7199;
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
 }
 
-.hljs-meta-string {
-  color: #4d99bf;
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
 }
 
-
-/* Misc effects */
-
-.hljs-emphasis {
-  font-style: italic;
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
 }
 
-.hljs-strong {
-  font-weight: bold;
+.token.keyword {
+	color: #66d9ef;
 }
 
-@media (prefers-color-scheme: dark) {
-/* Tomorrow Night Theme */
-/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
-/* Original theme - https://github.com/chriskempson/tomorrow-theme */
-/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
-
-/* Tomorrow Comment */
-.hljs-comment,
-.hljs-quote {
-  color: #969896;
+.token.regex,
+.token.important {
+	color: #fd971f;
 }
 
-/* Tomorrow Red */
-.hljs-variable,
-.hljs-template-variable,
-.hljs-tag,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-regexp,
-.hljs-deletion {
-  color: #cc6666;
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
 }
 
-/* Tomorrow Orange */
-.hljs-number,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-literal,
-.hljs-type,
-.hljs-params,
-.hljs-meta,
-.hljs-link {
-  color: #de935f;
+.token.entity {
+	cursor: help;
 }
 
-/* Tomorrow Yellow */
-.hljs-attribute {
-  color: #f0c674;
+pre[class*="language-"].line-numbers {
+	position: relative;
+	padding-left: 3.8em;
+	counter-reset: linenumber;
 }
 
-/* Tomorrow Green */
-.hljs-string,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-addition {
-  color: #b5bd68;
+pre[class*="language-"].line-numbers > code {
+	position: relative;
+	white-space: inherit;
 }
 
-/* Tomorrow Blue */
-.hljs-title,
-.hljs-section {
-  color: #81a2be;
-}
+.line-numbers .line-numbers-rows {
+	position: absolute;
+	pointer-events: none;
+	top: 0;
+	font-size: 100%;
+	left: -3.8em;
+	width: 3em; /* works for line-numbers below 1000 lines */
+	letter-spacing: -1px;
+	border-right: 1px solid #999;
 
-/* Tomorrow Purple */
-.hljs-keyword,
-.hljs-selector-tag {
-  color: #b294bb;
-}
-
-.hljs {
-  display: block;
-  overflow-x: auto;
-  background: #1d1f21;
-  color: #c5c8c6;
-  padding: 0.5em;
-}
-
-.hljs-emphasis {
-  font-style: italic;
-}
-
-.hljs-strong {
-  font-weight: bold;
-}
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
 
 }
-.highlight:hover .copy-btn,
-pre:hover .copy-btn {
-  opacity: 1;
-}
-.copy-btn {
-  color: #333;
-  cursor: pointer;
-  line-height: 1.6;
-  opacity: 0;
-  padding: 2px 6px;
-  position: absolute;
-  transition: opacity 0.2s ease-in-out;
-  color: var(--highlight-foreground);
-  font-size: 14px;
-  right: 0;
-  top: 2px;
-}
-figure.highlight {
-  border-radius: 5px;
-  box-shadow: 0 10px 30px 0 rgba(0,0,0,0.4);
-  padding-top: 30px;
-}
-figure.highlight .table-container {
-  border-radius: 0 0 5px 5px;
-}
-figure.highlight::before {
-  background: #fc625d;
-  box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
-  left: 12px;
-  margin-top: -20px;
-  position: absolute;
-  border-radius: 50%;
-  content: ' ';
-  height: 12px;
-  width: 12px;
-}
+
+	.line-numbers-rows > span {
+		display: block;
+		counter-increment: linenumber;
+	}
+
+		.line-numbers-rows > span:before {
+			content: counter(linenumber);
+			color: #999;
+			display: block;
+			padding-right: 0.8em;
+			text-align: right;
+		}
+
 code,
 kbd,
 figure.highlight,
@@ -1310,7 +1269,7 @@ pre code {
 }
 @media (min-width: 1600px) {
   .header-inner {
-    width: 75%;
+    width: 80%;
   }
 }
 .site-brand-container {
@@ -1352,6 +1311,7 @@ pre code {
   font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
+  line-height: 1.5;
   margin: 0;
 }
 .site-subtitle {
@@ -1553,7 +1513,7 @@ pre code {
     transition: visibility 0.4s, opacity 0.4s;
     visibility: hidden;
     width: 100%;
-    z-index: 1100;
+    z-index: 10;
   }
   .sidebar-active .sidebar-dimmer {
     opacity: 0.7;
@@ -1616,7 +1576,7 @@ pre code {
   cursor: pointer;
   opacity: 0.6;
   position: fixed;
-  z-index: 1300;
+  z-index: 30;
   left: 30px;
 }
 @media (max-width: 991px) {
@@ -1750,7 +1710,7 @@ pre code {
 }
 @media (min-width: 1600px) {
   .footer-inner {
-    width: 75%;
+    width: 80%;
   }
 }
 .use-motion .footer {
@@ -1844,7 +1804,7 @@ pre code {
   text-align: center;
   top: 0;
   width: 100%;
-  z-index: 1500;
+  z-index: 50;
 }
 .back-to-top {
   font-size: 12px;
@@ -2638,7 +2598,7 @@ ul.breadcrumb li:last-child {
   transition: visibility 0.4s, background 0.4s;
   visibility: hidden;
   width: 100%;
-  z-index: 1400;
+  z-index: 40;
 }
 .search-active .search-pop-overlay {
   background: rgba(0,0,0,0.3);
@@ -2681,6 +2641,11 @@ ul.breadcrumb li:last-child {
   border-top-right-radius: 5px;
   display: flex;
   padding: 5px;
+}
+@media (prefers-color-scheme: dark) {
+  .search-popup .search-header {
+    background: #666;
+  }
 }
 .search-popup input.search-input {
   background: transparent;
@@ -2767,7 +2732,7 @@ mark.search-keyword {
 }
 @media (min-width: 1600px) {
   .main {
-    width: 75%;
+    width: 80%;
   }
 }
 @media (max-width: 991px) {
@@ -3057,7 +3022,6 @@ mark.search-keyword {
     padding: 10px 12px;
   }
 }
-/*--------------- 首頁 ---------------*/
 /* 頂部橫線 */
 .headband {
   display: none;
@@ -3079,7 +3043,6 @@ mark.search-keyword {
     margin: 0 0 10px 0;
   }
 }
-/*--------------- 區塊圓角 ---------------*/
 /* 圓角預設值 */
 /* 側邊欄圓角 */
 .header-inner,
@@ -3109,13 +3072,6 @@ mark.search-keyword {
 .post-block+.post-block {
   border-radius: 10px !important;
 }
-/* Gitalk 圓角 */
-.gt-header a,
-.gt-comments a,
-.gt-popup a {
-  border-radius: 10px;
-}
-/*--------------- 區塊陰影 ---------------*/
 /* box-shadow 格式： offset-x | offset-y | blur-radius | spread-radius | color */
 /* sidebar陰影 */
 .header-inner {
@@ -3145,7 +3101,6 @@ mark.search-keyword {
 .site-nav-on .site-brand-container {
   box-shadow: 0 0 20px -3px rgba(0,0,0,0.5);
 }
-/*--------------- 側邊欄顏色 ---------------*/
 /* sidebar 文章目錄&本站概要：預設文字顏色 */
 .sidebar-toc-active .sidebar-nav-toc,
 .sidebar-overview-active .sidebar-nav-overview {
@@ -3166,7 +3121,6 @@ mark.search-keyword {
   border-bottom-color: #1369a2;
   color: #1369a2;
 }
-/*--------------- 首頁文字 ---------------*/
 /* 首頁文章標題 */
 .index .post-title {
   text-align: left;
@@ -3193,10 +3147,9 @@ h2.post-title {
 }
 /* 文章內段落文字 */
 p {
-  margin: 15px 0 15px;
+  margin: 15px 0;
 }
-/*--------------- 文章 meta ---------------*/
-/* 文章 meta 邊緣寬度（for 8.7.0 以上） */
+/* 文章 meta 邊緣寬度（NexT 8.7.0 以上） */
 .posts-expand .post-meta {
   margin: 5px 0 5px 0;
 }
@@ -3205,7 +3158,6 @@ p {
   flex-basis: 100%;
   height: 5px;
 }
-/*--------------- 區塊間距(padding)與邊緣(marigin) ---------------*/
 /* 網站標題區塊 */
 .site-meta {
   padding: 5px 0;
@@ -3229,7 +3181,6 @@ p {
 .posts-expand .post-header {
   margin-bottom: 20px;
 }
-/*--------------- 「文章列表」設定 ---------------*/
 /* 左邊垂直線 */
 .posts-collapse .post-content .post-header::before {
   top: 1.15em;
@@ -3246,7 +3197,6 @@ p {
 .posts-collapse .post-content .post-title a {
   font-size: 1.25em;
 }
-/*--------------- 「分類」設定 ---------------*/
 /* 調整外部間距 */
 .category-all-page .category-list-item {
   margin: 5px 10px 10px 10px;
@@ -3288,7 +3238,6 @@ p {
 .category-list-child li:hover {
   background-color: #e0e0e0;
 }
-/* 開啟黑暗模式 */
 @media (prefers-color-scheme: dark) {
   .category-list-item {
     background-color: #282828;
@@ -3305,8 +3254,6 @@ p {
     background-color: #2d2d2d;
   }
 }
-/*--------------- 「標籤」設定 ---------------*/
-/*--------------- 「頁數按鈕」設定 ---------------*/
 /* 頁數按鈕 */
 .pagination {
   background: none !important;
@@ -3337,7 +3284,6 @@ p {
   border-radius: 5px;
   transition: all 150ms ease-in-out;
 }
-/*--------------- 「Footer」設定 ---------------*/
 /* Footer 字體大小 */
 .footer {
   font-size: 0.875em;
@@ -3348,44 +3294,85 @@ p {
   margin: 0 0 15px 0;
   color: #555;
 }
+/* （黑暗模式）字體顏色 */
 @media (prefers-color-scheme: dark) {
   .footer,
   .footer a {
     color: #969696;
   }
 }
-/*--------------- 「返回頂部按鈕」設定 ---------------*/
 /* 返回頂部按鈕文字 */
 .back-to-top {
   display: none;
   font-size: 22px;
 }
-/* 使用 javascipt 切換是否顯示按鈕本身的區塊 */
+/* 使用 JavaScipt 切換是否顯示按鈕本身的區塊 */
 .back-to-top-disp {
   display: block;
 }
-/* 返回頂部按鈕 hover 效果 */
-.back-to-top:hover {
-  background: #e1e1e1;
-  border-radius: 0 0 10px 10px;
-}
-@media (prefers-color-scheme: dark) {
-  .back-to-top:hover {
-    background: #282828;
-  }
-}
-.back-to-top:active {
-  padding-top: 2px;
-  width: 280px;
-  height: 42px;
-  font-size: 20px;
-}
-/*--------------- 其他 ---------------*/
-/* 文章封面的四角角度 */
-.post-gallery .post-gallery-image img {
+/* Gitalk 圓角 */
+.gt-header a,
+.gt-comments a,
+.gt-popup a {
   border-radius: 10px;
 }
-/* 暗色模式中，文章封面變暗 */
+/* Gitalk 輸入框預覽文字 */
+.gt-container .gt-header-preview {
+  font-family: source-han-sans-traditional, 'Microsoft JhengHei', sans-serif;
+}
+/* 修復 Gitalk 在黑暗模式中顏色錯誤的問題 */
+@media (prefers-color-scheme: dark) {
+  .gt-container .gt-header-textarea {
+    background-color: #424242 !important;
+  }
+  .gt-container .gt-header-textarea:hover {
+    background-color: #4a4a4a !important;
+  }
+  .gt-container .gt-header-preview {
+    background-color: #424242 !important;
+  }
+  .gt-container .gt-header-preview {
+    font-family: source-han-sans-traditional, 'Microsoft JhengHei', sans-serif;
+    color: #ddd;
+  }
+  .gt-container .gt-popup {
+    background: #333 !important;
+    border: 1px solid #909090;
+  }
+  .gt-container a.is--active {
+    color: #ddd;
+  }
+  .gt-container .gt-btn-preview {
+    background-color: #2a2a2a !important;
+    color: #ddd !important;
+  }
+}
+/* 修正搜尋面板開啟後，背景畫面位移 */
+.post-gallery .post-gallery-image {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.post-gallery .post-gallery-image img {
+  border-radius: 10px;
+  transform: scale(1, 1);
+  transition: all 0.5s cubic-bezier(0.1, 0, 0, 1.15);
+}
+@media (max-width: 767px) {
+  .post-gallery .post-gallery-image img {
+    transform: none;
+  }
+}
+.post-gallery .post-gallery-image:hover img {
+  transform: scale(1.05, 1.05);
+}
+@media (max-width: 767px) {
+  .post-gallery .post-gallery-image:hover img {
+    transform: none;
+  }
+}
+/* 封面圖片（黑暗模式） */
 @media (prefers-color-scheme: dark) {
   .post-gallery .post-gallery-image {
     opacity: 0.8;
@@ -3393,22 +3380,14 @@ p {
     transition: all ease-out 250ms;
   }
   .post-gallery .post-gallery-image:hover {
-    opacity: 1;
-  }
-}
-@media (prefers-color-scheme: dark) {
-  .search-popup .search-header {
-    background: #323232;
-  }
-  .search-popup .popup-btn-close:hover .fa {
-    color: #5a5a5a;
+    opacity: 0.9;
   }
 }
 /* 標題下的文章資訊區塊（首頁） */
 .index .post-meta {
   justify-content: left;
 }
-/* 表格 */
+/* 表格文字大小設定 */
 table {
   font-size: 1.125rem;
 }
@@ -3417,31 +3396,11 @@ table {
   padding-top: 15px !important;
   padding-bottom: 15px !important;
 }
-/* 關閉 Author Copyright 中間的 icon */
+/* Footer 區域不顯示心形 icon */
 .with-love {
   display: none;
 }
-/* 主頁圖片放大效果 */
-/* 滑鼠移入封面圖片會放大 */
-.post-gallery .post-gallery-image {
-  transform: scale(1, 1);
-  transition: all 0.25s ease-out;
-}
-@media (max-width: 767px) {
-  .post-gallery .post-gallery-image {
-    transform: none;
-  }
-}
-.post-gallery .post-gallery-image:hover {
-  transform: scale(1.0125, 1.0125);
-}
-@media (max-width: 767px) {
-  .post-gallery .post-gallery-image:hover {
-    transform: none;
-  }
-}
-/* CUSTOM CSS */
-/* Information bar on Top*/
+/* 頂部資訊 Bar */
 #infoBar {
   background: #e9e9e9;
   color: #000;
@@ -3474,122 +3433,118 @@ table {
 .funcBtn {
   display: block;
   width: 130px;
-  height: 45px;
-  line-height: 45px;
+  height: 40px;
+  line-height: 40px;
   font-size: 1.25rem;
   border: 2px solid #000;
   border-radius: 10px;
   cursor: pointer;
-  background-color: #fff;
+  background-color: #fdfdfd;
   color: #000;
 }
 .funcBtn:hover {
   transition: all ease 150ms;
-  background-color: #282828;
+  background-color: #4e4e4e;
+  border: 2px solid #4e4e4e;
   color: #fff;
 }
 .funcBtn:active {
-  background-color: #565656;
+  background-color: #1b1b1b;
+  border: 2px solid #1b1b1b;
 }
-a:active {
+.funcBtn a:active {
   border-color: #565656;
 }
-/* funcBtn on Dark mode */
 @media (prefers-color-scheme: dark) {
-  a:hover {
+  .funcBtn a:hover {
     border-color: #4e4e4e;
   }
   .funcBtn {
     background-color: #282828;
-    color: #fff;
+    border: 2px solid #282828;
+    color: #ccc;
   }
   .funcBtn:hover {
     transition: all ease 150ms;
     background-color: #3f3f3f;
-    color: #fff;
+    border: 2px solid #3f3f3f;
+    color: #ccc;
   }
   .funcBtn:active {
-    background-color: #4e4e4e;
+    background-color: #1b1b1b;
+    border: 2px solid #1b1b1b;
   }
 }
-/* 目前已設定四種樣式 */
-.post-msg-normal,
-.post-msg-normal-clock,
-.post-msg-notice,
-.post-msg-alert {
+/* Messages Frame */
+.msg {
   border-radius: 10px;
-  padding: 5px 20px 10px;
-  margin: 20px 10px;
+  padding: 1.125rem;
+  margin: 20px 10px 0;
 }
-.post-msg-normal,
-.post-msg-normal-clock {
-  background-image: linear-gradient(145deg, #eceaf0 0%, #f6f6f6 100%);
+/* Messages color */
+.status-general {
+  background-color: #eceaf0;
 }
-.post-msg-notice {
-  background-image: linear-gradient(145deg, #97b6de 0%, #d5e0f4 100%);
+.status-info {
+  background-color: #b6c8e8;
 }
-.post-msg-alert {
-  background-image: linear-gradient(145deg, #feada6 0%, #fee7e7 100%);
+.status-alert {
+  background-color: #f8c4c0;
 }
-.post-msg-title {
-  display: inline-block;
+.msg-title {
   font-weight: bold;
-  font-size: 1.25em;
+  font-size: 1.125em;
+  margin: 0;
 }
-.post-msg-normal .post-msg-title::before {
+/* Status icons */
+.icon-doc::before {
+  font-family: "Font Awesome 5 Free";
   content: "\f15c\00a0";
-  font-family: "Font Awesome 5 Free";
   font-size: 1em;
 }
-.post-msg-normal-clock .post-msg-title::before {
-  content: "\f017\00a0";
+.icon-info::before {
   font-family: "Font Awesome 5 Free";
-  font-size: 1em;
-}
-.post-msg-notice .post-msg-title::before {
-  content: "\f249\00a0";
-  font-family: "Font Awesome 5 Free";
+  content: "\f05a\00a0";
   font-size: 1em;
   font-weight: 900;
 }
-.post-msg-alert .post-msg-title::before {
-  content: "\f06a\00a0";
+.icon-alert::before {
   font-family: "Font Awesome 5 Free";
+  content: "\f071\00a0";
   font-size: 1em;
 }
-p.post-msg-title {
-  margin: 2px;
+.icon-clock::before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f017\00a0";
+  font-size: 1em;
 }
-.post-msg-content p,
-p.post-msg-content {
-  text-indent: 2em;
+.icon-tips::before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f0eb\00a0";
+  font-size: 1em;
+  font-weight: 900;
+}
+/* DIV element with class
+/* P element with class */
+.msg-content p,
+p.msg-content {
   margin: 0;
 }
 @media (prefers-color-scheme: dark) {
-  .post-msg-normal,
-  .post-msg-normal-clock,
-  .post-msg-notice,
-  .post-msg-alert {
+  .msg {
     opacity: 0.8;
     color: #000;
     transition: all ease-out 250ms;
   }
-  .post-msg-normal:hover,
-  .post-msg-normal-clock:hover,
-  .post-msg-notice:hover,
-  .post-msg-alert:hover {
-    opacity: 1;
+  .msg:hover {
+    opacity: 0.9;
   }
-  .post-msg-normal .post-msg-title::before {
+  .icon-doc::before,
+  .icon-clock::before,
+  .icon-notice::before {
     font-weight: 100;
   }
-  .post-msg-normal-clock .post-msg-title::before {
+  .icon-tips::before {
     font-weight: 100;
-  }
-  .post-msg-notice .post-msg-title::before {
-    font-weight: 100;
-  }
-  .post-msg-alert .post-msg-title::before {
-    content: "\f06a\00a0";
   }
 }
