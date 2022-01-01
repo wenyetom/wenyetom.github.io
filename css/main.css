@@ -3491,10 +3491,10 @@ table {
   background-color: #eceaf0;
 }
 .status-info {
-  background-color: #b6c8e8;
+  background-color: #bcdbfc;
 }
 .status-alert {
-  background-color: #f8c4c0;
+  background-color: #ffd4d7;
 }
 .msg-title {
   font-weight: bold;
@@ -3549,6 +3549,17 @@ p.msg-content {
   }
   .msg:hover {
     opacity: 0.9;
+  }
+  .status-general a,
+  .status-info a,
+  .status-alert a {
+    color: #000;
+  }
+  .status-general a:hover,
+  .status-info a:hover,
+  .status-alert a:hover {
+    color: #3d3d3d;
+    border-bottom-color: #3d3d3d;
   }
   .icon-doc::before,
   .icon-clock::before,
