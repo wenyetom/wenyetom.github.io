@@ -576,14 +576,14 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/tags/Game/</loc>
+    <loc>https://wenyetom.github.io/tags/Monitor/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/tags/Monitor/</loc>
+    <loc>https://wenyetom.github.io/tags/Game/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -725,14 +725,7 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/review/</loc>
-    <lastmod>2022-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/acgn/season-anime/</loc>
+    <loc>https://wenyetom.github.io/categories/acgn/anime-movie/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -746,7 +739,14 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/acgn/anime-movie/</loc>
+    <loc>https://wenyetom.github.io/categories/unboxing/review/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/acgn/season-anime/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -767,14 +767,14 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/acgn/game/</loc>
+    <loc>https://wenyetom.github.io/categories/unboxing/computer-peripheral/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/computer-peripheral/</loc>
+    <loc>https://wenyetom.github.io/categories/acgn/game/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -795,14 +795,14 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/phone/</loc>
+    <loc>https://wenyetom.github.io/categories/acgn/completed-anime/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/acgn/completed-anime/</loc>
+    <loc>https://wenyetom.github.io/categories/unboxing/phone/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
