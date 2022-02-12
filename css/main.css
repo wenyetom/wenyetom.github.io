@@ -228,7 +228,7 @@ body {
   background: var(--body-bg-color);
   box-sizing: border-box;
   color: var(--text-color);
-  font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.125em;
   line-height: 2;
   min-height: 100%;
@@ -241,7 +241,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 30px 0 15px;
@@ -653,6 +653,9 @@ figure.highlight .gutter pre {
 figure.highlight .code pre {
   padding-left: 10px;
   width: 100%;
+}
+figure.highlight .marked {
+  background: rgba(0,0,0,0.3);
 }
 pre .caption,
 pre figcaption {
@@ -1264,7 +1267,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .header-inner {
-    width: 80%;
+    width: 85%;
   }
 }
 @media (min-width: 1600px) {
@@ -1308,7 +1311,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   line-height: 1.5;
@@ -1705,7 +1708,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .footer-inner {
-    width: 80%;
+    width: 85%;
   }
 }
 @media (min-width: 1600px) {
@@ -1951,7 +1954,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -2138,7 +2141,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: source-han-sans-traditional, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
@@ -2727,7 +2730,7 @@ mark.search-keyword {
 }
 @media (min-width: 1200px) {
   .main {
-    width: 80%;
+    width: 85%;
   }
 }
 @media (min-width: 1600px) {
@@ -3110,6 +3113,7 @@ mark.search-keyword {
 /* sidebar 文章目錄&本站概要（目前）：選中的顏色 */
 .sidebar-toc-active .sidebar-nav-toc:hover,
 .sidebar-overview-active .sidebar-nav-overview:hover {
+  border-bottom-color: #1488d4;
   color: #1488d4;
 }
 /* sidebar 文章目錄&本站概要（非目前）：選中的顏色 */
@@ -3320,7 +3324,7 @@ p {
 .gt-container .gt-header-preview {
   font-family: source-han-sans-traditional, 'Microsoft JhengHei', sans-serif;
 }
-/* 修復 Gitalk 在黑暗模式中顏色錯誤的問題 */
+/* Gitalk 黑暗模式 */
 @media (prefers-color-scheme: dark) {
   .gt-container .gt-header-textarea {
     background-color: #424242 !important;
@@ -3340,7 +3344,7 @@ p {
     border: 1px solid #909090;
   }
   .gt-container a.is--active {
-    color: #ddd;
+    color: #ddd !important;
   }
   .gt-container .gt-btn-preview {
     background-color: #2a2a2a !important;
@@ -3400,6 +3404,7 @@ table {
 .site-title {
   padding-top: 15px !important;
   padding-bottom: 15px !important;
+  font-weight: 0;
 }
 /* Footer 區域不顯示心形 icon */
 .with-love {
@@ -3486,7 +3491,7 @@ table {
   padding: 1.125rem;
   margin: 20px 10px 0;
 }
-/* Messages color */
+/* Messages background color */
 .status-general {
   background-color: #eceaf0;
 }
