@@ -1267,12 +1267,12 @@ pre code {
 }
 @media (min-width: 1200px) {
   .header-inner {
-    width: 85%;
+    width: 80%;
   }
 }
 @media (min-width: 1600px) {
   .header-inner {
-    width: 80%;
+    width: 75%;
   }
 }
 .site-brand-container {
@@ -1708,12 +1708,12 @@ pre code {
 }
 @media (min-width: 1200px) {
   .footer-inner {
-    width: 85%;
+    width: 80%;
   }
 }
 @media (min-width: 1600px) {
   .footer-inner {
-    width: 80%;
+    width: 75%;
   }
 }
 .use-motion .footer {
@@ -2730,12 +2730,12 @@ mark.search-keyword {
 }
 @media (min-width: 1200px) {
   .main {
-    width: 85%;
+    width: 80%;
   }
 }
 @media (min-width: 1600px) {
   .main {
-    width: 80%;
+    width: 75%;
   }
 }
 @media (max-width: 991px) {
@@ -2875,7 +2875,6 @@ mark.search-keyword {
   position: sticky;
   top: 12px;
   width: 280px;
-  visibility: hidden;
 }
 @media (max-width: 991px) {
   .sidebar {
@@ -3288,6 +3287,14 @@ p {
   border-radius: 5px;
   transition: all 150ms ease-in-out;
 }
+/* （黑暗模式）字體顏色 */
+@media (prefers-color-scheme: dark) {
+  .pagination .prev:hover,
+  .pagination .next:hover,
+  .pagination .page-number:hover {
+    color: #000;
+  }
+}
 /* Footer 字體大小 */
 .footer {
   font-size: 0.875em;
@@ -3322,7 +3329,7 @@ p {
 }
 /* Gitalk 輸入框預覽文字 */
 .gt-container .gt-header-preview {
-  font-family: source-han-sans-traditional, 'Microsoft JhengHei', sans-serif;
+  font-family: Noto Sans TC, 'Microsoft JhengHei', sans-serif;
 }
 /* Gitalk 黑暗模式 */
 @media (prefers-color-scheme: dark) {
@@ -3336,7 +3343,7 @@ p {
     background-color: #424242 !important;
   }
   .gt-container .gt-header-preview {
-    font-family: source-han-sans-traditional, 'Microsoft JhengHei', sans-serif;
+    font-family: Noto Sans TC, 'Microsoft JhengHei', sans-serif;
     color: #ddd;
   }
   .gt-container .gt-popup {
@@ -3350,6 +3357,26 @@ p {
     background-color: #2a2a2a !important;
     color: #ddd !important;
   }
+}
+/* FancyBox caption 位置調整 */
+.group-picture {
+  margin-bottom: 30px;
+}
+.post-body iframe,
+.post-body img,
+.post-body video,
+.post-body embed {
+  margin-bottom: 10px;
+}
+/* FancyBox caption 邊緣調整 */
+.post-body .image-caption,
+.post-body img + figcaption,
+.post-body .fancybox + figcaption {
+  margin: 10px auto 10px;
+}
+/* FancyBox with Group Picture 4-2 */
+.group-picture .group-picture-column {
+  margin-bottom: 40px;
 }
 /* 修正在手機上封面圖片下方間隙過大的問題 */
 @media (max-width: 767px) {
@@ -3381,7 +3408,11 @@ p {
     transform: none;
   }
 }
-/* 封面圖片（黑暗模式） */
+/* 文章內不執行縮放效果 */
+.post .post-gallery .post-gallery-image:hover img {
+  transform: none;
+}
+/* 圖片在黑暗模式的顯示效果 */
 @media (prefers-color-scheme: dark) {
   .post-gallery .post-gallery-image {
     opacity: 0.8;
@@ -3390,6 +3421,16 @@ p {
   }
   .post-gallery .post-gallery-image:hover {
     opacity: 0.9;
+  }
+  img:hover {
+    transition: all ease-out 150ms;
+    opacity: 0.9;
+  }
+  .fancybox-image {
+    opacity: 1;
+  }
+  img.fancybox-image:hover {
+    opacity: 1;
   }
 }
 /* 標題下的文章資訊區塊（首頁） */
