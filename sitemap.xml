@@ -2,9 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wenyetom.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/2020-summer-anime-review/</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/joseetora-review/</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/nintendo-switch-unboxing/</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/idoly-pride-review/</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/2021-spring-anime-review/</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/idoly-pride-game-review/</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/irocks-m40e-unboxing/</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-3/</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/suzuhara-lulu-birthday-goods-unboxing/</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wenyetom.github.io/about/index.html</loc>
     
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/priconne-give-statistics/</loc>
+    
+    <lastmod>2022-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/2022-winter-anime-review/</loc>
+    
+    <lastmod>2022-03-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -47,15 +164,6 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/posts/priconne-give-statistics/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wenyetom.github.io/404.html</loc>
     
     <lastmod>2021-11-20</lastmod>
@@ -83,45 +191,9 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/posts/idoly-pride-game-review/</loc>
-    
-    <lastmod>2021-10-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/using-waifu2x-with-gpu/</loc>
-    
-    <lastmod>2021-10-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/maquia-review/</loc>
-    
-    <lastmod>2021-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-6/</loc>
     
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-3/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
+    <lastmod>2021-09-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,340 +202,7 @@
   <url>
     <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-5/</loc>
     
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/suzuhara-lulu-birthday-goods-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-4/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/ugreen-gan-x-65w-charger-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/2021-summer-anime-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/irocks-m40e-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/2021-spring-anime-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-2/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-1/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/umamusume-season2-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/idoly-pride-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/gsc-popupgrade-yuna-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/nintendo-switch-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/ipad-air-4-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/2021-winter-anime-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/joseetora-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/2020-fall-anime-completed-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/asus-zenfone-7-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/cyberpunk-2077-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/ipad-7th-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/kimetsu-no-yaiba-movie-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/2020-fall-anime-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/girls-und-panzer-das-finale-part-1-and-2-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/otonari-no-tenshi-sama-volume-1-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/violet-evergarden-the-movie-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/ikea-flintan-nominell-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/benq-ew2770qz-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/fgo-waltz-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/2020-summer-anime-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/drytech-ad-72p-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/kaguya-season-2-bd-vol-1-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/shirobako-movie-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/2020-spring-anime-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/samsung-galaxy-a71-unboxing/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/saekano-fine-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/tiv-exhibition-2020-in-taipei/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/2020-winter-anime-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/posts/shojo-kageki-revue-starlight-the-live-1st-revival-review/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
+    <lastmod>2021-09-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -479,18 +218,225 @@
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/tags/index.html</loc>
+    <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-4/</loc>
     
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-08-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/index.html</loc>
+    <loc>https://wenyetom.github.io/posts/ugreen-gan-x-65w-charger-unboxing/</loc>
     
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/2021-summer-anime-review/</loc>
+    
+    <lastmod>2021-08-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-2/</loc>
+    
+    <lastmod>2021-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/hexo-guide-chapter-1/</loc>
+    
+    <lastmod>2021-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/umamusume-season2-review/</loc>
+    
+    <lastmod>2021-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/gsc-popupgrade-yuna-unboxing/</loc>
+    
+    <lastmod>2021-04-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/ipad-air-4-unboxing/</loc>
+    
+    <lastmod>2021-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/2021-winter-anime-review/</loc>
+    
+    <lastmod>2021-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/2020-fall-anime-completed-review/</loc>
+    
+    <lastmod>2021-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/asus-zenfone-7-review/</loc>
+    
+    <lastmod>2020-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/cyberpunk-2077-unboxing/</loc>
+    
+    <lastmod>2020-12-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/ipad-7th-unboxing/</loc>
+    
+    <lastmod>2020-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/2020-fall-anime-review/</loc>
+    
+    <lastmod>2020-10-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/kimetsu-no-yaiba-movie-review/</loc>
+    
+    <lastmod>2020-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/girls-und-panzer-das-finale-part-1-and-2-review/</loc>
+    
+    <lastmod>2020-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/otonari-no-tenshi-sama-volume-1-unboxing/</loc>
+    
+    <lastmod>2020-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/violet-evergarden-the-movie-review/</loc>
+    
+    <lastmod>2020-10-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/ikea-flintan-nominell-unboxing/</loc>
+    
+    <lastmod>2020-08-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/benq-ew2770qz-unboxing/</loc>
+    
+    <lastmod>2020-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/fgo-waltz-review/</loc>
+    
+    <lastmod>2020-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/using-waifu2x-with-gpu/</loc>
+    
+    <lastmod>2020-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/drytech-ad-72p-unboxing/</loc>
+    
+    <lastmod>2020-07-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/maquia-review/</loc>
+    
+    <lastmod>2020-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/shojo-kageki-revue-starlight-the-live-1st-revival-review/</loc>
+    
+    <lastmod>2020-07-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -499,7 +445,70 @@
   <url>
     <loc>https://wenyetom.github.io/posts/2019-fall-anime-review/</loc>
     
-    <lastmod>2019-11-02</lastmod>
+    <lastmod>2020-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/saekano-fine-review/</loc>
+    
+    <lastmod>2020-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/2020-winter-anime-review/</loc>
+    
+    <lastmod>2020-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/tiv-exhibition-2020-in-taipei/</loc>
+    
+    <lastmod>2020-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/samsung-galaxy-a71-unboxing/</loc>
+    
+    <lastmod>2020-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/2020-spring-anime-review/</loc>
+    
+    <lastmod>2020-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/shirobako-movie-review/</loc>
+    
+    <lastmod>2020-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/posts/kaguya-season-2-bd-vol-1-unboxing/</loc>
+    
+    <lastmod>2020-07-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -508,7 +517,7 @@
 
   <url>
     <loc>https://wenyetom.github.io/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -516,182 +525,182 @@
   
   <url>
     <loc>https://wenyetom.github.io/tags/Teach/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Hexo/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/tags/Anime/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Review/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/tags/Photography/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/tags/Exhibition/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <loc>https://wenyetom.github.io/tags/Anime/</loc>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Anime-Movie/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/tags/Photography/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/tags/Exhibition/</loc>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Unboxing/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Phone/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Blu-ray-Disc/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Game/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Monitor/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Statistics/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/LightNovel/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/iPad/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Daily/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Console/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Figure/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Mouse/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Charger/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/NIJISANJI/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Virtual-YouTuber/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Birthday-Goods/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/tags/Nendoroid/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/tags/Max-Factory/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/tags/Earphone/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/tags/Nendoroid/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/tags/Max-Factory/</loc>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -700,168 +709,168 @@
   
   <url>
     <loc>https://wenyetom.github.io/categories/teaching/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/acgn/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/categories/unboxing/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/acgn/season-anime/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/acgn/anime-movie/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/photography/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/acgn/other/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/bd-dvd/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <loc>https://wenyetom.github.io/categories/acgn/</loc>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/categories/unboxing/tablet/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/other/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <loc>https://wenyetom.github.io/categories/photography/</loc>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wenyetom.github.io/categories/acgn/game/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/computer-peripheral/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/book/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/photography/exhibition/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/phone/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/acgn/completed-anime/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/game-console/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <loc>https://wenyetom.github.io/categories/acgn/anime-movie/</loc>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/categories/unboxing/review/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/acgn/season-anime/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/unboxing/bd-dvd/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/acgn/other/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/unboxing/other/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/acgn/game/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/unboxing/computer-peripheral/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/unboxing/book/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/photography/exhibition/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/unboxing/phone/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/acgn/completed-anime/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/unboxing/game-console/</loc>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/categories/unboxing/figure/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/categories/teaching/hexo-guide/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/categories/unboxing/phone-accessories/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/categories/unboxing/vtuber-birthday-goods/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyetom.github.io/categories/unboxing/nendoroid/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wenyetom.github.io/categories/unboxing/headphone/</loc>
-    <lastmod>2022-03-20</lastmod>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyetom.github.io/categories/unboxing/nendoroid/</loc>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

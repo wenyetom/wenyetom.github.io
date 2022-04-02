@@ -52,16 +52,9 @@
 
 
 
-<script>
-  (function(d) {
-    var config = {
-      kitId: 'dwk0ozs',
-      scriptTimeout: 3000,
-      async: true
-    },
-    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-  })(document);
 
+
+<script>
   window.addEventListener("scroll", function() {
     const backToTop_Btn = document.querySelector('.back-to-top');
     const pageHeight = document.body.scrollHeight - window.innerHeight;
@@ -69,6 +62,7 @@
     backToTop_Btn.classList.toggle('back-to-top-disp', Math.round(scrollPercent) >= 5);
   });
 </script>
+
   <noscript>
     <link rel="stylesheet" href="/css/noscript.css">
   </noscript>
@@ -182,7 +176,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">50</span>
+          <span class="site-state-item-count">51</span>
           <span class="site-state-item-name">文章</span>
         </a>
       </div>
@@ -250,6 +244,34 @@
       </div>
 
       
+    <div class="collection-year">
+      <span class="collection-header">2022</span>
+    </div>
+
+  <article itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+      <div class="post-meta-container">
+        <time itemprop="dateCreated"
+              datetime="2022-03-26T14:46:00+08:00"
+              content="2022-03-26">
+          03-26
+        </time>
+      </div>
+
+      <div class="post-title">
+          <a class="post-title-link" href="/posts/2022-winter-anime-review/" itemprop="url">
+            <span itemprop="name">2022 年冬季動畫心得</span>
+          </a>
+      </div>
+
+      <div class="post-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+    
+    <div class="post-gallery-image">
+      <img src="https://storage.googleapis.com/salan_blog/2022_winter_anime_review_v2.webp" itemprop="contentUrl">
+    </div>
+    </div>
+    </header>
+  </article>
     <div class="collection-year">
       <span class="collection-header">2021</span>
     </div>
@@ -482,31 +504,6 @@
     </header>
   </article>
 
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2020-06-27T13:54:13+08:00"
-              content="2020-06-27">
-          06-27
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/posts/kaguya-season-2-bd-vol-1-unboxing/" itemprop="url">
-            <span itemprop="name">輝夜姬想讓人告白 第二季 BD Vol.1 開箱</span>
-          </a>
-      </div>
-
-      <div class="post-gallery" itemscope itemtype="http://schema.org/ImageGallery">
-    
-    <div class="post-gallery-image">
-      <img src="https://storage.googleapis.com/salan_blog/kaguya_season_2_bd_vol_1_unboxing.webp" itemprop="contentUrl">
-    </div>
-    </div>
-    </header>
-  </article>
-
     </div>
   </div>
   
@@ -536,13 +533,13 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-line"></i>
     </span>
-    <span title="總字數">58,421 字</span>
+    <span title="總字數">59,715 字</span>
   </span>
   <span class="post-meta-item">
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="總閱讀時間">1 小時 46 分鐘</span>
+    <span title="總閱讀時間">1 小時 49 分鐘</span>
   </span>
 </div>
   <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" rel="noopener" target="_blank">NexT.Gemini</a>

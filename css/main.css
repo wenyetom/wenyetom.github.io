@@ -1969,7 +1969,7 @@ pre code {
 }
 @media (max-width: 991px) {
   .post-body {
-    text-align: justify;
+    text-align: justify-all;
   }
 }
 .post-body h1 .header-anchor,
@@ -3138,7 +3138,7 @@ h4,
 h5,
 h6 {
   padding: 15px 0 10px 0;
-  margin: 20px 0 15px;
+  margin: 15px 0 15px;
 }
 /* H2（首頁）的字體格式 */
 h2.post-title {
@@ -3281,7 +3281,6 @@ p {
 .pagination .page-number {
   border-bottom: 0;
   border-top: 0;
-  width: 10px;
   height: 36px;
   font-size: 18px;
   border-radius: 5px;
@@ -3358,9 +3357,9 @@ p {
     color: #ddd !important;
   }
 }
-/* FancyBox caption 位置調整 */
+/* FancyBox 區塊調整 */
 .group-picture {
-  margin-bottom: 30px;
+  margin-bottom: 0;
 }
 .post-body iframe,
 .post-body img,
@@ -3378,6 +3377,11 @@ p {
 .group-picture .group-picture-column {
   margin-bottom: 40px;
 }
+/* 作者圖片加上 width 和 height */
+.site-author-image {
+  width: 100%;
+  height: 120px;
+}
 /* 修正在手機上封面圖片下方間隙過大的問題 */
 @media (max-width: 767px) {
   .post-gallery {
@@ -3389,6 +3393,12 @@ p {
   height: 100%;
   border-radius: 10px;
   overflow: hidden;
+}
+@media (max-width: 767px) {
+  .post-gallery .post-gallery-image {
+    width: 100%;
+    height: 120px;
+  }
 }
 .post-gallery .post-gallery-image img {
   border-radius: 10px;
